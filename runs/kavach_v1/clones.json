@@ -1,0 +1,47 @@
+{
+  "model": "kavach",
+  "real_itw_test_n": 2339,
+  "generators": {
+    "kokoro": {
+      "n": 46,
+      "eer_vs_itw_real": 0.0017101325352714691,
+      "eer_phone_line": 0.1080032343810993,
+      "detected_as_fake": 0.9782608695652174,
+      "called_real": 0.021739130434782608,
+      "three_way": {
+        "not_sure_rate": 0.0,
+        "accuracy_when_decided": 0.9987421383647799,
+        "fake_called_real": 0.021739130434782608,
+        "real_called_fake": 0.0008550662676357417
+      },
+      "hindi_detected_as_fake": 1.0
+    },
+    "rvc": {
+      "n": 97,
+      "eer_vs_itw_real": 0.010285036781072194,
+      "eer_phone_line": 0.010712569914890075,
+      "detected_as_fake": 0.9587628865979382,
+      "called_real": 0.041237113402061855,
+      "three_way": {
+        "not_sure_rate": 0.0,
+        "accuracy_when_decided": 0.9975369458128078,
+        "fake_called_real": 0.041237113402061855,
+        "real_called_fake": 0.0008550662676357417
+      }
+    },
+    "snac": {
+      "n": 300,
+      "eer_vs_itw_real": 0.07300698304118568,
+      "eer_phone_line": 0.08989097905087647,
+      "detected_as_fake": 0.48,
+      "called_real": 0.52,
+      "three_way": {
+        "not_sure_rate": 0.0,
+        "accuracy_when_decided": 0.9401288366805608,
+        "fake_called_real": 0.52,
+        "real_called_fake": 0.0008550662676357417
+      }
+    }
+  },
+  "user_tests": []
+}

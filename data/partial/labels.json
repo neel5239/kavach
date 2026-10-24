@@ -1,0 +1,1282 @@
+[
+ {
+  "path": "data\\partial\\test_000.wav",
+  "split": "test",
+  "speaker": "Nick Offerman",
+  "fake_start": 3.456,
+  "fake_end": 6.173,
+  "duration": 7.755
+ },
+ {
+  "path": "data\\partial\\test_001.wav",
+  "split": "test",
+  "speaker": "Malcolm X",
+  "fake_start": 0.981,
+  "fake_end": 3.553,
+  "duration": 7.125
+ },
+ {
+  "path": "data\\partial\\test_002.wav",
+  "split": "test",
+  "speaker": "Robert Kardashian",
+  "fake_start": 3.12,
+  "fake_end": 5.766,
+  "duration": 8.25
+ },
+ {
+  "path": "data\\partial\\test_003.wav",
+  "split": "test",
+  "speaker": "Nick Offerman",
+  "fake_start": 2.269,
+  "fake_end": 4.924,
+  "duration": 6.255
+ },
+ {
+  "path": "data\\partial\\test_004.wav",
+  "split": "test",
+  "speaker": "Queen Elizabeth II",
+  "fake_start": 3.784,
+  "fake_end": 6.725,
+  "duration": 7.418
+ },
+ {
+  "path": "data\\partial\\test_005.wav",
+  "split": "test",
+  "speaker": "Malcolm X",
+  "fake_start": 3.768,
+  "fake_end": 4.856,
+  "duration": 7.867
+ },
+ {
+  "path": "data\\partial\\test_006.wav",
+  "split": "test",
+  "speaker": "Richard Nixon",
+  "fake_start": 3.99,
+  "fake_end": 5.929,
+  "duration": 7.125
+ },
+ {
+  "path": "data\\partial\\test_007.wav",
+  "split": "test",
+  "speaker": "Queen Elizabeth II",
+  "fake_start": 3.193,
+  "fake_end": 4.647,
+  "duration": 6.275
+ },
+ {
+  "path": "data\\partial\\test_008.wav",
+  "split": "test",
+  "speaker": "Queen Elizabeth II",
+  "fake_start": 3.007,
+  "fake_end": 4.584,
+  "duration": 6.05
+ },
+ {
+  "path": "data\\partial\\test_009.wav",
+  "split": "test",
+  "speaker": "George W. Bush",
+  "fake_start": 2.595,
+  "fake_end": 4.924,
+  "duration": 6.1
+ },
+ {
+  "path": "data\\partial\\test_010.wav",
+  "split": "test",
+  "speaker": "George W. Bush",
+  "fake_start": 0.954,
+  "fake_end": 2.304,
+  "duration": 7.884
+ },
+ {
+  "path": "data\\partial\\test_011.wav",
+  "split": "test",
+  "speaker": "2Pac",
+  "fake_start": 1.466,
+  "fake_end": 4.172,
+  "duration": 7.634
+ },
+ {
+  "path": "data\\partial\\test_012.wav",
+  "split": "test",
+  "speaker": "Queen Elizabeth II",
+  "fake_start": 2.756,
+  "fake_end": 5.08,
+  "duration": 7.174
+ },
+ {
+  "path": "data\\partial\\test_013.wav",
+  "split": "test",
+  "speaker": "Malcolm X",
+  "fake_start": 2.997,
+  "fake_end": 4.301,
+  "duration": 7.125
+ },
+ {
+  "path": "data\\partial\\test_014.wav",
+  "split": "test",
+  "speaker": "George W. Bush",
+  "fake_start": 3.017,
+  "fake_end": 5.278,
+  "duration": 7.206
+ },
+ {
+  "path": "data\\partial\\test_015.wav",
+  "split": "test",
+  "speaker": "Nick Offerman",
+  "fake_start": 2.719,
+  "fake_end": 5.118,
+  "duration": 8.05
+ },
+ {
+  "path": "data\\partial\\test_016.wav",
+  "split": "test",
+  "speaker": "Queen Elizabeth II",
+  "fake_start": 3.51,
+  "fake_end": 6.027,
+  "duration": 9.426
+ },
+ {
+  "path": "data\\partial\\test_017.wav",
+  "split": "test",
+  "speaker": "Malcolm X",
+  "fake_start": 1.116,
+  "fake_end": 2.316,
+  "duration": 8.509
+ },
+ {
+  "path": "data\\partial\\test_018.wav",
+  "split": "test",
+  "speaker": "Louis Farrakhan",
+  "fake_start": 3.355,
+  "fake_end": 4.438,
+  "duration": 7.663
+ },
+ {
+  "path": "data\\partial\\test_019.wav",
+  "split": "test",
+  "speaker": "Queen Elizabeth II",
+  "fake_start": 3.469,
+  "fake_end": 5.719,
+  "duration": 6.05
+ },
+ {
+  "path": "data\\partial\\test_020.wav",
+  "split": "test",
+  "speaker": "George W. Bush",
+  "fake_start": 0.668,
+  "fake_end": 2.068,
+  "duration": 9.575
+ },
+ {
+  "path": "data\\partial\\test_021.wav",
+  "split": "test",
+  "speaker": "2Pac",
+  "fake_start": 5.344,
+  "fake_end": 7.325,
+  "duration": 7.947
+ },
+ {
+  "path": "data\\partial\\test_022.wav",
+  "split": "test",
+  "speaker": "Queen Elizabeth II",
+  "fake_start": 2.898,
+  "fake_end": 4.561,
+  "duration": 7.068
+ },
+ {
+  "path": "data\\partial\\test_023.wav",
+  "split": "test",
+  "speaker": "George W. Bush",
+  "fake_start": 3.918,
+  "fake_end": 5.199,
+  "duration": 8.25
+ },
+ {
+  "path": "data\\partial\\test_024.wav",
+  "split": "test",
+  "speaker": "Nick Offerman",
+  "fake_start": 4.186,
+  "fake_end": 6.64,
+  "duration": 8.05
+ },
+ {
+  "path": "data\\partial\\test_025.wav",
+  "split": "test",
+  "speaker": "Queen Elizabeth II",
+  "fake_start": 0.777,
+  "fake_end": 2.237,
+  "duration": 9.664
+ },
+ {
+  "path": "data\\partial\\test_026.wav",
+  "split": "test",
+  "speaker": "Billie Eilish",
+  "fake_start": 3.752,
+  "fake_end": 6.412,
+  "duration": 7.484
+ },
+ {
+  "path": "data\\partial\\test_027.wav",
+  "split": "test",
+  "speaker": "Richard Nixon",
+  "fake_start": 4.411,
+  "fake_end": 6.111,
+  "duration": 7.125
+ },
+ {
+  "path": "data\\partial\\test_028.wav",
+  "split": "test",
+  "speaker": "Malcolm X",
+  "fake_start": 1.993,
+  "fake_end": 3.043,
+  "duration": 6.3
+ },
+ {
+  "path": "data\\partial\\test_029.wav",
+  "split": "test",
+  "speaker": "George W. Bush",
+  "fake_start": 0.531,
+  "fake_end": 2.056,
+  "duration": 8.25
+ },
+ {
+  "path": "data\\partial\\test_030.wav",
+  "split": "test",
+  "speaker": "Queen Elizabeth II",
+  "fake_start": 1.602,
+  "fake_end": 3.552,
+  "duration": 6.3
+ },
+ {
+  "path": "data\\partial\\test_031.wav",
+  "split": "test",
+  "speaker": "Billie Eilish",
+  "fake_start": 1.59,
+  "fake_end": 2.618,
+  "duration": 6.576
+ },
+ {
+  "path": "data\\partial\\test_032.wav",
+  "split": "test",
+  "speaker": "2Pac",
+  "fake_start": 3.357,
+  "fake_end": 4.482,
+  "duration": 8.777
+ },
+ {
+  "path": "data\\partial\\test_033.wav",
+  "split": "test",
+  "speaker": "Queen Elizabeth II",
+  "fake_start": 5.293,
+  "fake_end": 6.468,
+  "duration": 8.675
+ },
+ {
+  "path": "data\\partial\\test_034.wav",
+  "split": "test",
+  "speaker": "Billie Eilish",
+  "fake_start": 2.641,
+  "fake_end": 4.436,
+  "duration": 9.71
+ },
+ {
+  "path": "data\\partial\\test_035.wav",
+  "split": "test",
+  "speaker": "Malcolm X",
+  "fake_start": 1.915,
+  "fake_end": 4.826,
+  "duration": 8.651
+ },
+ {
+  "path": "data\\partial\\test_036.wav",
+  "split": "test",
+  "speaker": "Calvin Coolidge",
+  "fake_start": 1.072,
+  "fake_end": 2.107,
+  "duration": 7.075
+ },
+ {
+  "path": "data\\partial\\test_037.wav",
+  "split": "test",
+  "speaker": "Queen Elizabeth II",
+  "fake_start": 2.252,
+  "fake_end": 4.458,
+  "duration": 9.05
+ },
+ {
+  "path": "data\\partial\\test_038.wav",
+  "split": "test",
+  "speaker": "Billie Eilish",
+  "fake_start": 4.928,
+  "fake_end": 7.232,
+  "duration": 7.704
+ },
+ {
+  "path": "data\\partial\\test_039.wav",
+  "split": "test",
+  "speaker": "2Pac",
+  "fake_start": 5.075,
+  "fake_end": 6.286,
+  "duration": 7.2
+ },
+ {
+  "path": "data\\partial\\test_040.wav",
+  "split": "test",
+  "speaker": "Queen Elizabeth II",
+  "fake_start": 5.79,
+  "fake_end": 7.411,
+  "duration": 8.15
+ },
+ {
+  "path": "data\\partial\\test_041.wav",
+  "split": "test",
+  "speaker": "Billie Eilish",
+  "fake_start": 2.979,
+  "fake_end": 4.548,
+  "duration": 6.662
+ },
+ {
+  "path": "data\\partial\\test_042.wav",
+  "split": "test",
+  "speaker": "2Pac",
+  "fake_start": 2.167,
+  "fake_end": 4.35,
+  "duration": 6.213
+ },
+ {
+  "path": "data\\partial\\test_043.wav",
+  "split": "test",
+  "speaker": "Nick Offerman",
+  "fake_start": 4.012,
+  "fake_end": 5.712,
+  "duration": 7.272
+ },
+ {
+  "path": "data\\partial\\test_044.wav",
+  "split": "test",
+  "speaker": "2Pac",
+  "fake_start": 1.789,
+  "fake_end": 3.622,
+  "duration": 7.2
+ },
+ {
+  "path": "data\\partial\\test_045.wav",
+  "split": "test",
+  "speaker": "Billie Eilish",
+  "fake_start": 5.001,
+  "fake_end": 6.199,
+  "duration": 7.375
+ },
+ {
+  "path": "data\\partial\\test_046.wav",
+  "split": "test",
+  "speaker": "Queen Elizabeth II",
+  "fake_start": 3.398,
+  "fake_end": 5.248,
+  "duration": 8.057
+ },
+ {
+  "path": "data\\partial\\test_047.wav",
+  "split": "test",
+  "speaker": "Malcolm X",
+  "fake_start": 0.793,
+  "fake_end": 2.326,
+  "duration": 7.125
+ },
+ {
+  "path": "data\\partial\\test_048.wav",
+  "split": "test",
+  "speaker": "2Pac",
+  "fake_start": 2.02,
+  "fake_end": 3.753,
+  "duration": 7.175
+ },
+ {
+  "path": "data\\partial\\test_049.wav",
+  "split": "test",
+  "speaker": "Queen Elizabeth II",
+  "fake_start": 3.698,
+  "fake_end": 6.596,
+  "duration": 7.188
+ },
+ {
+  "path": "data\\partial\\test_050.wav",
+  "split": "test",
+  "speaker": "Malcolm X",
+  "fake_start": 5.024,
+  "fake_end": 6.6,
+  "duration": 8.532
+ },
+ {
+  "path": "data\\partial\\test_051.wav",
+  "split": "test",
+  "speaker": "George W. Bush",
+  "fake_start": 5.033,
+  "fake_end": 6.298,
+  "duration": 9.443
+ },
+ {
+  "path": "data\\partial\\test_052.wav",
+  "split": "test",
+  "speaker": "Billie Eilish",
+  "fake_start": 2.768,
+  "fake_end": 5.686,
+  "duration": 6.55
+ },
+ {
+  "path": "data\\partial\\test_053.wav",
+  "split": "test",
+  "speaker": "Nick Offerman",
+  "fake_start": 4.425,
+  "fake_end": 5.615,
+  "duration": 8.36
+ },
+ {
+  "path": "data\\partial\\test_054.wav",
+  "split": "test",
+  "speaker": "Queen Elizabeth II",
+  "fake_start": 2.751,
+  "fake_end": 4.896,
+  "duration": 7.775
+ },
+ {
+  "path": "data\\partial\\test_055.wav",
+  "split": "test",
+  "speaker": "Queen Elizabeth II",
+  "fake_start": 0.89,
+  "fake_end": 2.124,
+  "duration": 6.479
+ },
+ {
+  "path": "data\\partial\\test_056.wav",
+  "split": "test",
+  "speaker": "Malcolm X",
+  "fake_start": 3.707,
+  "fake_end": 4.982,
+  "duration": 6.0
+ },
+ {
+  "path": "data\\partial\\test_057.wav",
+  "split": "test",
+  "speaker": "2Pac",
+  "fake_start": 3.911,
+  "fake_end": 5.811,
+  "duration": 7.375
+ },
+ {
+  "path": "data\\partial\\test_058.wav",
+  "split": "test",
+  "speaker": "Billie Eilish",
+  "fake_start": 4.003,
+  "fake_end": 6.439,
+  "duration": 7.375
+ },
+ {
+  "path": "data\\partial\\test_059.wav",
+  "split": "test",
+  "speaker": "George W. Bush",
+  "fake_start": 7.192,
+  "fake_end": 8.783,
+  "duration": 9.302
+ },
+ {
+  "path": "data\\partial\\test_060.wav",
+  "split": "test",
+  "speaker": "Malcolm X",
+  "fake_start": 0.622,
+  "fake_end": 3.497,
+  "duration": 6.442
+ },
+ {
+  "path": "data\\partial\\test_061.wav",
+  "split": "test",
+  "speaker": "Calvin Coolidge",
+  "fake_start": 5.383,
+  "fake_end": 6.596,
+  "duration": 9.348
+ },
+ {
+  "path": "data\\partial\\test_062.wav",
+  "split": "test",
+  "speaker": "Richard Nixon",
+  "fake_start": 2.063,
+  "fake_end": 3.121,
+  "duration": 8.35
+ },
+ {
+  "path": "data\\partial\\test_063.wav",
+  "split": "test",
+  "speaker": "Malcolm X",
+  "fake_start": 6.439,
+  "fake_end": 8.751,
+  "duration": 9.643
+ },
+ {
+  "path": "data\\partial\\test_064.wav",
+  "split": "test",
+  "speaker": "George W. Bush",
+  "fake_start": 5.336,
+  "fake_end": 7.939,
+  "duration": 8.424
+ },
+ {
+  "path": "data\\partial\\test_065.wav",
+  "split": "test",
+  "speaker": "Nick Offerman",
+  "fake_start": 2.9,
+  "fake_end": 4.15,
+  "duration": 6.807
+ },
+ {
+  "path": "data\\partial\\test_066.wav",
+  "split": "test",
+  "speaker": "Queen Elizabeth II",
+  "fake_start": 1.279,
+  "fake_end": 3.981,
+  "duration": 8.52
+ },
+ {
+  "path": "data\\partial\\test_067.wav",
+  "split": "test",
+  "speaker": "Malcolm X",
+  "fake_start": 2.397,
+  "fake_end": 4.817,
+  "duration": 6.85
+ },
+ {
+  "path": "data\\partial\\test_068.wav",
+  "split": "test",
+  "speaker": "Calvin Coolidge",
+  "fake_start": 0.514,
+  "fake_end": 2.747,
+  "duration": 6.218
+ },
+ {
+  "path": "data\\partial\\test_069.wav",
+  "split": "test",
+  "speaker": "Malcolm X",
+  "fake_start": 4.543,
+  "fake_end": 6.218,
+  "duration": 9.92
+ },
+ {
+  "path": "data\\partial\\test_070.wav",
+  "split": "test",
+  "speaker": "Richard Nixon",
+  "fake_start": 5.07,
+  "fake_end": 6.645,
+  "duration": 7.205
+ },
+ {
+  "path": "data\\partial\\test_071.wav",
+  "split": "test",
+  "speaker": "Malcolm X",
+  "fake_start": 1.182,
+  "fake_end": 2.232,
+  "duration": 7.125
+ },
+ {
+  "path": "data\\partial\\test_072.wav",
+  "split": "test",
+  "speaker": "Malcolm X",
+  "fake_start": 4.266,
+  "fake_end": 6.083,
+  "duration": 7.1
+ },
+ {
+  "path": "data\\partial\\test_073.wav",
+  "split": "test",
+  "speaker": "George W. Bush",
+  "fake_start": 2.174,
+  "fake_end": 4.011,
+  "duration": 6.144
+ },
+ {
+  "path": "data\\partial\\test_074.wav",
+  "split": "test",
+  "speaker": "2Pac",
+  "fake_start": 3.577,
+  "fake_end": 4.602,
+  "duration": 7.2
+ },
+ {
+  "path": "data\\partial\\test_075.wav",
+  "split": "test",
+  "speaker": "Billie Eilish",
+  "fake_start": 4.136,
+  "fake_end": 6.609,
+  "duration": 7.375
+ },
+ {
+  "path": "data\\partial\\test_076.wav",
+  "split": "test",
+  "speaker": "2Pac",
+  "fake_start": 2.276,
+  "fake_end": 3.726,
+  "duration": 6.875
+ },
+ {
+  "path": "data\\partial\\test_077.wav",
+  "split": "test",
+  "speaker": "George W. Bush",
+  "fake_start": 1.31,
+  "fake_end": 3.085,
+  "duration": 7.256
+ },
+ {
+  "path": "data\\partial\\test_078.wav",
+  "split": "test",
+  "speaker": "Queen Elizabeth II",
+  "fake_start": 2.915,
+  "fake_end": 5.117,
+  "duration": 6.614
+ },
+ {
+  "path": "data\\partial\\test_079.wav",
+  "split": "test",
+  "speaker": "Billie Eilish",
+  "fake_start": 3.217,
+  "fake_end": 6.208,
+  "duration": 9.834
+ },
+ {
+  "path": "data\\partial\\test_080.wav",
+  "split": "test",
+  "speaker": "Malcolm X",
+  "fake_start": 2.599,
+  "fake_end": 3.799,
+  "duration": 8.751
+ },
+ {
+  "path": "data\\partial\\test_081.wav",
+  "split": "test",
+  "speaker": "Billie Eilish",
+  "fake_start": 3.437,
+  "fake_end": 6.11,
+  "duration": 6.664
+ },
+ {
+  "path": "data\\partial\\test_082.wav",
+  "split": "test",
+  "speaker": "Malcolm X",
+  "fake_start": 2.677,
+  "fake_end": 5.658,
+  "duration": 7.125
+ },
+ {
+  "path": "data\\partial\\test_083.wav",
+  "split": "test",
+  "speaker": "George W. Bush",
+  "fake_start": 0.624,
+  "fake_end": 3.135,
+  "duration": 6.32
+ },
+ {
+  "path": "data\\partial\\test_084.wav",
+  "split": "test",
+  "speaker": "Billie Eilish",
+  "fake_start": 1.253,
+  "fake_end": 2.719,
+  "duration": 6.179
+ },
+ {
+  "path": "data\\partial\\test_085.wav",
+  "split": "test",
+  "speaker": "Billie Eilish",
+  "fake_start": 2.718,
+  "fake_end": 5.016,
+  "duration": 8.55
+ },
+ {
+  "path": "data\\partial\\test_086.wav",
+  "split": "test",
+  "speaker": "Malcolm X",
+  "fake_start": 3.251,
+  "fake_end": 4.984,
+  "duration": 6.232
+ },
+ {
+  "path": "data\\partial\\test_087.wav",
+  "split": "test",
+  "speaker": "George W. Bush",
+  "fake_start": 3.665,
+  "fake_end": 6.203,
+  "duration": 7.93
+ },
+ {
+  "path": "data\\partial\\test_088.wav",
+  "split": "test",
+  "speaker": "2Pac",
+  "fake_start": 0.554,
+  "fake_end": 1.909,
+  "duration": 8.523
+ },
+ {
+  "path": "data\\partial\\test_089.wav",
+  "split": "test",
+  "speaker": "Nick Offerman",
+  "fake_start": 1.596,
+  "fake_end": 4.45,
+  "duration": 6.099
+ },
+ {
+  "path": "data\\partial\\test_090.wav",
+  "split": "test",
+  "speaker": "Billie Eilish",
+  "fake_start": 1.125,
+  "fake_end": 2.681,
+  "duration": 6.029
+ },
+ {
+  "path": "data\\partial\\test_091.wav",
+  "split": "test",
+  "speaker": "Queen Elizabeth II",
+  "fake_start": 3.302,
+  "fake_end": 5.743,
+  "duration": 6.15
+ },
+ {
+  "path": "data\\partial\\test_092.wav",
+  "split": "test",
+  "speaker": "Malcolm X",
+  "fake_start": 3.083,
+  "fake_end": 5.548,
+  "duration": 6.456
+ },
+ {
+  "path": "data\\partial\\test_093.wav",
+  "split": "test",
+  "speaker": "Calvin Coolidge",
+  "fake_start": 0.858,
+  "fake_end": 3.797,
+  "duration": 7.075
+ },
+ {
+  "path": "data\\partial\\test_094.wav",
+  "split": "test",
+  "speaker": "Bill Clinton",
+  "fake_start": 1.306,
+  "fake_end": 2.999,
+  "duration": 9.0
+ },
+ {
+  "path": "data\\partial\\test_095.wav",
+  "split": "test",
+  "speaker": "2Pac",
+  "fake_start": 6.738,
+  "fake_end": 8.718,
+  "duration": 9.109
+ },
+ {
+  "path": "data\\partial\\test_096.wav",
+  "split": "test",
+  "speaker": "Queen Elizabeth II",
+  "fake_start": 3.828,
+  "fake_end": 5.553,
+  "duration": 7.646
+ },
+ {
+  "path": "data\\partial\\test_097.wav",
+  "split": "test",
+  "speaker": "Calvin Coolidge",
+  "fake_start": 1.991,
+  "fake_end": 4.636,
+  "duration": 9.699
+ },
+ {
+  "path": "data\\partial\\test_098.wav",
+  "split": "test",
+  "speaker": "George W. Bush",
+  "fake_start": 5.704,
+  "fake_end": 6.763,
+  "duration": 8.709
+ },
+ {
+  "path": "data\\partial\\test_099.wav",
+  "split": "test",
+  "speaker": "Billie Eilish",
+  "fake_start": 4.007,
+  "fake_end": 6.713,
+  "duration": 7.392
+ },
+ {
+  "path": "data\\partial\\cal_000.wav",
+  "split": "cal",
+  "speaker": "The Notorious B.I.G.",
+  "fake_start": 2.671,
+  "fake_end": 4.221,
+  "duration": 6.3
+ },
+ {
+  "path": "data\\partial\\cal_001.wav",
+  "split": "cal",
+  "speaker": "Dave Chappelle",
+  "fake_start": 5.604,
+  "fake_end": 8.219,
+  "duration": 8.525
+ },
+ {
+  "path": "data\\partial\\cal_002.wav",
+  "split": "cal",
+  "speaker": "FDR",
+  "fake_start": 4.541,
+  "fake_end": 6.942,
+  "duration": 9.99
+ },
+ {
+  "path": "data\\partial\\cal_003.wav",
+  "split": "cal",
+  "speaker": "Bernie Sanders",
+  "fake_start": 1.773,
+  "fake_end": 3.698,
+  "duration": 6.425
+ },
+ {
+  "path": "data\\partial\\cal_004.wav",
+  "split": "cal",
+  "speaker": "Dave Chappelle",
+  "fake_start": 0.572,
+  "fake_end": 1.976,
+  "duration": 6.269
+ },
+ {
+  "path": "data\\partial\\cal_005.wav",
+  "split": "cal",
+  "speaker": "Bernie Sanders",
+  "fake_start": 5.039,
+  "fake_end": 6.88,
+  "duration": 7.373
+ },
+ {
+  "path": "data\\partial\\cal_006.wav",
+  "split": "cal",
+  "speaker": "The Notorious B.I.G.",
+  "fake_start": 4.864,
+  "fake_end": 6.139,
+  "duration": 6.94
+ },
+ {
+  "path": "data\\partial\\cal_007.wav",
+  "split": "cal",
+  "speaker": "The Notorious B.I.G.",
+  "fake_start": 3.576,
+  "fake_end": 5.453,
+  "duration": 9.135
+ },
+ {
+  "path": "data\\partial\\cal_008.wav",
+  "split": "cal",
+  "speaker": "Dave Chappelle",
+  "fake_start": 4.328,
+  "fake_end": 5.778,
+  "duration": 7.95
+ },
+ {
+  "path": "data\\partial\\cal_009.wav",
+  "split": "cal",
+  "speaker": "Dave Chappelle",
+  "fake_start": 2.388,
+  "fake_end": 4.638,
+  "duration": 6.408
+ },
+ {
+  "path": "data\\partial\\cal_010.wav",
+  "split": "cal",
+  "speaker": "Bernie Sanders",
+  "fake_start": 6.125,
+  "fake_end": 7.196,
+  "duration": 7.732
+ },
+ {
+  "path": "data\\partial\\cal_011.wav",
+  "split": "cal",
+  "speaker": "The Notorious B.I.G.",
+  "fake_start": 0.754,
+  "fake_end": 2.246,
+  "duration": 6.164
+ },
+ {
+  "path": "data\\partial\\cal_012.wav",
+  "split": "cal",
+  "speaker": "Dave Chappelle",
+  "fake_start": 0.766,
+  "fake_end": 2.316,
+  "duration": 7.95
+ },
+ {
+  "path": "data\\partial\\cal_013.wav",
+  "split": "cal",
+  "speaker": "FDR",
+  "fake_start": 4.422,
+  "fake_end": 5.543,
+  "duration": 7.538
+ },
+ {
+  "path": "data\\partial\\cal_014.wav",
+  "split": "cal",
+  "speaker": "Dave Chappelle",
+  "fake_start": 0.508,
+  "fake_end": 2.341,
+  "duration": 7.577
+ },
+ {
+  "path": "data\\partial\\cal_015.wav",
+  "split": "cal",
+  "speaker": "Dave Chappelle",
+  "fake_start": 2.089,
+  "fake_end": 4.068,
+  "duration": 7.55
+ },
+ {
+  "path": "data\\partial\\cal_016.wav",
+  "split": "cal",
+  "speaker": "The Notorious B.I.G.",
+  "fake_start": 3.97,
+  "fake_end": 5.22,
+  "duration": 6.175
+ },
+ {
+  "path": "data\\partial\\cal_017.wav",
+  "split": "cal",
+  "speaker": "Dave Chappelle",
+  "fake_start": 1.585,
+  "fake_end": 3.951,
+  "duration": 7.919
+ },
+ {
+  "path": "data\\partial\\cal_018.wav",
+  "split": "cal",
+  "speaker": "Mr. Rogers",
+  "fake_start": 4.105,
+  "fake_end": 5.202,
+  "duration": 9.722
+ },
+ {
+  "path": "data\\partial\\cal_019.wav",
+  "split": "cal",
+  "speaker": "Dave Chappelle",
+  "fake_start": 0.762,
+  "fake_end": 3.599,
+  "duration": 6.553
+ },
+ {
+  "path": "data\\partial\\cal_020.wav",
+  "split": "cal",
+  "speaker": "Bernie Sanders",
+  "fake_start": 0.623,
+  "fake_end": 2.348,
+  "duration": 6.442
+ },
+ {
+  "path": "data\\partial\\cal_021.wav",
+  "split": "cal",
+  "speaker": "Dave Chappelle",
+  "fake_start": 2.902,
+  "fake_end": 5.601,
+  "duration": 8.361
+ },
+ {
+  "path": "data\\partial\\cal_022.wav",
+  "split": "cal",
+  "speaker": "Dave Chappelle",
+  "fake_start": 1.505,
+  "fake_end": 3.055,
+  "duration": 8.525
+ },
+ {
+  "path": "data\\partial\\cal_023.wav",
+  "split": "cal",
+  "speaker": "Dave Chappelle",
+  "fake_start": 0.982,
+  "fake_end": 2.532,
+  "duration": 8.414
+ },
+ {
+  "path": "data\\partial\\cal_024.wav",
+  "split": "cal",
+  "speaker": "Dave Chappelle",
+  "fake_start": 3.666,
+  "fake_end": 5.098,
+  "duration": 8.375
+ },
+ {
+  "path": "data\\partial\\cal_025.wav",
+  "split": "cal",
+  "speaker": "Dave Chappelle",
+  "fake_start": 4.395,
+  "fake_end": 5.433,
+  "duration": 7.386
+ },
+ {
+  "path": "data\\partial\\cal_026.wav",
+  "split": "cal",
+  "speaker": "Mr. Rogers",
+  "fake_start": 3.079,
+  "fake_end": 5.556,
+  "duration": 6.4
+ },
+ {
+  "path": "data\\partial\\cal_027.wav",
+  "split": "cal",
+  "speaker": "Dave Chappelle",
+  "fake_start": 3.561,
+  "fake_end": 4.849,
+  "duration": 6.504
+ },
+ {
+  "path": "data\\partial\\cal_028.wav",
+  "split": "cal",
+  "speaker": "FDR",
+  "fake_start": 5.275,
+  "fake_end": 6.283,
+  "duration": 6.975
+ },
+ {
+  "path": "data\\partial\\cal_029.wav",
+  "split": "cal",
+  "speaker": "Dave Chappelle",
+  "fake_start": 0.765,
+  "fake_end": 3.56,
+  "duration": 6.508
+ },
+ {
+  "path": "data\\partial\\cal_030.wav",
+  "split": "cal",
+  "speaker": "Dave Chappelle",
+  "fake_start": 0.924,
+  "fake_end": 3.113,
+  "duration": 6.202
+ },
+ {
+  "path": "data\\partial\\cal_031.wav",
+  "split": "cal",
+  "speaker": "Dave Chappelle",
+  "fake_start": 3.702,
+  "fake_end": 5.209,
+  "duration": 7.55
+ },
+ {
+  "path": "data\\partial\\cal_032.wav",
+  "split": "cal",
+  "speaker": "FDR",
+  "fake_start": 3.742,
+  "fake_end": 6.194,
+  "duration": 7.5
+ },
+ {
+  "path": "data\\partial\\cal_033.wav",
+  "split": "cal",
+  "speaker": "The Notorious B.I.G.",
+  "fake_start": 4.254,
+  "fake_end": 6.092,
+  "duration": 9.934
+ },
+ {
+  "path": "data\\partial\\cal_034.wav",
+  "split": "cal",
+  "speaker": "Dave Chappelle",
+  "fake_start": 2.584,
+  "fake_end": 4.625,
+  "duration": 7.95
+ },
+ {
+  "path": "data\\partial\\cal_035.wav",
+  "split": "cal",
+  "speaker": "Dave Chappelle",
+  "fake_start": 6.679,
+  "fake_end": 7.978,
+  "duration": 8.525
+ },
+ {
+  "path": "data\\partial\\cal_036.wav",
+  "split": "cal",
+  "speaker": "Dave Chappelle",
+  "fake_start": 0.996,
+  "fake_end": 2.121,
+  "duration": 7.516
+ },
+ {
+  "path": "data\\partial\\cal_037.wav",
+  "split": "cal",
+  "speaker": "Mr. Rogers",
+  "fake_start": 3.252,
+  "fake_end": 5.391,
+  "duration": 9.132
+ },
+ {
+  "path": "data\\partial\\cal_038.wav",
+  "split": "cal",
+  "speaker": "Dave Chappelle",
+  "fake_start": 1.758,
+  "fake_end": 2.804,
+  "duration": 7.825
+ },
+ {
+  "path": "data\\partial\\cal_039.wav",
+  "split": "cal",
+  "speaker": "Bernie Sanders",
+  "fake_start": 2.233,
+  "fake_end": 4.45,
+  "duration": 6.0
+ },
+ {
+  "path": "data\\partial\\cal_040.wav",
+  "split": "cal",
+  "speaker": "The Notorious B.I.G.",
+  "fake_start": 1.19,
+  "fake_end": 2.452,
+  "duration": 6.3
+ },
+ {
+  "path": "data\\partial\\cal_041.wav",
+  "split": "cal",
+  "speaker": "Dave Chappelle",
+  "fake_start": 1.389,
+  "fake_end": 4.298,
+  "duration": 7.358
+ },
+ {
+  "path": "data\\partial\\cal_042.wav",
+  "split": "cal",
+  "speaker": "The Notorious B.I.G.",
+  "fake_start": 4.374,
+  "fake_end": 5.778,
+  "duration": 6.175
+ },
+ {
+  "path": "data\\partial\\cal_043.wav",
+  "split": "cal",
+  "speaker": "Dave Chappelle",
+  "fake_start": 1.169,
+  "fake_end": 2.688,
+  "duration": 7.55
+ },
+ {
+  "path": "data\\partial\\cal_044.wav",
+  "split": "cal",
+  "speaker": "Bernie Sanders",
+  "fake_start": 4.265,
+  "fake_end": 5.69,
+  "duration": 6.15
+ },
+ {
+  "path": "data\\partial\\cal_045.wav",
+  "split": "cal",
+  "speaker": "Dave Chappelle",
+  "fake_start": 1.661,
+  "fake_end": 4.191,
+  "duration": 7.179
+ },
+ {
+  "path": "data\\partial\\cal_046.wav",
+  "split": "cal",
+  "speaker": "Dave Chappelle",
+  "fake_start": 2.963,
+  "fake_end": 4.107,
+  "duration": 7.95
+ },
+ {
+  "path": "data\\partial\\cal_047.wav",
+  "split": "cal",
+  "speaker": "FDR",
+  "fake_start": 5.759,
+  "fake_end": 6.953,
+  "duration": 8.212
+ },
+ {
+  "path": "data\\partial\\cal_048.wav",
+  "split": "cal",
+  "speaker": "Dave Chappelle",
+  "fake_start": 1.631,
+  "fake_end": 3.181,
+  "duration": 9.408
+ },
+ {
+  "path": "data\\partial\\cal_049.wav",
+  "split": "cal",
+  "speaker": "The Notorious B.I.G.",
+  "fake_start": 0.59,
+  "fake_end": 3.11,
+  "duration": 6.3
+ },
+ {
+  "path": "data\\partial\\cal_050.wav",
+  "split": "cal",
+  "speaker": "FDR",
+  "fake_start": 3.947,
+  "fake_end": 5.476,
+  "duration": 6.402
+ },
+ {
+  "path": "data\\partial\\cal_051.wav",
+  "split": "cal",
+  "speaker": "Dave Chappelle",
+  "fake_start": 4.413,
+  "fake_end": 5.903,
+  "duration": 7.799
+ },
+ {
+  "path": "data\\partial\\cal_052.wav",
+  "split": "cal",
+  "speaker": "FDR",
+  "fake_start": 3.737,
+  "fake_end": 5.798,
+  "duration": 7.357
+ },
+ {
+  "path": "data\\partial\\cal_053.wav",
+  "split": "cal",
+  "speaker": "The Notorious B.I.G.",
+  "fake_start": 0.806,
+  "fake_end": 2.182,
+  "duration": 6.3
+ },
+ {
+  "path": "data\\partial\\cal_054.wav",
+  "split": "cal",
+  "speaker": "Dave Chappelle",
+  "fake_start": 5.262,
+  "fake_end": 6.812,
+  "duration": 8.119
+ },
+ {
+  "path": "data\\partial\\cal_055.wav",
+  "split": "cal",
+  "speaker": "Dave Chappelle",
+  "fake_start": 5.047,
+  "fake_end": 7.297,
+  "duration": 7.825
+ },
+ {
+  "path": "data\\partial\\cal_056.wav",
+  "split": "cal",
+  "speaker": "Bernie Sanders",
+  "fake_start": 0.636,
+  "fake_end": 2.142,
+  "duration": 6.831
+ },
+ {
+  "path": "data\\partial\\cal_057.wav",
+  "split": "cal",
+  "speaker": "Dave Chappelle",
+  "fake_start": 0.806,
+  "fake_end": 3.023,
+  "duration": 7.286
+ },
+ {
+  "path": "data\\partial\\cal_058.wav",
+  "split": "cal",
+  "speaker": "FDR",
+  "fake_start": 4.48,
+  "fake_end": 5.854,
+  "duration": 6.2
+ },
+ {
+  "path": "data\\partial\\cal_059.wav",
+  "split": "cal",
+  "speaker": "Bernie Sanders",
+  "fake_start": 1.392,
+  "fake_end": 3.33,
+  "duration": 8.575
+ }
+]

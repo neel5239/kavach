@@ -1,0 +1,1632 @@
+{
+ "n_real": 100,
+ "n_fake": 100,
+ "snr_db": 15,
+ "raw": {
+  "fake_caught": 0.54,
+  "real_false_alarm": 0.01
+ },
+ "denoised": {
+  "fake_caught": 0.83,
+  "real_false_alarm": 0.07
+ },
+ "rows": [
+  {
+   "name": "real_000",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "NOT SURE",
+   "den_score": 0.1367
+  },
+  {
+   "name": "real_001",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0048
+  },
+  {
+   "name": "real_002",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.057
+  },
+  {
+   "name": "real_003",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0
+  },
+  {
+   "name": "real_004",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0001
+  },
+  {
+   "name": "real_005",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0002
+  },
+  {
+   "name": "real_006",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0009
+  },
+  {
+   "name": "real_007",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0
+  },
+  {
+   "name": "real_008",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0
+  },
+  {
+   "name": "real_009",
+   "label": 0,
+   "raw": "NOT SURE",
+   "raw_score": 0.0007,
+   "den": "NOT SURE",
+   "den_score": 0.0004
+  },
+  {
+   "name": "real_010",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0018,
+   "den": "REAL",
+   "den_score": 0.0018
+  },
+  {
+   "name": "real_011",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0001,
+   "den": "REAL",
+   "den_score": 0.0001
+  },
+  {
+   "name": "real_012",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0
+  },
+  {
+   "name": "real_013",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0
+  },
+  {
+   "name": "real_014",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0
+  },
+  {
+   "name": "real_015",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0
+  },
+  {
+   "name": "real_016",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0004,
+   "den": "REAL",
+   "den_score": 0.0815
+  },
+  {
+   "name": "real_017",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0
+  },
+  {
+   "name": "real_018",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0022,
+   "den": "REAL",
+   "den_score": 0.0553
+  },
+  {
+   "name": "real_019",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0031
+  },
+  {
+   "name": "real_020",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0001
+  },
+  {
+   "name": "real_021",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0001,
+   "den": "REAL",
+   "den_score": 0.0432
+  },
+  {
+   "name": "real_022",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0003
+  },
+  {
+   "name": "real_023",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0
+  },
+  {
+   "name": "real_024",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0081
+  },
+  {
+   "name": "real_025",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0002
+  },
+  {
+   "name": "real_026",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0002,
+   "den": "NOT SURE",
+   "den_score": 0.0029
+  },
+  {
+   "name": "real_027",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0
+  },
+  {
+   "name": "real_028",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0061
+  },
+  {
+   "name": "real_029",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0369,
+   "den": "REAL",
+   "den_score": 0.0368
+  },
+  {
+   "name": "real_030",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0001,
+   "den": "NOT SURE",
+   "den_score": 0.9967
+  },
+  {
+   "name": "real_031",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0
+  },
+  {
+   "name": "real_032",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0157
+  },
+  {
+   "name": "real_033",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0044
+  },
+  {
+   "name": "real_034",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0
+  },
+  {
+   "name": "real_035",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0002
+  },
+  {
+   "name": "real_036",
+   "label": 0,
+   "raw": "FAKE",
+   "raw_score": 0.465,
+   "den": "REAL",
+   "den_score": 0.3227
+  },
+  {
+   "name": "real_037",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0
+  },
+  {
+   "name": "real_038",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0
+  },
+  {
+   "name": "real_039",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0001,
+   "den": "REAL",
+   "den_score": 0.0059
+  },
+  {
+   "name": "real_040",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0404
+  },
+  {
+   "name": "real_041",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0001,
+   "den": "REAL",
+   "den_score": 0.0004
+  },
+  {
+   "name": "real_042",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0001,
+   "den": "REAL",
+   "den_score": 0.0
+  },
+  {
+   "name": "real_043",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0002
+  },
+  {
+   "name": "real_044",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0615
+  },
+  {
+   "name": "real_045",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0009,
+   "den": "REAL",
+   "den_score": 0.0068
+  },
+  {
+   "name": "real_046",
+   "label": 0,
+   "raw": "NOT SURE",
+   "raw_score": 0.0005,
+   "den": "NOT SURE",
+   "den_score": 0.0005
+  },
+  {
+   "name": "real_047",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0002
+  },
+  {
+   "name": "real_048",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0
+  },
+  {
+   "name": "real_049",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.007
+  },
+  {
+   "name": "real_050",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0
+  },
+  {
+   "name": "real_051",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0734,
+   "den": "REAL",
+   "den_score": 0.0641
+  },
+  {
+   "name": "real_052",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0
+  },
+  {
+   "name": "real_053",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0155
+  },
+  {
+   "name": "real_054",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0124
+  },
+  {
+   "name": "real_055",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0
+  },
+  {
+   "name": "real_056",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0107,
+   "den": "REAL",
+   "den_score": 0.0089
+  },
+  {
+   "name": "real_057",
+   "label": 0,
+   "raw": "NOT SURE",
+   "raw_score": 0.0,
+   "den": "NOT SURE",
+   "den_score": 0.0
+  },
+  {
+   "name": "real_058",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0058
+  },
+  {
+   "name": "real_059",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0
+  },
+  {
+   "name": "real_060",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "FAKE",
+   "den_score": 0.6413
+  },
+  {
+   "name": "real_061",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0202
+  },
+  {
+   "name": "real_062",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.3093
+  },
+  {
+   "name": "real_063",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0889
+  },
+  {
+   "name": "real_064",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.1137
+  },
+  {
+   "name": "real_065",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0088
+  },
+  {
+   "name": "real_066",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0002
+  },
+  {
+   "name": "real_067",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0052
+  },
+  {
+   "name": "real_068",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "FAKE",
+   "den_score": 0.9961
+  },
+  {
+   "name": "real_069",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.2295
+  },
+  {
+   "name": "real_070",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0
+  },
+  {
+   "name": "real_071",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0
+  },
+  {
+   "name": "real_072",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "FAKE",
+   "den_score": 0.7982
+  },
+  {
+   "name": "real_073",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0
+  },
+  {
+   "name": "real_074",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0152
+  },
+  {
+   "name": "real_075",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0001
+  },
+  {
+   "name": "real_076",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0224
+  },
+  {
+   "name": "real_077",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0205
+  },
+  {
+   "name": "real_078",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0007
+  },
+  {
+   "name": "real_079",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0
+  },
+  {
+   "name": "real_080",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0001,
+   "den": "REAL",
+   "den_score": 0.001
+  },
+  {
+   "name": "real_081",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0014
+  },
+  {
+   "name": "real_082",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "FAKE",
+   "den_score": 0.8141
+  },
+  {
+   "name": "real_083",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0001,
+   "den": "REAL",
+   "den_score": 0.0162
+  },
+  {
+   "name": "real_084",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "FAKE",
+   "den_score": 0.9718
+  },
+  {
+   "name": "real_085",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0459
+  },
+  {
+   "name": "real_086",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0109
+  },
+  {
+   "name": "real_087",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0
+  },
+  {
+   "name": "real_088",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0001,
+   "den": "REAL",
+   "den_score": 0.0001
+  },
+  {
+   "name": "real_089",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0051
+  },
+  {
+   "name": "real_090",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "FAKE",
+   "den_score": 0.8659
+  },
+  {
+   "name": "real_091",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0474
+  },
+  {
+   "name": "real_092",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0
+  },
+  {
+   "name": "real_093",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0
+  },
+  {
+   "name": "real_094",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "FAKE",
+   "den_score": 0.6826
+  },
+  {
+   "name": "real_095",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0
+  },
+  {
+   "name": "real_096",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.3815
+  },
+  {
+   "name": "real_097",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0362
+  },
+  {
+   "name": "real_098",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0
+  },
+  {
+   "name": "real_099",
+   "label": 0,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.0007
+  },
+  {
+   "name": "fake_000",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.9999,
+   "den": "FAKE",
+   "den_score": 1.0
+  },
+  {
+   "name": "fake_001",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 1.0,
+   "den": "FAKE",
+   "den_score": 1.0
+  },
+  {
+   "name": "fake_002",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 1.0,
+   "den": "FAKE",
+   "den_score": 1.0
+  },
+  {
+   "name": "fake_003",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 1.0,
+   "den": "FAKE",
+   "den_score": 1.0
+  },
+  {
+   "name": "fake_004",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 1.0,
+   "den": "FAKE",
+   "den_score": 1.0
+  },
+  {
+   "name": "fake_005",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.9961,
+   "den": "FAKE",
+   "den_score": 1.0
+  },
+  {
+   "name": "fake_006",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.7937,
+   "den": "FAKE",
+   "den_score": 1.0
+  },
+  {
+   "name": "fake_007",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.9984,
+   "den": "FAKE",
+   "den_score": 0.9981
+  },
+  {
+   "name": "fake_008",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.9998,
+   "den": "FAKE",
+   "den_score": 1.0
+  },
+  {
+   "name": "fake_009",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.9486,
+   "den": "FAKE",
+   "den_score": 1.0
+  },
+  {
+   "name": "fake_010",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.9991,
+   "den": "FAKE",
+   "den_score": 1.0
+  },
+  {
+   "name": "fake_011",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.9998,
+   "den": "FAKE",
+   "den_score": 1.0
+  },
+  {
+   "name": "fake_012",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.9998,
+   "den": "FAKE",
+   "den_score": 0.9999
+  },
+  {
+   "name": "fake_013",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.9937,
+   "den": "FAKE",
+   "den_score": 1.0
+  },
+  {
+   "name": "fake_014",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.9988,
+   "den": "FAKE",
+   "den_score": 1.0
+  },
+  {
+   "name": "fake_015",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.6131,
+   "den": "FAKE",
+   "den_score": 0.9979
+  },
+  {
+   "name": "fake_016",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 1.0,
+   "den": "FAKE",
+   "den_score": 1.0
+  },
+  {
+   "name": "fake_017",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.2277,
+   "den": "FAKE",
+   "den_score": 0.999
+  },
+  {
+   "name": "fake_018",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.9906,
+   "den": "FAKE",
+   "den_score": 1.0
+  },
+  {
+   "name": "fake_019",
+   "label": 1,
+   "raw": "NOT SURE",
+   "raw_score": 0.0059,
+   "den": "NOT SURE",
+   "den_score": 0.0033
+  },
+  {
+   "name": "fake_020",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.5034,
+   "den": "FAKE",
+   "den_score": 0.9995
+  },
+  {
+   "name": "fake_021",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.9471,
+   "den": "FAKE",
+   "den_score": 0.9991
+  },
+  {
+   "name": "fake_022",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 1.0,
+   "den": "FAKE",
+   "den_score": 1.0
+  },
+  {
+   "name": "fake_023",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.9949,
+   "den": "FAKE",
+   "den_score": 1.0
+  },
+  {
+   "name": "fake_024",
+   "label": 1,
+   "raw": "NOT SURE",
+   "raw_score": 0.2919,
+   "den": "NOT SURE",
+   "den_score": 0.337
+  },
+  {
+   "name": "fake_025",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.2527,
+   "den": "FAKE",
+   "den_score": 0.9768
+  },
+  {
+   "name": "fake_026",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.9957,
+   "den": "FAKE",
+   "den_score": 1.0
+  },
+  {
+   "name": "fake_027",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.9933,
+   "den": "FAKE",
+   "den_score": 1.0
+  },
+  {
+   "name": "fake_028",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 1.0,
+   "den": "FAKE",
+   "den_score": 1.0
+  },
+  {
+   "name": "fake_029",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.9974,
+   "den": "FAKE",
+   "den_score": 0.9992
+  },
+  {
+   "name": "fake_030",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 1.0,
+   "den": "FAKE",
+   "den_score": 1.0
+  },
+  {
+   "name": "fake_031",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.9992,
+   "den": "FAKE",
+   "den_score": 1.0
+  },
+  {
+   "name": "fake_032",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.9987,
+   "den": "FAKE",
+   "den_score": 0.9999
+  },
+  {
+   "name": "fake_033",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.9971,
+   "den": "FAKE",
+   "den_score": 1.0
+  },
+  {
+   "name": "fake_034",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.9994,
+   "den": "FAKE",
+   "den_score": 1.0
+  },
+  {
+   "name": "fake_035",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 1.0,
+   "den": "FAKE",
+   "den_score": 1.0
+  },
+  {
+   "name": "fake_036",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.9988,
+   "den": "FAKE",
+   "den_score": 1.0
+  },
+  {
+   "name": "fake_037",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.9987,
+   "den": "FAKE",
+   "den_score": 0.9973
+  },
+  {
+   "name": "fake_038",
+   "label": 1,
+   "raw": "NOT SURE",
+   "raw_score": 0.797,
+   "den": "NOT SURE",
+   "den_score": 0.8951
+  },
+  {
+   "name": "fake_039",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 1.0,
+   "den": "FAKE",
+   "den_score": 1.0
+  },
+  {
+   "name": "fake_040",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.9966,
+   "den": "FAKE",
+   "den_score": 0.9935
+  },
+  {
+   "name": "fake_041",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.994,
+   "den": "FAKE",
+   "den_score": 0.9988
+  },
+  {
+   "name": "fake_042",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.9891,
+   "den": "FAKE",
+   "den_score": 1.0
+  },
+  {
+   "name": "fake_043",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.0008,
+   "den": "REAL",
+   "den_score": 0.0388
+  },
+  {
+   "name": "fake_044",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.997,
+   "den": "FAKE",
+   "den_score": 0.996
+  },
+  {
+   "name": "fake_045",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.9998,
+   "den": "FAKE",
+   "den_score": 1.0
+  },
+  {
+   "name": "fake_046",
+   "label": 1,
+   "raw": "NOT SURE",
+   "raw_score": 0.012,
+   "den": "NOT SURE",
+   "den_score": 0.9997
+  },
+  {
+   "name": "fake_047",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.1634,
+   "den": "FAKE",
+   "den_score": 0.9999
+  },
+  {
+   "name": "fake_048",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.9656,
+   "den": "FAKE",
+   "den_score": 0.9999
+  },
+  {
+   "name": "fake_049",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.9951,
+   "den": "FAKE",
+   "den_score": 0.985
+  },
+  {
+   "name": "fake_050",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.9598,
+   "den": "FAKE",
+   "den_score": 0.7736
+  },
+  {
+   "name": "fake_051",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.1274,
+   "den": "FAKE",
+   "den_score": 0.9994
+  },
+  {
+   "name": "fake_052",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.9998,
+   "den": "FAKE",
+   "den_score": 1.0
+  },
+  {
+   "name": "fake_053",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 1.0,
+   "den": "FAKE",
+   "den_score": 1.0
+  },
+  {
+   "name": "fake_054",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.0345,
+   "den": "FAKE",
+   "den_score": 0.7575
+  },
+  {
+   "name": "fake_055",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.9999,
+   "den": "FAKE",
+   "den_score": 1.0
+  },
+  {
+   "name": "fake_056",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.9071,
+   "den": "FAKE",
+   "den_score": 1.0
+  },
+  {
+   "name": "fake_057",
+   "label": 1,
+   "raw": "NOT SURE",
+   "raw_score": 0.9999,
+   "den": "NOT SURE",
+   "den_score": 0.9985
+  },
+  {
+   "name": "fake_058",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.9985,
+   "den": "FAKE",
+   "den_score": 0.9993
+  },
+  {
+   "name": "fake_059",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.9821,
+   "den": "FAKE",
+   "den_score": 1.0
+  },
+  {
+   "name": "fake_060",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.6514,
+   "den": "FAKE",
+   "den_score": 0.9998
+  },
+  {
+   "name": "fake_061",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.0062,
+   "den": "REAL",
+   "den_score": 0.0076
+  },
+  {
+   "name": "fake_062",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.0001,
+   "den": "FAKE",
+   "den_score": 0.8328
+  },
+  {
+   "name": "fake_063",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.0,
+   "den": "REAL",
+   "den_score": 0.2617
+  },
+  {
+   "name": "fake_064",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.0054,
+   "den": "REAL",
+   "den_score": 0.011
+  },
+  {
+   "name": "fake_065",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.0074,
+   "den": "FAKE",
+   "den_score": 0.5103
+  },
+  {
+   "name": "fake_066",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.0029,
+   "den": "FAKE",
+   "den_score": 0.9587
+  },
+  {
+   "name": "fake_067",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.0373,
+   "den": "FAKE",
+   "den_score": 0.8843
+  },
+  {
+   "name": "fake_068",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.1093,
+   "den": "FAKE",
+   "den_score": 0.9747
+  },
+  {
+   "name": "fake_069",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.0053,
+   "den": "REAL",
+   "den_score": 0.0746
+  },
+  {
+   "name": "fake_070",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.2208,
+   "den": "FAKE",
+   "den_score": 0.9961
+  },
+  {
+   "name": "fake_071",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.3586,
+   "den": "FAKE",
+   "den_score": 0.9995
+  },
+  {
+   "name": "fake_072",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.0352,
+   "den": "FAKE",
+   "den_score": 0.6447
+  },
+  {
+   "name": "fake_073",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.0167,
+   "den": "REAL",
+   "den_score": 0.3557
+  },
+  {
+   "name": "fake_074",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.0098,
+   "den": "FAKE",
+   "den_score": 0.9919
+  },
+  {
+   "name": "fake_075",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.0446,
+   "den": "FAKE",
+   "den_score": 0.7452
+  },
+  {
+   "name": "fake_076",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.9982,
+   "den": "FAKE",
+   "den_score": 0.9992
+  },
+  {
+   "name": "fake_077",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.002,
+   "den": "REAL",
+   "den_score": 0.1018
+  },
+  {
+   "name": "fake_078",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.0354,
+   "den": "FAKE",
+   "den_score": 0.8622
+  },
+  {
+   "name": "fake_079",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.2236,
+   "den": "FAKE",
+   "den_score": 0.8145
+  },
+  {
+   "name": "fake_080",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.0057,
+   "den": "FAKE",
+   "den_score": 0.9661
+  },
+  {
+   "name": "fake_081",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.9903,
+   "den": "FAKE",
+   "den_score": 0.9968
+  },
+  {
+   "name": "fake_082",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.0001,
+   "den": "FAKE",
+   "den_score": 0.4696
+  },
+  {
+   "name": "fake_083",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.0511,
+   "den": "REAL",
+   "den_score": 0.0115
+  },
+  {
+   "name": "fake_084",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.0371,
+   "den": "FAKE",
+   "den_score": 0.9945
+  },
+  {
+   "name": "fake_085",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.0112,
+   "den": "FAKE",
+   "den_score": 0.6821
+  },
+  {
+   "name": "fake_086",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.0365,
+   "den": "REAL",
+   "den_score": 0.0698
+  },
+  {
+   "name": "fake_087",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.4561,
+   "den": "FAKE",
+   "den_score": 0.7836
+  },
+  {
+   "name": "fake_088",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.1209,
+   "den": "FAKE",
+   "den_score": 0.9989
+  },
+  {
+   "name": "fake_089",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.003,
+   "den": "REAL",
+   "den_score": 0.1917
+  },
+  {
+   "name": "fake_090",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.0001,
+   "den": "REAL",
+   "den_score": 0.0417
+  },
+  {
+   "name": "fake_091",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.0194,
+   "den": "FAKE",
+   "den_score": 0.8352
+  },
+  {
+   "name": "fake_092",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.1304,
+   "den": "REAL",
+   "den_score": 0.2569
+  },
+  {
+   "name": "fake_093",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.1247,
+   "den": "FAKE",
+   "den_score": 0.8909
+  },
+  {
+   "name": "fake_094",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.0835,
+   "den": "FAKE",
+   "den_score": 0.9858
+  },
+  {
+   "name": "fake_095",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.1029,
+   "den": "FAKE",
+   "den_score": 0.9968
+  },
+  {
+   "name": "fake_096",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.0935,
+   "den": "FAKE",
+   "den_score": 0.9834
+  },
+  {
+   "name": "fake_097",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.0017,
+   "den": "FAKE",
+   "den_score": 0.9986
+  },
+  {
+   "name": "fake_098",
+   "label": 1,
+   "raw": "REAL",
+   "raw_score": 0.0292,
+   "den": "FAKE",
+   "den_score": 0.9507
+  },
+  {
+   "name": "fake_099",
+   "label": 1,
+   "raw": "FAKE",
+   "raw_score": 0.8979,
+   "den": "FAKE",
+   "den_score": 0.9544
+  }
+ ],
+ "with_shield_api": {
+  "noisy_real": {
+   "REAL": 89,
+   "NOT SURE": 9,
+   "FAKE": 2
+  },
+  "noisy_fake": {
+   "FAKE": 76,
+   "NOT SURE": 10,
+   "REAL": 14
+  },
+  "clean_real": {
+   "REAL": 98,
+   "FAKE": 1,
+   "NOT SURE": 1
+  }
+ }
+}

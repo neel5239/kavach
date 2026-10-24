@@ -1,0 +1,18 @@
+{
+  "thresholds": {
+    "real_below": 0.4159737527370453,
+    "fake_above": 0.4159737527370453,
+    "eer_threshold": 0.4159737527370453
+  },
+  "hidden": 128,
+  "trained_on": [
+    "itw:clean,phone,len2,len10",
+    "itw_aug:chan,replay",
+    "itw_aug_n:noisetr",
+    "libri_n:noisetr",
+    "modern:clean,replay",
+    "libri:clean,replay,chan",
+    "itw_p2test:clean,r8k,amr,opus,noise,chan"
+  ],
+  "cal_eer": 0.012908754102221559
+}

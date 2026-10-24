@@ -1,0 +1,24 @@
+{
+  "sequential": {
+    "n": 20,
+    "p50_ms": 317.9979500127956,
+    "p95_ms": 728.3624999690801,
+    "server_p50_ms": 219.05
+  },
+  "concurrent": {
+    "n": 60,
+    "workers": 4,
+    "p50_ms": 1218.1465999456123,
+    "p95_ms": 1898.3633000170812,
+    "throughput_rps": 3.3616012059618177,
+    "errors": 0
+  },
+  "health_after": {
+    "status": "ok",
+    "model_loaded": true,
+    "model": "models/kavach",
+    "localisation": true,
+    "device": "cuda",
+    "error": null
+  }
+}

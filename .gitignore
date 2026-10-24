@@ -1,0 +1,29 @@
+.venv/
+__pycache__/
+.pytest_cache/
+dist/
+*.pyc
+*.log
+# large or regenerable data (see README to rebuild)
+data/raw/
+data/itw/
+data/features/
+data/libri/
+data/modern/
+data/clones/
+data/partial/*.wav
+data/team/
+data/user_tests/
+# big pretrained models: downloaded by setup.bat / setup.sh
+models/xlsr-300m/
+models/torch/
+models/*_v1/
+models/itw_quick/
+runs/denoise_val/
+runs/bad.wav
+# internal planning files
+docs/build_manual.js
+docs/Kavach_Your_Steps.*
+docs/phase-sheet.html
+docs/~$*
+docs/hyp/

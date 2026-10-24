@@ -1,0 +1,283 @@
+{
+ "before": [
+  {
+   "clip": "clone_scam_1",
+   "attack": "as-is",
+   "verdict": "FAKE",
+   "score": 1.0
+  },
+  {
+   "clip": "clone_scam_1",
+   "attack": "WhatsApp Opus",
+   "verdict": "FAKE",
+   "score": 1.0
+  },
+  {
+   "clip": "clone_scam_1",
+   "attack": "Phone AMR-NB",
+   "verdict": "FAKE",
+   "score": 1.0
+  },
+  {
+   "clip": "clone_scam_1",
+   "attack": "Street noise 15 dB",
+   "verdict": "REAL",
+   "score": 0.1753
+  },
+  {
+   "clip": "clone_scam_1",
+   "attack": "Speaker->mic replay",
+   "verdict": "FAKE",
+   "score": 0.6008
+  },
+  {
+   "clip": "clone_scam_1",
+   "attack": "Opus + noise",
+   "verdict": "FAKE",
+   "score": 0.7768
+  },
+  {
+   "clip": "clone_scam_2",
+   "attack": "as-is",
+   "verdict": "FAKE",
+   "score": 0.9999
+  },
+  {
+   "clip": "clone_scam_2",
+   "attack": "WhatsApp Opus",
+   "verdict": "FAKE",
+   "score": 1.0
+  },
+  {
+   "clip": "clone_scam_2",
+   "attack": "Phone AMR-NB",
+   "verdict": "FAKE",
+   "score": 0.9971
+  },
+  {
+   "clip": "clone_scam_2",
+   "attack": "Street noise 15 dB",
+   "verdict": "REAL",
+   "score": 0.0043
+  },
+  {
+   "clip": "clone_scam_2",
+   "attack": "Speaker->mic replay",
+   "verdict": "FAKE",
+   "score": 0.5616
+  },
+  {
+   "clip": "clone_scam_2",
+   "attack": "Opus + noise",
+   "verdict": "REAL",
+   "score": 0.0367
+  },
+  {
+   "clip": "clone_normal",
+   "attack": "as-is",
+   "verdict": "FAKE",
+   "score": 0.8849
+  },
+  {
+   "clip": "clone_normal",
+   "attack": "WhatsApp Opus",
+   "verdict": "FAKE",
+   "score": 0.9961
+  },
+  {
+   "clip": "clone_normal",
+   "attack": "Phone AMR-NB",
+   "verdict": "FAKE",
+   "score": 0.9496
+  },
+  {
+   "clip": "clone_normal",
+   "attack": "Street noise 15 dB",
+   "verdict": "REAL",
+   "score": 0.0129
+  },
+  {
+   "clip": "clone_normal",
+   "attack": "Speaker->mic replay",
+   "verdict": "REAL",
+   "score": 0.2399
+  },
+  {
+   "clip": "clone_normal",
+   "attack": "Opus + noise",
+   "verdict": "REAL",
+   "score": 0.0745
+  }
+ ],
+ "after": [
+  {
+   "clip": "original",
+   "attack": "as-is",
+   "verdict": "REAL",
+   "score": 0.0003
+  },
+  {
+   "clip": "original",
+   "attack": "WhatsApp Opus",
+   "verdict": "REAL",
+   "score": 0.0029
+  },
+  {
+   "clip": "original",
+   "attack": "Phone AMR-NB",
+   "verdict": "REAL",
+   "score": 0.0004
+  },
+  {
+   "clip": "original",
+   "attack": "Street noise 15 dB",
+   "verdict": "REAL",
+   "score": 0.0019
+  },
+  {
+   "clip": "original",
+   "attack": "Speaker->mic replay",
+   "verdict": "NOT SURE",
+   "score": 0.1392
+  },
+  {
+   "clip": "original",
+   "attack": "Opus + noise",
+   "verdict": "REAL",
+   "score": 0.0245
+  },
+  {
+   "clip": "clone_scam_1",
+   "attack": "as-is",
+   "verdict": "FAKE",
+   "score": 1.0
+  },
+  {
+   "clip": "clone_scam_1",
+   "attack": "WhatsApp Opus",
+   "verdict": "FAKE",
+   "score": 1.0
+  },
+  {
+   "clip": "clone_scam_1",
+   "attack": "Phone AMR-NB",
+   "verdict": "FAKE",
+   "score": 1.0
+  },
+  {
+   "clip": "clone_scam_1",
+   "attack": "Street noise 15 dB",
+   "verdict": "FAKE",
+   "score": 1.0
+  },
+  {
+   "clip": "clone_scam_1",
+   "attack": "Speaker->mic replay",
+   "verdict": "FAKE",
+   "score": 0.6008
+  },
+  {
+   "clip": "clone_scam_1",
+   "attack": "Opus + noise",
+   "verdict": "FAKE",
+   "score": 0.7768
+  },
+  {
+   "clip": "clone_scam_2",
+   "attack": "as-is",
+   "verdict": "FAKE",
+   "score": 0.9999
+  },
+  {
+   "clip": "clone_scam_2",
+   "attack": "WhatsApp Opus",
+   "verdict": "FAKE",
+   "score": 1.0
+  },
+  {
+   "clip": "clone_scam_2",
+   "attack": "Phone AMR-NB",
+   "verdict": "FAKE",
+   "score": 0.9971
+  },
+  {
+   "clip": "clone_scam_2",
+   "attack": "Street noise 15 dB",
+   "verdict": "FAKE",
+   "score": 0.9926
+  },
+  {
+   "clip": "clone_scam_2",
+   "attack": "Speaker->mic replay",
+   "verdict": "FAKE",
+   "score": 0.5616
+  },
+  {
+   "clip": "clone_scam_2",
+   "attack": "Opus + noise",
+   "verdict": "FAKE",
+   "score": 0.9998
+  },
+  {
+   "clip": "clone_normal",
+   "attack": "as-is",
+   "verdict": "FAKE",
+   "score": 0.8849
+  },
+  {
+   "clip": "clone_normal",
+   "attack": "WhatsApp Opus",
+   "verdict": "FAKE",
+   "score": 0.9961
+  },
+  {
+   "clip": "clone_normal",
+   "attack": "Phone AMR-NB",
+   "verdict": "FAKE",
+   "score": 0.9496
+  },
+  {
+   "clip": "clone_normal",
+   "attack": "Street noise 15 dB",
+   "verdict": "NOT SURE",
+   "score": 0.0129
+  },
+  {
+   "clip": "clone_normal",
+   "attack": "Speaker->mic replay",
+   "verdict": "NOT SURE",
+   "score": 0.2399
+  },
+  {
+   "clip": "clone_normal",
+   "attack": "Opus + noise",
+   "verdict": "FAKE",
+   "score": 0.9922
+  }
+ ],
+ "heldout": {
+  "noisy_real": {
+   "REAL": 89,
+   "NOT SURE": 9,
+   "FAKE": 2
+  },
+  "noisy_fake": {
+   "FAKE": 76,
+   "NOT SURE": 10,
+   "REAL": 14
+  },
+  "clean_real": {
+   "REAL": 98,
+   "FAKE": 1,
+   "NOT SURE": 1
+  }
+ },
+ "heldout_raw": {
+  "fake_caught": 0.54,
+  "real_false_alarm": 0.01
+ },
+ "heldout_n": {
+  "real": 100,
+  "fake": 100
+ }
+}

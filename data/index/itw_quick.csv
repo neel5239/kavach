@@ -1,0 +1,2701 @@
+path,speaker,label,split
+data\itw\release_in_the_wild\2934.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\11827.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\6665.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\24223.wav,Boris Johnson,0,train
+data\itw\release_in_the_wild\17477.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\29430.wav,Alexandria Ocasio-Cortez,1,train
+data\itw\release_in_the_wild\11094.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\9501.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\13393.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\23444.wav,Milton Friedman,1,train
+data\itw\release_in_the_wild\13217.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\11353.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\18429.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\30104.wav,Norm MacDonald,1,train
+data\itw\release_in_the_wild\18416.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\28585.wav,The Notorious B.I.G.,1,cal
+data\itw\release_in_the_wild\18246.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\6747.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\6803.wav,Mark Zuckerberg,1,train
+data\itw\release_in_the_wild\19530.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\18184.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\31657.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\29793.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\11251.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\27137.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\4736.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\13763.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\28274.wav,Martin Luther King,1,train
+data\itw\release_in_the_wild\20057.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\4870.wav,Orson Welles,1,train
+data\itw\release_in_the_wild\18692.wav,Martin Luther King,0,train
+data\itw\release_in_the_wild\17033.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\2234.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\885.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\11364.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\3164.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\31171.wav,Tucker Carlson,1,train
+data\itw\release_in_the_wild\17493.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\23037.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\3109.wav,Barack Obama,1,train
+data\itw\release_in_the_wild\19846.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\6141.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\27490.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\26207.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\3962.wav,FDR,0,cal
+data\itw\release_in_the_wild\6189.wav,Milton Friedman,1,train
+data\itw\release_in_the_wild\7869.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\30849.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\29457.wav,Alexandria Ocasio-Cortez,0,train
+data\itw\release_in_the_wild\2634.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\11354.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\21027.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\19313.wav,Milton Friedman,0,train
+data\itw\release_in_the_wild\30083.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\13764.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\10952.wav,2Pac,0,test
+data\itw\release_in_the_wild\18176.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\11271.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\24145.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\7119.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\483.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\8798.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\21206.wav,Boris Johnson,1,train
+data\itw\release_in_the_wild\20313.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\26152.wav,Nelson Mandela,0,train
+data\itw\release_in_the_wild\10934.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\25418.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\18078.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\28826.wav,FDR,0,cal
+data\itw\release_in_the_wild\5612.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\19585.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\26979.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\30831.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\28460.wav,Barack Obama,1,train
+data\itw\release_in_the_wild\9060.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\17918.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\17147.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\2267.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\426.wav,Dwight Eisenhower,0,train
+data\itw\release_in_the_wild\14092.wav,JFK,1,train
+data\itw\release_in_the_wild\3277.wav,Barack Obama,1,train
+data\itw\release_in_the_wild\21185.wav,Lyndon Johnson,0,train
+data\itw\release_in_the_wild\620.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\9118.wav,Martin Luther King,0,train
+data\itw\release_in_the_wild\25668.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\21282.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\12277.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\5724.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\25797.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\11348.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\2145.wav,Boris Johnson,0,train
+data\itw\release_in_the_wild\14950.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\7037.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\18922.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\5488.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\10622.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\5020.wav,Alexandria Ocasio-Cortez,0,train
+data\itw\release_in_the_wild\26835.wav,Gilbert Gottfried,0,train
+data\itw\release_in_the_wild\14282.wav,Martin Luther King,0,train
+data\itw\release_in_the_wild\25076.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\2875.wav,Arnold Schwarzenegger,0,train
+data\itw\release_in_the_wild\14793.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\14828.wav,Jeff Goldblum,0,train
+data\itw\release_in_the_wild\22684.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\18275.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\8562.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\20465.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\17564.wav,JFK,1,train
+data\itw\release_in_the_wild\21913.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\26442.wav,Milton Friedman,1,train
+data\itw\release_in_the_wild\26918.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\21092.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\19392.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\31366.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\2900.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\10960.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\24982.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\29489.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\6138.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\22287.wav,Arnold Schwarzenegger,0,train
+data\itw\release_in_the_wild\10153.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\21605.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\20129.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\31234.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\1543.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\19809.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\13644.wav,Kamala Harris,0,train
+data\itw\release_in_the_wild\26964.wav,George Carlin,1,train
+data\itw\release_in_the_wild\6210.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\10832.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\22086.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\23846.wav,Kanye West,1,train
+data\itw\release_in_the_wild\7214.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\21901.wav,Arnold Schwarzenegger,0,train
+data\itw\release_in_the_wild\15707.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\15598.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\9721.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\21553.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\559.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\19810.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\19038.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\31446.wav,Alexandria Ocasio-Cortez,0,train
+data\itw\release_in_the_wild\21970.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\11220.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\23132.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\23522.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\19343.wav,JFK,0,train
+data\itw\release_in_the_wild\28751.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\2862.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\12221.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\15162.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\8625.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\667.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\30719.wav,Mark Zuckerberg,1,train
+data\itw\release_in_the_wild\8547.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\28970.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\28538.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\13886.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\16593.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\19704.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\17884.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\9968.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\22519.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\15541.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\26803.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\806.wav,Ronald Reagan,0,train
+data\itw\release_in_the_wild\16474.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\20140.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\754.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\20267.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\11154.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\31389.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\6984.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\16004.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\5739.wav,Dwight Eisenhower,1,train
+data\itw\release_in_the_wild\2529.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\4105.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\14395.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\27826.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\8702.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\26221.wav,Boris Johnson,0,train
+data\itw\release_in_the_wild\11276.wav,Robert Kardashian,1,test
+data\itw\release_in_the_wild\19204.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\22130.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\19713.wav,Scarlett Johansson,1,train
+data\itw\release_in_the_wild\29683.wav,Alexandria Ocasio-Cortez,0,train
+data\itw\release_in_the_wild\19913.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\10612.wav,Adam Driver,0,train
+data\itw\release_in_the_wild\28353.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\1513.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\22956.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\12485.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\12648.wav,Kamala Harris,0,train
+data\itw\release_in_the_wild\12024.wav,Nelson Mandela,0,train
+data\itw\release_in_the_wild\12897.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\8754.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\13800.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\22973.wav,Donald Trump,1,train
+data\itw\release_in_the_wild\27563.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\11407.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\8273.wav,Arnold Schwarzenegger,0,train
+data\itw\release_in_the_wild\5608.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\17532.wav,Mr. Rogers,0,cal
+data\itw\release_in_the_wild\25108.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\20028.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\27231.wav,Adam Driver,1,train
+data\itw\release_in_the_wild\12231.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\12368.wav,Mark Zuckerberg,1,train
+data\itw\release_in_the_wild\23470.wav,Martin Luther King,0,train
+data\itw\release_in_the_wild\2236.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\28498.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\23660.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\10347.wav,FDR,0,cal
+data\itw\release_in_the_wild\9946.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\25201.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\2769.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\5341.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\2288.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\12117.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\25120.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\27342.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\16957.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\24537.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\24746.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\22907.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\13934.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\30113.wav,Adam Driver,1,train
+data\itw\release_in_the_wild\23122.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\28844.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\6390.wav,Winston Churchill,1,train
+data\itw\release_in_the_wild\13884.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\373.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\30711.wav,Mark Zuckerberg,1,train
+data\itw\release_in_the_wild\5409.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\8053.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\24674.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\16508.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\10935.wav,JFK,0,train
+data\itw\release_in_the_wild\22953.wav,Arnold Schwarzenegger,1,train
+data\itw\release_in_the_wild\608.wav,Lyndon Johnson,0,train
+data\itw\release_in_the_wild\9834.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\6935.wav,Mark Zuckerberg,0,train
+data\itw\release_in_the_wild\29988.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\18139.wav,Kanye West,1,train
+data\itw\release_in_the_wild\27487.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\9096.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\6916.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\5322.wav,The Notorious B.I.G.,1,cal
+data\itw\release_in_the_wild\15382.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\25062.wav,Bill Burr,0,train
+data\itw\release_in_the_wild\24157.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\11769.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\9714.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\14881.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\21257.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\10234.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\20046.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\10823.wav,FDR,0,cal
+data\itw\release_in_the_wild\15924.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\26335.wav,Jeff Goldblum,0,train
+data\itw\release_in_the_wild\18274.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\22765.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\29815.wav,Robert Kardashian,1,test
+data\itw\release_in_the_wild\18703.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\22528.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\22562.wav,Alan Watts,0,train
+data\itw\release_in_the_wild\28707.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\26188.wav,Ronald Reagan,0,train
+data\itw\release_in_the_wild\8777.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\14919.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\24819.wav,FDR,1,cal
+data\itw\release_in_the_wild\4398.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\23812.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\7541.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\22326.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\23119.wav,Milton Friedman,1,train
+data\itw\release_in_the_wild\23039.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\12148.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\2541.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\4725.wav,Nelson Mandela,0,train
+data\itw\release_in_the_wild\16470.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\22084.wav,FDR,1,cal
+data\itw\release_in_the_wild\23302.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\6061.wav,Adam Driver,1,train
+data\itw\release_in_the_wild\22994.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\12982.wav,Alexandria Ocasio-Cortez,0,train
+data\itw\release_in_the_wild\19017.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\9003.wav,Orson Welles,1,train
+data\itw\release_in_the_wild\14674.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\4036.wav,Winston Churchill,1,train
+data\itw\release_in_the_wild\14026.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\11071.wav,Adam Driver,1,train
+data\itw\release_in_the_wild\12604.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\12854.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\27646.wav,JFK,0,train
+data\itw\release_in_the_wild\27370.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\16871.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\30313.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\21657.wav,2Pac,0,test
+data\itw\release_in_the_wild\27589.wav,FDR,0,cal
+data\itw\release_in_the_wild\17543.wav,Martin Luther King,0,train
+data\itw\release_in_the_wild\29148.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\29330.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\12615.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\9951.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\22678.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\15366.wav,Martin Luther King,0,train
+data\itw\release_in_the_wild\29248.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\21922.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\10848.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\17616.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\5244.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\25597.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\9332.wav,George W. Bush,0,test
+data\itw\release_in_the_wild\22449.wav,JFK,1,train
+data\itw\release_in_the_wild\26329.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\21811.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\27373.wav,Louis C.K.,1,train
+data\itw\release_in_the_wild\19835.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\9127.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\1661.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\6588.wav,George Carlin,0,train
+data\itw\release_in_the_wild\9792.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\16174.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\20721.wav,Ronald Reagan,0,train
+data\itw\release_in_the_wild\7699.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\16156.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\15076.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\22286.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\28068.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\7884.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\10912.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\17495.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\7320.wav,Alan Watts,1,train
+data\itw\release_in_the_wild\29945.wav,Ronald Reagan,0,train
+data\itw\release_in_the_wild\9376.wav,Alan Watts,0,train
+data\itw\release_in_the_wild\18839.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\26060.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\18776.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\4615.wav,Lyndon Johnson,0,train
+data\itw\release_in_the_wild\5604.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\22903.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\25036.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\17106.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\3327.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\4065.wav,Winston Churchill,1,train
+data\itw\release_in_the_wild\24888.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\29698.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\16041.wav,Norm MacDonald,0,train
+data\itw\release_in_the_wild\5073.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\22815.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\17463.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\12404.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\4490.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\2837.wav,Milton Friedman,0,train
+data\itw\release_in_the_wild\31419.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\7879.wav,Arnold Schwarzenegger,0,train
+data\itw\release_in_the_wild\17135.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\13749.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\31400.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\4012.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\17955.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\19942.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\10611.wav,Calvin Coolidge,0,test
+data\itw\release_in_the_wild\4109.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\1719.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\5491.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\7227.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\1856.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\3796.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\19672.wav,Alexandria Ocasio-Cortez,0,train
+data\itw\release_in_the_wild\25309.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\3033.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\25880.wav,Gilbert Gottfried,0,train
+data\itw\release_in_the_wild\17096.wav,Milton Friedman,0,train
+data\itw\release_in_the_wild\19369.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\11812.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\18448.wav,Ronald Reagan,0,train
+data\itw\release_in_the_wild\13619.wav,Ronald Reagan,0,train
+data\itw\release_in_the_wild\16225.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\18507.wav,Ronald Reagan,0,train
+data\itw\release_in_the_wild\22558.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\212.wav,Ronald Reagan,0,train
+data\itw\release_in_the_wild\5935.wav,JFK,0,train
+data\itw\release_in_the_wild\103.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\20692.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\4138.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\17309.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\27369.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\28537.wav,Milton Friedman,1,train
+data\itw\release_in_the_wild\4880.wav,Alexandria Ocasio-Cortez,0,train
+data\itw\release_in_the_wild\17234.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\10067.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\4992.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\21698.wav,George Carlin,0,train
+data\itw\release_in_the_wild\4790.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\16537.wav,Ronald Reagan,0,train
+data\itw\release_in_the_wild\5920.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\24755.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\3435.wav,Boris Johnson,0,train
+data\itw\release_in_the_wild\28143.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\17911.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\22897.wav,Nelson Mandela,0,train
+data\itw\release_in_the_wild\25034.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\13010.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\29513.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\17027.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\3698.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\22928.wav,JFK,0,train
+data\itw\release_in_the_wild\24541.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\2053.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\10235.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\7276.wav,Barack Obama,1,train
+data\itw\release_in_the_wild\29106.wav,John Cleese,1,train
+data\itw\release_in_the_wild\29186.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\30736.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\19091.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\11958.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\5689.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\33.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\3954.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\30326.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\11728.wav,Mark Zuckerberg,1,train
+data\itw\release_in_the_wild\20259.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\389.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\14527.wav,George Carlin,0,train
+data\itw\release_in_the_wild\28659.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\10071.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\491.wav,Norm MacDonald,1,train
+data\itw\release_in_the_wild\18210.wav,George Carlin,1,train
+data\itw\release_in_the_wild\9210.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\15744.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\31527.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\25444.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\15163.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\23389.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\4568.wav,Bill Burr,0,train
+data\itw\release_in_the_wild\25456.wav,Mr. Rogers,1,cal
+data\itw\release_in_the_wild\3362.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\30454.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\11790.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\1852.wav,Ronald Reagan,0,train
+data\itw\release_in_the_wild\6492.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\23355.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\26944.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\8595.wav,FDR,1,cal
+data\itw\release_in_the_wild\979.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\7878.wav,Louis C.K.,1,train
+data\itw\release_in_the_wild\20995.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\4533.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\15627.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\3464.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\17321.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\8061.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\22483.wav,Mr. Rogers,1,cal
+data\itw\release_in_the_wild\24871.wav,Alan Watts,1,train
+data\itw\release_in_the_wild\11473.wav,Adam Driver,0,train
+data\itw\release_in_the_wild\12520.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\30651.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\12446.wav,Lyndon Johnson,0,train
+data\itw\release_in_the_wild\363.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\12465.wav,Barack Obama,1,train
+data\itw\release_in_the_wild\3822.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\26509.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\11611.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\17455.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\14004.wav,Martin Luther King,1,train
+data\itw\release_in_the_wild\6993.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\6614.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\30704.wav,Dwight Eisenhower,1,train
+data\itw\release_in_the_wild\17346.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\27173.wav,Scarlett Johansson,1,train
+data\itw\release_in_the_wild\29140.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\13614.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\22283.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\9646.wav,Milton Friedman,0,train
+data\itw\release_in_the_wild\9586.wav,Calvin Coolidge,1,test
+data\itw\release_in_the_wild\10162.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\1349.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\13751.wav,Norm MacDonald,0,train
+data\itw\release_in_the_wild\30372.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\4311.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\31060.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\4989.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\28042.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\22219.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\9346.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\1605.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\3834.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\24200.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\1489.wav,Boris Johnson,1,train
+data\itw\release_in_the_wild\18463.wav,Ronald Reagan,0,train
+data\itw\release_in_the_wild\18430.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\12974.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\7805.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\11500.wav,Milton Friedman,0,train
+data\itw\release_in_the_wild\12717.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\3922.wav,Martin Luther King,1,train
+data\itw\release_in_the_wild\11522.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\18580.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\16401.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\19880.wav,Ronald Reagan,0,train
+data\itw\release_in_the_wild\23827.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\8405.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\30978.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\16977.wav,Donald Trump,1,train
+data\itw\release_in_the_wild\4455.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\9528.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\19252.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\14254.wav,Barack Obama,1,train
+data\itw\release_in_the_wild\3206.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\28981.wav,JFK,0,train
+data\itw\release_in_the_wild\28516.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\3089.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\10789.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\22320.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\17176.wav,Arnold Schwarzenegger,0,train
+data\itw\release_in_the_wild\11388.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\13818.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\5738.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\11019.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\10549.wav,Martin Luther King,0,train
+data\itw\release_in_the_wild\28860.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\6103.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\20881.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\24620.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\14339.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\3621.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\6223.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\19443.wav,Alan Watts,1,train
+data\itw\release_in_the_wild\28237.wav,John Cleese,1,train
+data\itw\release_in_the_wild\23871.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\17781.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\20682.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\14660.wav,Milton Friedman,1,train
+data\itw\release_in_the_wild\22834.wav,Ronald Reagan,0,train
+data\itw\release_in_the_wild\23097.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\31576.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\5617.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\11591.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\23974.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\25832.wav,Lyndon Johnson,0,train
+data\itw\release_in_the_wild\10624.wav,Nelson Mandela,0,train
+data\itw\release_in_the_wild\482.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\10394.wav,George Carlin,0,train
+data\itw\release_in_the_wild\10745.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\161.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\26851.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\21132.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\19970.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\30745.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\13453.wav,2Pac,1,test
+data\itw\release_in_the_wild\11582.wav,JFK,1,train
+data\itw\release_in_the_wild\11257.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\6092.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\1162.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\15238.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\18443.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\27790.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\12515.wav,Martin Luther King,0,train
+data\itw\release_in_the_wild\19782.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\2629.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\23927.wav,JFK,0,train
+data\itw\release_in_the_wild\2031.wav,Norm MacDonald,1,train
+data\itw\release_in_the_wild\22371.wav,Martin Luther King,0,train
+data\itw\release_in_the_wild\11811.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\14347.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\12943.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\15515.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\17439.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\26284.wav,Orson Welles,1,train
+data\itw\release_in_the_wild\412.wav,JFK,0,train
+data\itw\release_in_the_wild\28503.wav,JFK,0,train
+data\itw\release_in_the_wild\6095.wav,Milton Friedman,0,train
+data\itw\release_in_the_wild\22454.wav,Ronald Reagan,0,train
+data\itw\release_in_the_wild\17784.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\13675.wav,Dwight Eisenhower,1,train
+data\itw\release_in_the_wild\5716.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\16030.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\29128.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\12413.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\11506.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\3926.wav,Bob Ross,1,train
+data\itw\release_in_the_wild\28785.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\15846.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\20524.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\6618.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\4103.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\4565.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\30099.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\14216.wav,Mark Zuckerberg,1,train
+data\itw\release_in_the_wild\4902.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\3693.wav,Adam Driver,1,train
+data\itw\release_in_the_wild\26337.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\23972.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\4209.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\3791.wav,JFK,0,train
+data\itw\release_in_the_wild\11549.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\26969.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\463.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\11854.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\30887.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\5315.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\19940.wav,John Cleese,0,train
+data\itw\release_in_the_wild\10560.wav,Martin Luther King,0,train
+data\itw\release_in_the_wild\3544.wav,Alan Watts,1,train
+data\itw\release_in_the_wild\23370.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\20904.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\13078.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\21599.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\23140.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\19872.wav,Ronald Reagan,0,train
+data\itw\release_in_the_wild\28522.wav,JFK,0,train
+data\itw\release_in_the_wild\28132.wav,The Notorious B.I.G.,1,cal
+data\itw\release_in_the_wild\6197.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\1997.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\20106.wav,Martin Luther King,0,train
+data\itw\release_in_the_wild\21924.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\15355.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\3999.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\6316.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\15531.wav,Winston Churchill,1,train
+data\itw\release_in_the_wild\3390.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\6528.wav,George Carlin,0,train
+data\itw\release_in_the_wild\25280.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\295.wav,Dwight Eisenhower,1,train
+data\itw\release_in_the_wild\8332.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\16842.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\18959.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\5143.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\7475.wav,Jeff Goldblum,0,train
+data\itw\release_in_the_wild\12935.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\16576.wav,Mark Zuckerberg,0,train
+data\itw\release_in_the_wild\12983.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\26966.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\20846.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\15658.wav,Barack Obama,1,train
+data\itw\release_in_the_wild\4823.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\8239.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\2377.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\6428.wav,JFK,0,train
+data\itw\release_in_the_wild\26006.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\21020.wav,Martin Luther King,0,train
+data\itw\release_in_the_wild\30761.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\15082.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\15473.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\10568.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\17580.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\19608.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\1896.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\9878.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\20229.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\7167.wav,Mark Zuckerberg,0,train
+data\itw\release_in_the_wild\13275.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\5525.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\28189.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\14546.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\3521.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\11226.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\7635.wav,Martin Luther King,0,train
+data\itw\release_in_the_wild\21967.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\12020.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\8566.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\15830.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\9763.wav,Barack Obama,1,train
+data\itw\release_in_the_wild\26095.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\10498.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\21135.wav,JFK,1,train
+data\itw\release_in_the_wild\26484.wav,Frank Sinatra,1,train
+data\itw\release_in_the_wild\7473.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\10733.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\24275.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\13982.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\21638.wav,Lyndon Johnson,0,train
+data\itw\release_in_the_wild\15916.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\14348.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\1787.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\3787.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\20168.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\4.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\23996.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\28397.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\5589.wav,Lyndon Johnson,0,train
+data\itw\release_in_the_wild\316.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\19223.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\5005.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\23395.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\12348.wav,Tucker Carlson,1,train
+data\itw\release_in_the_wild\28681.wav,JFK,0,train
+data\itw\release_in_the_wild\15921.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\2007.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\24843.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\17164.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\3805.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\10206.wav,Barack Obama,1,train
+data\itw\release_in_the_wild\26050.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\28243.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\23404.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\13789.wav,Tucker Carlson,1,train
+data\itw\release_in_the_wild\16132.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\27335.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\3612.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\12346.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\9089.wav,Dwight Eisenhower,0,train
+data\itw\release_in_the_wild\21467.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\11359.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\27005.wav,JFK,0,train
+data\itw\release_in_the_wild\13156.wav,George Carlin,1,train
+data\itw\release_in_the_wild\16061.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\17406.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\30827.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\2426.wav,Boris Johnson,0,train
+data\itw\release_in_the_wild\11044.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\14705.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\26697.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\14477.wav,Barack Obama,1,train
+data\itw\release_in_the_wild\17742.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\4118.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\10765.wav,Kanye West,0,train
+data\itw\release_in_the_wild\21041.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\1931.wav,Norm MacDonald,1,train
+data\itw\release_in_the_wild\3466.wav,Milton Friedman,1,train
+data\itw\release_in_the_wild\11778.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\30222.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\2209.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\15669.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\9440.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\689.wav,Dwight Eisenhower,0,train
+data\itw\release_in_the_wild\28808.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\30989.wav,Alan Watts,1,train
+data\itw\release_in_the_wild\5526.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\15422.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\29359.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\30973.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\14886.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\7689.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\3310.wav,Mark Zuckerberg,1,train
+data\itw\release_in_the_wild\17926.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\11399.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\7873.wav,Ronald Reagan,0,train
+data\itw\release_in_the_wild\26289.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\20002.wav,Norm MacDonald,1,train
+data\itw\release_in_the_wild\6355.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\16629.wav,Frank Sinatra,1,train
+data\itw\release_in_the_wild\10682.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\16789.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\18273.wav,Alexandria Ocasio-Cortez,0,train
+data\itw\release_in_the_wild\30358.wav,JFK,1,train
+data\itw\release_in_the_wild\11085.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\5094.wav,Bill Burr,1,train
+data\itw\release_in_the_wild\2555.wav,Milton Friedman,0,train
+data\itw\release_in_the_wild\13728.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\11496.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\9758.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\19170.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\26716.wav,Barack Obama,1,train
+data\itw\release_in_the_wild\18585.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\11906.wav,Mr. Rogers,0,cal
+data\itw\release_in_the_wild\17978.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\1453.wav,Winston Churchill,1,train
+data\itw\release_in_the_wild\2220.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\10743.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\18116.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\4651.wav,Harry Truman,0,train
+data\itw\release_in_the_wild\9059.wav,Frank Sinatra,1,train
+data\itw\release_in_the_wild\14630.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\4395.wav,Boris Johnson,1,train
+data\itw\release_in_the_wild\5331.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\19984.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\13544.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\6292.wav,Martin Luther King,0,train
+data\itw\release_in_the_wild\3425.wav,Bill Burr,0,train
+data\itw\release_in_the_wild\25584.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\14825.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\20873.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\25953.wav,George Carlin,1,train
+data\itw\release_in_the_wild\21674.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\23817.wav,Jimmy Carter,1,train
+data\itw\release_in_the_wild\16325.wav,Mark Zuckerberg,1,train
+data\itw\release_in_the_wild\9776.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\31215.wav,Barack Obama,1,train
+data\itw\release_in_the_wild\31410.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\17645.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\459.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\24303.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\30730.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\17808.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\24152.wav,FDR,0,cal
+data\itw\release_in_the_wild\4192.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\12993.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\11367.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\8972.wav,Ronald Reagan,0,train
+data\itw\release_in_the_wild\23186.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\2996.wav,Ronald Reagan,0,train
+data\itw\release_in_the_wild\10218.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\5193.wav,Ronald Reagan,0,train
+data\itw\release_in_the_wild\10239.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\15763.wav,Martin Luther King,0,train
+data\itw\release_in_the_wild\603.wav,Mark Zuckerberg,0,train
+data\itw\release_in_the_wild\11481.wav,Alexandria Ocasio-Cortez,1,train
+data\itw\release_in_the_wild\7913.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\4774.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\24976.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\4419.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\8006.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\9895.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\894.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\26253.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\23924.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\544.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\23851.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\28701.wav,John Cleese,0,train
+data\itw\release_in_the_wild\22861.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\2423.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\20935.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\2981.wav,Mark Zuckerberg,1,train
+data\itw\release_in_the_wild\14760.wav,Nelson Mandela,0,train
+data\itw\release_in_the_wild\3475.wav,JFK,1,train
+data\itw\release_in_the_wild\2549.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\18435.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\12500.wav,JFK,1,train
+data\itw\release_in_the_wild\8136.wav,Malcolm X,1,test
+data\itw\release_in_the_wild\16980.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\13593.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\20058.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\1620.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\19199.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\10382.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\27284.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\31758.wav,Orson Welles,1,train
+data\itw\release_in_the_wild\6199.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\21512.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\26766.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\26945.wav,Orson Welles,1,train
+data\itw\release_in_the_wild\18601.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\4709.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\3306.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\4128.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\9877.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\18009.wav,Mark Zuckerberg,0,train
+data\itw\release_in_the_wild\27590.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\31155.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\24413.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\26339.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\29890.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\25486.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\17132.wav,Martin Luther King,1,train
+data\itw\release_in_the_wild\17518.wav,Dwight Eisenhower,0,train
+data\itw\release_in_the_wild\13909.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\17767.wav,Martin Luther King,1,train
+data\itw\release_in_the_wild\13181.wav,Winston Churchill,1,train
+data\itw\release_in_the_wild\5879.wav,Martin Luther King,0,train
+data\itw\release_in_the_wild\9908.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\21473.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\15161.wav,Bob Ross,0,train
+data\itw\release_in_the_wild\24101.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\5034.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\21983.wav,The Notorious B.I.G.,1,cal
+data\itw\release_in_the_wild\23486.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\23127.wav,Alexandria Ocasio-Cortez,0,train
+data\itw\release_in_the_wild\9516.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\6859.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\1784.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\30026.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\7601.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\16532.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\10787.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\3416.wav,George Carlin,0,train
+data\itw\release_in_the_wild\24983.wav,Alexandria Ocasio-Cortez,1,train
+data\itw\release_in_the_wild\20719.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\19381.wav,Kanye West,0,train
+data\itw\release_in_the_wild\24864.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\28519.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\19898.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\7845.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\12249.wav,Ronald Reagan,0,train
+data\itw\release_in_the_wild\10460.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\31009.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\849.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\25779.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\13977.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\19163.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\15841.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\5685.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\1872.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\26901.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\25543.wav,Dwight Eisenhower,0,train
+data\itw\release_in_the_wild\10610.wav,Martin Luther King,1,train
+data\itw\release_in_the_wild\21052.wav,The Notorious B.I.G.,1,cal
+data\itw\release_in_the_wild\28938.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\29933.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\6382.wav,Mark Zuckerberg,0,train
+data\itw\release_in_the_wild\8606.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\30012.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\17740.wav,Donald Trump,1,train
+data\itw\release_in_the_wild\16226.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\4075.wav,Tucker Carlson,0,train
+data\itw\release_in_the_wild\30180.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\22148.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\16297.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\6501.wav,Malcolm X,1,test
+data\itw\release_in_the_wild\30609.wav,Kanye West,1,train
+data\itw\release_in_the_wild\27380.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\20257.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\16767.wav,Martin Luther King,0,train
+data\itw\release_in_the_wild\20934.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\22043.wav,Jeff Goldblum,0,train
+data\itw\release_in_the_wild\18412.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\5405.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\9345.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\1385.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\29896.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\6208.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\26340.wav,Mr. Rogers,1,cal
+data\itw\release_in_the_wild\20170.wav,Tucker Carlson,1,train
+data\itw\release_in_the_wild\9956.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\9116.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\7091.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\15039.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\16485.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\15608.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\16342.wav,Alexandria Ocasio-Cortez,0,train
+data\itw\release_in_the_wild\13376.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\17683.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\20414.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\16921.wav,Calvin Coolidge,0,test
+data\itw\release_in_the_wild\2069.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\9208.wav,Donald Trump,1,train
+data\itw\release_in_the_wild\16021.wav,Mark Zuckerberg,1,train
+data\itw\release_in_the_wild\13824.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\2300.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\18947.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\3451.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\15393.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\3244.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\19690.wav,Milton Friedman,0,train
+data\itw\release_in_the_wild\28948.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\22859.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\18683.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\9227.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\22403.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\17811.wav,Ronald Reagan,0,train
+data\itw\release_in_the_wild\10314.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\19353.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\2027.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\23829.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\211.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\1300.wav,Mr. Rogers,1,cal
+data\itw\release_in_the_wild\16490.wav,Milton Friedman,1,train
+data\itw\release_in_the_wild\67.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\22864.wav,Gilbert Gottfried,1,train
+data\itw\release_in_the_wild\29392.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\12767.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\28130.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\23159.wav,Calvin Coolidge,1,test
+data\itw\release_in_the_wild\17639.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\18248.wav,Mark Zuckerberg,0,train
+data\itw\release_in_the_wild\9429.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\31335.wav,Mark Zuckerberg,0,train
+data\itw\release_in_the_wild\8781.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\17679.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\1374.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\5984.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\20908.wav,Arnold Schwarzenegger,1,train
+data\itw\release_in_the_wild\3545.wav,Boris Johnson,0,train
+data\itw\release_in_the_wild\24774.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\19115.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\17095.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\18031.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\25452.wav,Bill Burr,0,train
+data\itw\release_in_the_wild\4497.wav,Calvin Coolidge,0,test
+data\itw\release_in_the_wild\17695.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\14807.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\23500.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\13574.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\24170.wav,JFK,0,train
+data\itw\release_in_the_wild\24141.wav,Martin Luther King,0,train
+data\itw\release_in_the_wild\6810.wav,JFK,0,train
+data\itw\release_in_the_wild\15938.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\3020.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\1303.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\20520.wav,Lyndon Johnson,0,train
+data\itw\release_in_the_wild\6678.wav,Alan Watts,1,train
+data\itw\release_in_the_wild\10507.wav,Jeff Goldblum,0,train
+data\itw\release_in_the_wild\14297.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\12770.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\6140.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\17514.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\23051.wav,Scarlett Johansson,1,train
+data\itw\release_in_the_wild\6364.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\13417.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\30004.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\14625.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\5946.wav,Kamala Harris,0,train
+data\itw\release_in_the_wild\10550.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\6991.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\7011.wav,JFK,1,train
+data\itw\release_in_the_wild\25427.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\16703.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\28188.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\17453.wav,Gilbert Gottfried,0,train
+data\itw\release_in_the_wild\10838.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\18251.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\7039.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\18007.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\5693.wav,FDR,1,cal
+data\itw\release_in_the_wild\20492.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\19990.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\30729.wav,Martin Luther King,0,train
+data\itw\release_in_the_wild\26827.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\22020.wav,Arnold Schwarzenegger,1,train
+data\itw\release_in_the_wild\28843.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\16039.wav,Donald Trump,1,train
+data\itw\release_in_the_wild\21745.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\11273.wav,Winston Churchill,1,train
+data\itw\release_in_the_wild\24868.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\28360.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\16939.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\15668.wav,Arnold Schwarzenegger,0,train
+data\itw\release_in_the_wild\22000.wav,2Pac,0,test
+data\itw\release_in_the_wild\24118.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\23668.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\25714.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\31528.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\397.wav,Mark Zuckerberg,1,train
+data\itw\release_in_the_wild\16804.wav,Milton Friedman,1,train
+data\itw\release_in_the_wild\29107.wav,Alan Watts,1,train
+data\itw\release_in_the_wild\26496.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\29061.wav,Bill Burr,0,train
+data\itw\release_in_the_wild\2576.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\19447.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\14887.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\27867.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\175.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\554.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\31145.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\31671.wav,Jimmy Carter,0,train
+data\itw\release_in_the_wild\27440.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\13794.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\761.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\18953.wav,Arnold Schwarzenegger,0,train
+data\itw\release_in_the_wild\8941.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\750.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\4594.wav,Alan Watts,1,train
+data\itw\release_in_the_wild\15499.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\10387.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\6909.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\2344.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\27635.wav,Ronald Reagan,0,train
+data\itw\release_in_the_wild\2966.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\5190.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\30056.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\3027.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\11997.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\4498.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\4907.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\238.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\16853.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\20346.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\7548.wav,2Pac,0,test
+data\itw\release_in_the_wild\2191.wav,Barack Obama,1,train
+data\itw\release_in_the_wild\19224.wav,Louis C.K.,0,train
+data\itw\release_in_the_wild\10489.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\11731.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\13900.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\5302.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\21946.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\4169.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\17833.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\6230.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\18751.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\23803.wav,The Notorious B.I.G.,1,cal
+data\itw\release_in_the_wild\12545.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\17730.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\30450.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\382.wav,Arnold Schwarzenegger,0,train
+data\itw\release_in_the_wild\15492.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\149.wav,Martin Luther King,0,train
+data\itw\release_in_the_wild\14737.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\2990.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\24171.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\4444.wav,Donald Trump,1,train
+data\itw\release_in_the_wild\24883.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\10820.wav,Dwight Eisenhower,0,train
+data\itw\release_in_the_wild\22323.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\21038.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\27488.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\9195.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\19411.wav,Kanye West,1,train
+data\itw\release_in_the_wild\27521.wav,Milton Friedman,1,train
+data\itw\release_in_the_wild\7514.wav,JFK,0,train
+data\itw\release_in_the_wild\29068.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\16815.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\30844.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\25078.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\9913.wav,Alan Watts,1,train
+data\itw\release_in_the_wild\30243.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\8062.wav,Mark Zuckerberg,1,train
+data\itw\release_in_the_wild\12325.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\20982.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\9480.wav,George Carlin,0,train
+data\itw\release_in_the_wild\605.wav,Donald Trump,1,train
+data\itw\release_in_the_wild\27031.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\5953.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\2722.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\25791.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\20441.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\8393.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\25205.wav,Adam Driver,1,train
+data\itw\release_in_the_wild\10276.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\8925.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\21600.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\20299.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\5173.wav,The Notorious B.I.G.,1,cal
+data\itw\release_in_the_wild\6123.wav,Alexandria Ocasio-Cortez,0,train
+data\itw\release_in_the_wild\24321.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\3641.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\5926.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\4697.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\13040.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\4462.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\10540.wav,Martin Luther King,1,train
+data\itw\release_in_the_wild\2723.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\22391.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\13891.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\4819.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\13095.wav,Mr. Rogers,1,cal
+data\itw\release_in_the_wild\2582.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\10050.wav,Winston Churchill,1,train
+data\itw\release_in_the_wild\25279.wav,George Carlin,0,train
+data\itw\release_in_the_wild\5972.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\16147.wav,Gilbert Gottfried,1,train
+data\itw\release_in_the_wild\16291.wav,FDR,0,cal
+data\itw\release_in_the_wild\25075.wav,The Notorious B.I.G.,1,cal
+data\itw\release_in_the_wild\2568.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\22698.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\14762.wav,John Cleese,0,train
+data\itw\release_in_the_wild\15360.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\514.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\13701.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\20866.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\24687.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\24491.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\27542.wav,Barack Obama,1,train
+data\itw\release_in_the_wild\26931.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\2976.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\14045.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\19153.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\24151.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\15967.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\7248.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\12807.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\12184.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\24003.wav,Winston Churchill,1,train
+data\itw\release_in_the_wild\3987.wav,2Pac,1,test
+data\itw\release_in_the_wild\8369.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\14854.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\3338.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\6591.wav,Ronald Reagan,0,train
+data\itw\release_in_the_wild\12211.wav,JFK,1,train
+data\itw\release_in_the_wild\19074.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\8411.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\17114.wav,Mr. Rogers,1,cal
+data\itw\release_in_the_wild\23298.wav,Gilbert Gottfried,1,train
+data\itw\release_in_the_wild\24964.wav,Mark Zuckerberg,0,train
+data\itw\release_in_the_wild\17150.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\336.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\28241.wav,The Notorious B.I.G.,1,cal
+data\itw\release_in_the_wild\9719.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\8198.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\12915.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\24644.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\27983.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\21491.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\15001.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\1357.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\18299.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\21379.wav,Barack Obama,1,train
+data\itw\release_in_the_wild\23780.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\3798.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\17577.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\9519.wav,Tucker Carlson,1,train
+data\itw\release_in_the_wild\21688.wav,Boris Johnson,1,train
+data\itw\release_in_the_wild\9950.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\19294.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\22531.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\7733.wav,Alan Watts,0,train
+data\itw\release_in_the_wild\22550.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\19991.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\25950.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\24276.wav,Milton Friedman,1,train
+data\itw\release_in_the_wild\28405.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\1933.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\8857.wav,The Notorious B.I.G.,1,cal
+data\itw\release_in_the_wild\19448.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\26885.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\29125.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\31611.wav,Frank Sinatra,0,train
+data\itw\release_in_the_wild\5745.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\8205.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\9441.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\20174.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\6276.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\8244.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\14070.wav,Kanye West,1,train
+data\itw\release_in_the_wild\558.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\28228.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\2046.wav,Martin Luther King,1,train
+data\itw\release_in_the_wild\27412.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\3991.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\11003.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\30564.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\24443.wav,Martin Luther King,0,train
+data\itw\release_in_the_wild\26414.wav,Winston Churchill,1,train
+data\itw\release_in_the_wild\9144.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\30856.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\2608.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\31753.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\4193.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\9092.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\24260.wav,FDR,1,cal
+data\itw\release_in_the_wild\1970.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\20807.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\17160.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\15122.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\7080.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\22910.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\31653.wav,Gilbert Gottfried,1,train
+data\itw\release_in_the_wild\13640.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\29971.wav,JFK,1,train
+data\itw\release_in_the_wild\30420.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\26418.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\22309.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\19063.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\18579.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\31150.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\26351.wav,Ronald Reagan,0,train
+data\itw\release_in_the_wild\1947.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\13189.wav,Robert Kardashian,1,test
+data\itw\release_in_the_wild\24598.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\30884.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\3955.wav,Mitch Hedberg,1,train
+data\itw\release_in_the_wild\23681.wav,Winston Churchill,1,train
+data\itw\release_in_the_wild\10742.wav,Arnold Schwarzenegger,1,train
+data\itw\release_in_the_wild\18495.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\5958.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\26154.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\10716.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\29962.wav,Donald Trump,1,train
+data\itw\release_in_the_wild\27362.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\21715.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\13402.wav,Alan Watts,0,train
+data\itw\release_in_the_wild\5276.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\13421.wav,Alexandria Ocasio-Cortez,0,train
+data\itw\release_in_the_wild\28069.wav,2Pac,1,test
+data\itw\release_in_the_wild\21301.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\19524.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\25730.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\24421.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\20241.wav,Dwight Eisenhower,0,train
+data\itw\release_in_the_wild\26286.wav,Bill Burr,0,train
+data\itw\release_in_the_wild\23809.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\160.wav,Martin Luther King,0,train
+data\itw\release_in_the_wild\17666.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\12835.wav,JFK,1,train
+data\itw\release_in_the_wild\8928.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\26503.wav,Kanye West,0,train
+data\itw\release_in_the_wild\13205.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\14165.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\14992.wav,Dave Chappelle,1,cal
+data\itw\release_in_the_wild\25272.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\21560.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\5852.wav,Calvin Coolidge,0,test
+data\itw\release_in_the_wild\29447.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\15796.wav,Boris Johnson,0,train
+data\itw\release_in_the_wild\10769.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\19677.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\5258.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\3490.wav,Milton Friedman,1,train
+data\itw\release_in_the_wild\26680.wav,Donald Trump,1,train
+data\itw\release_in_the_wild\26881.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\26393.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\17887.wav,Mark Zuckerberg,0,train
+data\itw\release_in_the_wild\15183.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\20062.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\23050.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\23755.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\259.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\29844.wav,George Carlin,0,train
+data\itw\release_in_the_wild\3422.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\13000.wav,George Carlin,0,train
+data\itw\release_in_the_wild\5232.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\6043.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\9335.wav,Adam Driver,0,train
+data\itw\release_in_the_wild\13413.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\11800.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\10515.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\1942.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\15805.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\17421.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\10408.wav,The Notorious B.I.G.,1,cal
+data\itw\release_in_the_wild\23546.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\23659.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\21096.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\8232.wav,Lyndon Johnson,0,train
+data\itw\release_in_the_wild\15587.wav,Bill Burr,0,train
+data\itw\release_in_the_wild\20113.wav,JFK,1,train
+data\itw\release_in_the_wild\11002.wav,Dwight Eisenhower,0,train
+data\itw\release_in_the_wild\5681.wav,Nelson Mandela,0,train
+data\itw\release_in_the_wild\2437.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\15160.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\27215.wav,Barack Obama,1,train
+data\itw\release_in_the_wild\29838.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\25060.wav,Mark Zuckerberg,0,train
+data\itw\release_in_the_wild\18529.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\20977.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\20517.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\5962.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\29713.wav,Ronald Reagan,0,train
+data\itw\release_in_the_wild\8502.wav,Winston Churchill,1,train
+data\itw\release_in_the_wild\9716.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\30542.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\31533.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\19573.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\10913.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\20218.wav,Arnold Schwarzenegger,0,train
+data\itw\release_in_the_wild\1938.wav,JFK,0,train
+data\itw\release_in_the_wild\10310.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\8102.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\7972.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\9546.wav,Alan Watts,0,train
+data\itw\release_in_the_wild\14061.wav,George Carlin,0,train
+data\itw\release_in_the_wild\19188.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\28611.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\13502.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\20924.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\10806.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\3536.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\1747.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\5915.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\27159.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\1610.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\8409.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\29951.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\28816.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\24433.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\12009.wav,Jimmy Carter,1,train
+data\itw\release_in_the_wild\8116.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\5464.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\7915.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\28903.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\14790.wav,Tucker Carlson,1,train
+data\itw\release_in_the_wild\22157.wav,Mark Zuckerberg,1,train
+data\itw\release_in_the_wild\5575.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\5481.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\740.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\17044.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\3613.wav,Alan Watts,0,train
+data\itw\release_in_the_wild\30362.wav,2Pac,1,test
+data\itw\release_in_the_wild\5170.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\7392.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\1040.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\284.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\22713.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\28521.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\17445.wav,Barack Obama,1,train
+data\itw\release_in_the_wild\18045.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\8168.wav,Mark Zuckerberg,0,train
+data\itw\release_in_the_wild\24060.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\18840.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\24599.wav,Donald Trump,1,train
+data\itw\release_in_the_wild\13262.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\2763.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\12603.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\28523.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\9898.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\24258.wav,Martin Luther King,1,train
+data\itw\release_in_the_wild\1393.wav,The Notorious B.I.G.,1,cal
+data\itw\release_in_the_wild\27393.wav,Martin Luther King,1,train
+data\itw\release_in_the_wild\18487.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\16479.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\27024.wav,Alan Watts,0,train
+data\itw\release_in_the_wild\8797.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\26664.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\7511.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\28200.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\22552.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\2499.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\20953.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\10307.wav,Bill Burr,0,train
+data\itw\release_in_the_wild\24112.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\7874.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\6082.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\1382.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\2343.wav,Norm MacDonald,0,train
+data\itw\release_in_the_wild\19554.wav,George Carlin,0,train
+data\itw\release_in_the_wild\31754.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\4270.wav,JFK,0,train
+data\itw\release_in_the_wild\20896.wav,Mark Zuckerberg,0,train
+data\itw\release_in_the_wild\18033.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\24778.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\26568.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\2944.wav,Winston Churchill,1,train
+data\itw\release_in_the_wild\796.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\28161.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\27195.wav,Orson Welles,1,train
+data\itw\release_in_the_wild\15714.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\25117.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\20005.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\994.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\16692.wav,Alexandria Ocasio-Cortez,1,train
+data\itw\release_in_the_wild\16527.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\21590.wav,Adam Driver,1,train
+data\itw\release_in_the_wild\14801.wav,George Carlin,0,train
+data\itw\release_in_the_wild\7606.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\2302.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\29499.wav,Arnold Schwarzenegger,0,train
+data\itw\release_in_the_wild\5366.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\12203.wav,JFK,1,train
+data\itw\release_in_the_wild\3576.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\23550.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\23378.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\3866.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\21400.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\18535.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\13890.wav,Donald Trump,1,train
+data\itw\release_in_the_wild\15288.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\21429.wav,Milton Friedman,0,train
+data\itw\release_in_the_wild\17916.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\859.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\2940.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\31341.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\19330.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\15695.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\31163.wav,Boris Johnson,0,train
+data\itw\release_in_the_wild\22238.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\28629.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\7565.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\5950.wav,Milton Friedman,0,train
+data\itw\release_in_the_wild\16170.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\15868.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\325.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\17500.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\23369.wav,John Cleese,1,train
+data\itw\release_in_the_wild\3989.wav,Alan Watts,1,train
+data\itw\release_in_the_wild\20926.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\23281.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\30689.wav,Milton Friedman,1,train
+data\itw\release_in_the_wild\27094.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\24361.wav,Ronald Reagan,0,train
+data\itw\release_in_the_wild\26024.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\285.wav,Winston Churchill,1,train
+data\itw\release_in_the_wild\24944.wav,FDR,0,cal
+data\itw\release_in_the_wild\9372.wav,Harry Truman,0,train
+data\itw\release_in_the_wild\18284.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\16301.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\31304.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\30700.wav,Dave Chappelle,0,cal
+data\itw\release_in_the_wild\28363.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\20194.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\9390.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\17041.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\29306.wav,Jimmy Carter,1,train
+data\itw\release_in_the_wild\4914.wav,Arnold Schwarzenegger,0,train
+data\itw\release_in_the_wild\3496.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\8191.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\16048.wav,Louis C.K.,1,train
+data\itw\release_in_the_wild\10223.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\23087.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\29984.wav,Norm MacDonald,1,train
+data\itw\release_in_the_wild\9938.wav,Bob Ross,0,train
+data\itw\release_in_the_wild\4347.wav,Martin Luther King,0,train
+data\itw\release_in_the_wild\23761.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\2925.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\27795.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\11741.wav,Ronald Reagan,0,train
+data\itw\release_in_the_wild\2049.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\22814.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\17751.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\30988.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\21931.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\22822.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\22529.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\1722.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\2438.wav,Martin Luther King,0,train
+data\itw\release_in_the_wild\24110.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\1536.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\11919.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\18118.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\15940.wav,Boris Johnson,0,train
+data\itw\release_in_the_wild\12687.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\26823.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\9464.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\2505.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\28105.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\19172.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\29211.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\10751.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\21248.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\24462.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\9897.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\22601.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\18733.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\8969.wav,FDR,1,cal
+data\itw\release_in_the_wild\202.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\25173.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\24566.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\25253.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\5253.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\7305.wav,Mark Zuckerberg,0,train
+data\itw\release_in_the_wild\18426.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\28291.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\29867.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\24412.wav,Barack Obama,1,train
+data\itw\release_in_the_wild\15139.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\12168.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\7835.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\5055.wav,JFK,0,train
+data\itw\release_in_the_wild\25259.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\17099.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\19798.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\17606.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\621.wav,Mark Zuckerberg,1,train
+data\itw\release_in_the_wild\18849.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\18352.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\24350.wav,Gilbert Gottfried,0,train
+data\itw\release_in_the_wild\20493.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\18877.wav,Winston Churchill,1,train
+data\itw\release_in_the_wild\29885.wav,Milton Friedman,1,train
+data\itw\release_in_the_wild\2519.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\15789.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\31594.wav,Alan Watts,1,train
+data\itw\release_in_the_wild\31690.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\16613.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\4696.wav,Martin Luther King,1,train
+data\itw\release_in_the_wild\5758.wav,Alan Watts,0,train
+data\itw\release_in_the_wild\9618.wav,The Notorious B.I.G.,1,cal
+data\itw\release_in_the_wild\4525.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\27649.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\31354.wav,Mark Zuckerberg,0,train
+data\itw\release_in_the_wild\17415.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\12769.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\23697.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\30915.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\11659.wav,Gilbert Gottfried,1,train
+data\itw\release_in_the_wild\23146.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\22672.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\9255.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\23572.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\11743.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\28277.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\15621.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\11649.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\31324.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\25723.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\25198.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\3588.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\24836.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\23375.wav,Martin Luther King,0,train
+data\itw\release_in_the_wild\30261.wav,Robert Kardashian,1,test
+data\itw\release_in_the_wild\21731.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\11018.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\15315.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\21149.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\24363.wav,Mr. Rogers,0,cal
+data\itw\release_in_the_wild\28116.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\12031.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\2611.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\30658.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\22871.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\15814.wav,JFK,0,train
+data\itw\release_in_the_wild\8679.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\25434.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\22862.wav,JFK,0,train
+data\itw\release_in_the_wild\20874.wav,Barack Obama,1,train
+data\itw\release_in_the_wild\21993.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\2228.wav,Arnold Schwarzenegger,1,train
+data\itw\release_in_the_wild\13086.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\24893.wav,Mr. Rogers,1,cal
+data\itw\release_in_the_wild\5599.wav,Martin Luther King,0,train
+data\itw\release_in_the_wild\31472.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\18047.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\6366.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\23204.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\1173.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\9628.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\14723.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\8532.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\27824.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\22754.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\17167.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\28227.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\10723.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\30220.wav,George Carlin,1,train
+data\itw\release_in_the_wild\31632.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\20838.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\6782.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\22298.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\31089.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\5871.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\18564.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\22053.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\14094.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\9349.wav,George Carlin,0,train
+data\itw\release_in_the_wild\21941.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\9077.wav,Donald Trump,1,train
+data\itw\release_in_the_wild\10569.wav,George W. Bush,0,test
+data\itw\release_in_the_wild\19646.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\29910.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\31598.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\25148.wav,Alan Watts,0,train
+data\itw\release_in_the_wild\12902.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\5081.wav,Robert Kardashian,1,test
+data\itw\release_in_the_wild\21171.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\10021.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\6940.wav,JFK,0,train
+data\itw\release_in_the_wild\24172.wav,George Carlin,1,train
+data\itw\release_in_the_wild\13367.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\3477.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\17311.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\30366.wav,Bill Burr,1,train
+data\itw\release_in_the_wild\2244.wav,Milton Friedman,0,train
+data\itw\release_in_the_wild\21497.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\12497.wav,Nelson Mandela,0,train
+data\itw\release_in_the_wild\3123.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\17915.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\12504.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\2882.wav,Louis C.K.,1,train
+data\itw\release_in_the_wild\21533.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\5392.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\9914.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\16197.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\29000.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\12286.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\8716.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\5924.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\28571.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\24479.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\27754.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\13136.wav,Dwight Eisenhower,0,train
+data\itw\release_in_the_wild\12267.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\2107.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\8662.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\17360.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\12487.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\20289.wav,Alan Watts,1,train
+data\itw\release_in_the_wild\11059.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\18015.wav,Ronald Reagan,0,train
+data\itw\release_in_the_wild\25934.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\568.wav,Adam Driver,0,train
+data\itw\release_in_the_wild\28030.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\27968.wav,Donald Trump,1,train
+data\itw\release_in_the_wild\4666.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\8050.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\949.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\16357.wav,Alexandria Ocasio-Cortez,0,train
+data\itw\release_in_the_wild\28929.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\12222.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\18485.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\3452.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\22106.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\5509.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\26934.wav,George Carlin,1,train
+data\itw\release_in_the_wild\14043.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\9627.wav,John Cleese,0,train
+data\itw\release_in_the_wild\2492.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\22338.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\24453.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\18735.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\11451.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\4588.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\20459.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\8430.wav,Robert Kardashian,1,test
+data\itw\release_in_the_wild\5838.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\12597.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\18098.wav,Mark Zuckerberg,0,train
+data\itw\release_in_the_wild\5730.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\22714.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\2193.wav,John Cleese,1,train
+data\itw\release_in_the_wild\15101.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\22451.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\21156.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\9151.wav,Barack Obama,1,train
+data\itw\release_in_the_wild\8677.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\9974.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\26956.wav,JFK,0,train
+data\itw\release_in_the_wild\21979.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\11626.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\10456.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\26950.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\26939.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\3889.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\25498.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\17569.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\27729.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\5298.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\10984.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\23515.wav,FDR,1,cal
+data\itw\release_in_the_wild\17995.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\17036.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\6841.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\3312.wav,Alan Watts,1,train
+data\itw\release_in_the_wild\21106.wav,Milton Friedman,1,train
+data\itw\release_in_the_wild\7102.wav,Alan Watts,1,train
+data\itw\release_in_the_wild\1035.wav,Ronald Reagan,0,train
+data\itw\release_in_the_wild\18427.wav,Dwight Eisenhower,0,train
+data\itw\release_in_the_wild\25633.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\18915.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\8080.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\21686.wav,Mark Zuckerberg,0,train
+data\itw\release_in_the_wild\27764.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\26617.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\7101.wav,The Notorious B.I.G.,1,cal
+data\itw\release_in_the_wild\31656.wav,Ronald Reagan,0,train
+data\itw\release_in_the_wild\14903.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\264.wav,Gilbert Gottfried,0,train
+data\itw\release_in_the_wild\848.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\27064.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\23513.wav,Ronald Reagan,0,train
+data\itw\release_in_the_wild\8020.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\31703.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\21523.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\21964.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\25765.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\28624.wav,Adam Driver,1,train
+data\itw\release_in_the_wild\23352.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\18761.wav,2Pac,0,test
+data\itw\release_in_the_wild\10650.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\24036.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\21770.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\6421.wav,JFK,0,train
+data\itw\release_in_the_wild\16943.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\17004.wav,JFK,1,train
+data\itw\release_in_the_wild\25990.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\8157.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\23816.wav,JFK,0,train
+data\itw\release_in_the_wild\21487.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\29217.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\8988.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\8296.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\17755.wav,Mark Zuckerberg,0,train
+data\itw\release_in_the_wild\10129.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\30023.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\6027.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\17192.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\7613.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\19988.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\2449.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\25538.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\21471.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\10854.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\17900.wav,Milton Friedman,1,train
+data\itw\release_in_the_wild\13536.wav,Alexandria Ocasio-Cortez,0,train
+data\itw\release_in_the_wild\28176.wav,Alec Guinness,0,train
+data\itw\release_in_the_wild\21265.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\1160.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\8618.wav,Mitch Hedberg,0,train
+data\itw\release_in_the_wild\14361.wav,Alan Watts,1,train
+data\itw\release_in_the_wild\13591.wav,Milton Friedman,1,train
+data\itw\release_in_the_wild\4381.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\28755.wav,George W. Bush,0,test
+data\itw\release_in_the_wild\5338.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\25695.wav,Milton Friedman,1,train
+data\itw\release_in_the_wild\29232.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\16652.wav,Milton Friedman,0,train
+data\itw\release_in_the_wild\19368.wav,Calvin Coolidge,0,test
+data\itw\release_in_the_wild\5486.wav,Alexandria Ocasio-Cortez,1,train
+data\itw\release_in_the_wild\8228.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\14839.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\20727.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\31652.wav,Mark Zuckerberg,0,train
+data\itw\release_in_the_wild\31689.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\2646.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\6585.wav,Arnold Schwarzenegger,0,train
+data\itw\release_in_the_wild\21625.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\3454.wav,Christopher Hitchens,0,train
+data\itw\release_in_the_wild\24635.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\28197.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\26120.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\8063.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\8292.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\10171.wav,Dwight Eisenhower,1,train
+data\itw\release_in_the_wild\29254.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\27090.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\8437.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\13980.wav,Winston Churchill,0,train
+data\itw\release_in_the_wild\22797.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\476.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\20844.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\11430.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\2856.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\13714.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\1735.wav,Malcolm X,1,test
+data\itw\release_in_the_wild\29684.wav,Lyndon Johnson,0,train
+data\itw\release_in_the_wild\31492.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\12496.wav,Barack Obama,0,train
+data\itw\release_in_the_wild\22210.wav,Ayn Rand,0,train
+data\itw\release_in_the_wild\21937.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\10395.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\20278.wav,Winston Churchill,1,train
+data\itw\release_in_the_wild\31030.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\8915.wav,Winston Churchill,1,train
+data\itw\release_in_the_wild\6518.wav,Donald Trump,0,train
+data\itw\release_in_the_wild\31006.wav,Ronald Reagan,0,train
+data\itw\release_in_the_wild\17581.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\17429.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\13547.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\12957.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\28081.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\4496.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\21199.wav,2Pac,1,test
+data\itw\release_in_the_wild\8448.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\20171.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\24694.wav,JFK,1,train
+data\itw\release_in_the_wild\29024.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\28590.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\30167.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\19301.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\2379.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\30206.wav,Robert Kardashian,1,test
+data\itw\release_in_the_wild\23464.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\23581.wav,Norm MacDonald,1,train
+data\itw\release_in_the_wild\189.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\1140.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\2774.wav,Adam Driver,1,train
+data\itw\release_in_the_wild\22204.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\1359.wav,Martin Luther King,1,train
+data\itw\release_in_the_wild\10566.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\30038.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\10290.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\17473.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\24328.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\451.wav,Winston Churchill,1,train
+data\itw\release_in_the_wild\23935.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\25228.wav,Alan Watts,1,train
+data\itw\release_in_the_wild\5594.wav,Boris Johnson,1,train
+data\itw\release_in_the_wild\10003.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\8529.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\3176.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\22723.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\16987.wav,Milton Friedman,1,train
+data\itw\release_in_the_wild\16258.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\23022.wav,William F. Buckley,1,train
+data\itw\release_in_the_wild\31536.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\19920.wav,Mark Zuckerberg,1,train
+data\itw\release_in_the_wild\25324.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\12071.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\48.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\10327.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\3541.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\15998.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\12323.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\29769.wav,Boris Johnson,1,train
+data\itw\release_in_the_wild\11862.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\19753.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\21172.wav,Boris Johnson,1,train
+data\itw\release_in_the_wild\25079.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\5848.wav,FDR,0,cal
+data\itw\release_in_the_wild\30891.wav,Martin Luther King,1,train
+data\itw\release_in_the_wild\15992.wav,Martin Luther King,1,train
+data\itw\release_in_the_wild\9354.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\18740.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\24391.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\15935.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\30825.wav,Dwight Eisenhower,1,train
+data\itw\release_in_the_wild\19263.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\7626.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\8877.wav,Winston Churchill,1,train
+data\itw\release_in_the_wild\10271.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\25701.wav,FDR,1,cal
+data\itw\release_in_the_wild\12043.wav,Kanye West,1,train
+data\itw\release_in_the_wild\20550.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\30286.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\14682.wav,Milton Friedman,1,train
+data\itw\release_in_the_wild\23863.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\7617.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\23401.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\18778.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\18044.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\27625.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\17671.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\5872.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\10151.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\26538.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\6282.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\1554.wav,Boris Johnson,1,train
+data\itw\release_in_the_wild\21251.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\30769.wav,Mr. Rogers,1,cal
+data\itw\release_in_the_wild\7719.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\10987.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\18816.wav,Orson Welles,1,train
+data\itw\release_in_the_wild\9633.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\15975.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\24346.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\30772.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\20879.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\27201.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\24381.wav,George W. Bush,0,test
+data\itw\release_in_the_wild\4960.wav,JFK,1,train
+data\itw\release_in_the_wild\9321.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\14716.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\28006.wav,Alan Watts,1,train
+data\itw\release_in_the_wild\10500.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\24202.wav,George W. Bush,0,test
+data\itw\release_in_the_wild\6432.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\13495.wav,The Notorious B.I.G.,1,cal
+data\itw\release_in_the_wild\3331.wav,Malcolm X,1,test
+data\itw\release_in_the_wild\18148.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\10477.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\10063.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\11441.wav,Barack Obama,1,train
+data\itw\release_in_the_wild\27894.wav,Boris Johnson,1,train
+data\itw\release_in_the_wild\10700.wav,Winston Churchill,1,train
+data\itw\release_in_the_wild\23205.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\12736.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\22484.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\6060.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\24693.wav,Tucker Carlson,1,train
+data\itw\release_in_the_wild\13146.wav,Norm MacDonald,1,train
+data\itw\release_in_the_wild\18064.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\3661.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\11288.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\19854.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\14171.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\2088.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\3706.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\2462.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\2025.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\15728.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\8935.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\19065.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\17845.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\23890.wav,Mark Zuckerberg,1,train
+data\itw\release_in_the_wild\16042.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\5508.wav,Milton Friedman,1,train
+data\itw\release_in_the_wild\18760.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\4061.wav,Barack Obama,1,train
+data\itw\release_in_the_wild\10049.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\21042.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\31317.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\27268.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\4710.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\12083.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\24809.wav,Mr. Rogers,0,cal
+data\itw\release_in_the_wild\30217.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\17416.wav,Adam Driver,1,train
+data\itw\release_in_the_wild\13142.wav,Dwight Eisenhower,1,train
+data\itw\release_in_the_wild\2407.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\22540.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\11536.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\14538.wav,The Notorious B.I.G.,1,cal
+data\itw\release_in_the_wild\28534.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\29305.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\20854.wav,Barack Obama,1,train
+data\itw\release_in_the_wild\11127.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\18600.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\23586.wav,Barack Obama,1,train
+data\itw\release_in_the_wild\3144.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\10920.wav,Mark Zuckerberg,1,train
+data\itw\release_in_the_wild\2814.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\19484.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\16566.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\19039.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\14753.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\17153.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\10157.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\26810.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\27573.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\16640.wav,Donald Trump,1,train
+data\itw\release_in_the_wild\2478.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\29344.wav,Alexandria Ocasio-Cortez,1,train
+data\itw\release_in_the_wild\6842.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\22610.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\1930.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\17878.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\23793.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\16902.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\11252.wav,Alan Watts,1,train
+data\itw\release_in_the_wild\4534.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\16773.wav,Boris Johnson,1,train
+data\itw\release_in_the_wild\10938.wav,Lyndon Johnson,1,train
+data\itw\release_in_the_wild\21607.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\12062.wav,Mr. Rogers,1,cal
+data\itw\release_in_the_wild\17741.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\23885.wav,Mark Zuckerberg,1,train
+data\itw\release_in_the_wild\446.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\8019.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\13606.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\16799.wav,Alexandria Ocasio-Cortez,1,train
+data\itw\release_in_the_wild\29568.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\10397.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\4672.wav,Barack Obama,1,train
+data\itw\release_in_the_wild\7738.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\27399.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\25868.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\6856.wav,Milton Friedman,1,train
+data\itw\release_in_the_wild\27936.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\29741.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\31127.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\7784.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\31402.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\20943.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\15138.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\4636.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\9817.wav,George Carlin,1,train
+data\itw\release_in_the_wild\23635.wav,Mark Zuckerberg,1,train
+data\itw\release_in_the_wild\27305.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\27578.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\12822.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\13118.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\20455.wav,George Carlin,1,train
+data\itw\release_in_the_wild\23495.wav,Orson Welles,1,train
+data\itw\release_in_the_wild\19087.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\28312.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\9531.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\275.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\21869.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\24661.wav,The Notorious B.I.G.,1,cal
+data\itw\release_in_the_wild\14543.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\10444.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\21492.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\14829.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\2640.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\31767.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\14668.wav,FDR,0,cal
+data\itw\release_in_the_wild\19620.wav,Orson Welles,1,train
+data\itw\release_in_the_wild\15459.wav,Tucker Carlson,1,train
+data\itw\release_in_the_wild\23738.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\25197.wav,Dwight Eisenhower,1,train
+data\itw\release_in_the_wild\24463.wav,FDR,1,cal
+data\itw\release_in_the_wild\30312.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\1613.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\21582.wav,Alan Watts,1,train
+data\itw\release_in_the_wild\17940.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\13257.wav,2Pac,1,test
+data\itw\release_in_the_wild\17661.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\24231.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\9639.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\27047.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\2161.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\24493.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\26662.wav,Tucker Carlson,1,train
+data\itw\release_in_the_wild\26390.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\5091.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\18317.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\8164.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\31676.wav,Alan Watts,1,train
+data\itw\release_in_the_wild\21274.wav,Mr. Rogers,1,cal
+data\itw\release_in_the_wild\16296.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\17423.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\11938.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\5635.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\29557.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\6352.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\16111.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\11691.wav,JFK,1,train
+data\itw\release_in_the_wild\809.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\17151.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\8388.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\22668.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\876.wav,FDR,0,cal
+data\itw\release_in_the_wild\25132.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\1834.wav,Malcolm X,1,test
+data\itw\release_in_the_wild\16797.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\5067.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\692.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\9487.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\7574.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\27435.wav,FDR,0,cal
+data\itw\release_in_the_wild\31497.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\8439.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\12335.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\1644.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\868.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\10147.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\17567.wav,Adam Driver,1,train
+data\itw\release_in_the_wild\4385.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\5458.wav,Jerry Seinfeld,1,train
+data\itw\release_in_the_wild\5515.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\11389.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\28306.wav,FDR,1,cal
+data\itw\release_in_the_wild\10609.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\15746.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\1483.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\26505.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\26816.wav,Alan Watts,1,train
+data\itw\release_in_the_wild\17362.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\20166.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\8190.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\16752.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\5248.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\30010.wav,Orson Welles,1,train
+data\itw\release_in_the_wild\904.wav,Mr. Rogers,1,cal
+data\itw\release_in_the_wild\5603.wav,Barack Obama,1,train
+data\itw\release_in_the_wild\18973.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\18824.wav,Robert Kardashian,1,test
+data\itw\release_in_the_wild\27477.wav,Boris Johnson,1,train
+data\itw\release_in_the_wild\14835.wav,Milton Friedman,1,train
+data\itw\release_in_the_wild\8160.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\4638.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\22952.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\13932.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\27677.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\7718.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\19131.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\11211.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\10584.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\10052.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\7319.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\4365.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\27594.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\2471.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\17216.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\26122.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\31050.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\21247.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\616.wav,Mark Zuckerberg,1,train
+data\itw\release_in_the_wild\10066.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\20609.wav,Martin Luther King,1,train
+data\itw\release_in_the_wild\901.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\3217.wav,Martin Luther King,1,train
+data\itw\release_in_the_wild\31685.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\16116.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\4424.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\1561.wav,Alan Watts,1,train
+data\itw\release_in_the_wild\24295.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\4904.wav,JFK,1,train
+data\itw\release_in_the_wild\4337.wav,Alexandria Ocasio-Cortez,1,train
+data\itw\release_in_the_wild\18214.wav,Winston Churchill,1,train
+data\itw\release_in_the_wild\20889.wav,FDR,1,cal
+data\itw\release_in_the_wild\19064.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\21089.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\4730.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\30137.wav,Barack Obama,1,train
+data\itw\release_in_the_wild\23326.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\2357.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\23735.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\21305.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\8195.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\3455.wav,Mark Zuckerberg,1,train
+data\itw\release_in_the_wild\5179.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\25328.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\24261.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\30828.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\6764.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\25978.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\25692.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\485.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\26629.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\2270.wav,The Notorious B.I.G.,1,cal
+data\itw\release_in_the_wild\23521.wav,Harry Truman,1,train
+data\itw\release_in_the_wild\1237.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\29131.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\27654.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\13161.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\1965.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\17713.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\5145.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\9677.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\1510.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\11747.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\2293.wav,2Pac,0,test
+data\itw\release_in_the_wild\26136.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\12865.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\30006.wav,Adam Driver,1,train
+data\itw\release_in_the_wild\4734.wav,Jimmy Carter,1,train
+data\itw\release_in_the_wild\13765.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\21543.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\2725.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\1601.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\8551.wav,Arnold Schwarzenegger,1,train
+data\itw\release_in_the_wild\4677.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\12507.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\6237.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\7193.wav,Alan Watts,1,train
+data\itw\release_in_the_wild\22978.wav,Orson Welles,1,train
+data\itw\release_in_the_wild\18029.wav,Martin Luther King,1,train
+data\itw\release_in_the_wild\18477.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\20614.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\27431.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\28855.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\2677.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\23036.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\12406.wav,Mark Zuckerberg,1,train
+data\itw\release_in_the_wild\18672.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\884.wav,Jerry Seinfeld,1,train
+data\itw\release_in_the_wild\12818.wav,Milton Friedman,1,train
+data\itw\release_in_the_wild\25773.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\3484.wav,Milton Friedman,1,train
+data\itw\release_in_the_wild\24509.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\3249.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\13016.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\5362.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\8367.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\21996.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\597.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\15820.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\26151.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\21665.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\6756.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\2409.wav,Barack Obama,1,train
+data\itw\release_in_the_wild\15602.wav,Winston Churchill,1,train
+data\itw\release_in_the_wild\4702.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\30577.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\29621.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\10216.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\1110.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\14736.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\3690.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\28975.wav,FDR,0,cal
+data\itw\release_in_the_wild\25612.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\14111.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\28015.wav,Kamala Harris,1,train
+data\itw\release_in_the_wild\30687.wav,FDR,0,cal
+data\itw\release_in_the_wild\13559.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\20573.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\569.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\7790.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\22949.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\7846.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\24387.wav,FDR,0,cal
+data\itw\release_in_the_wild\29691.wav,Gilbert Gottfried,1,train
+data\itw\release_in_the_wild\2548.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\20460.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\21649.wav,Orson Welles,1,train
+data\itw\release_in_the_wild\29431.wav,The Notorious B.I.G.,1,cal
+data\itw\release_in_the_wild\2920.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\10755.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\27128.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\28599.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\570.wav,The Notorious B.I.G.,1,cal
+data\itw\release_in_the_wild\9642.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\22202.wav,Alan Watts,1,train
+data\itw\release_in_the_wild\19607.wav,Winston Churchill,1,train
+data\itw\release_in_the_wild\24262.wav,Norm MacDonald,1,train
+data\itw\release_in_the_wild\29801.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\27078.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\10720.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\19102.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\21877.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\26818.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\21888.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\8415.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\29095.wav,JFK,1,train
+data\itw\release_in_the_wild\11710.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\12657.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\31465.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\26661.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\25273.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\7815.wav,Donald Trump,1,train
+data\itw\release_in_the_wild\6363.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\7634.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\2813.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\1069.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\15806.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\3034.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\6031.wav,Arnold Schwarzenegger,1,train
+data\itw\release_in_the_wild\15060.wav,Mark Zuckerberg,1,train
+data\itw\release_in_the_wild\7755.wav,Dwight Eisenhower,1,train
+data\itw\release_in_the_wild\13006.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\1940.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\23198.wav,Scarlett Johansson,1,train
+data\itw\release_in_the_wild\22307.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\11768.wav,2Pac,1,test
+data\itw\release_in_the_wild\8285.wav,The Notorious B.I.G.,1,cal
+data\itw\release_in_the_wild\1292.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\17190.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\6089.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\23193.wav,Mark Zuckerberg,1,train
+data\itw\release_in_the_wild\15166.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\15547.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\5980.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\20779.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\23788.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\20985.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\17441.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\14751.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\17910.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\11640.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\7547.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\827.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\13448.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\9881.wav,JFK,1,train
+data\itw\release_in_the_wild\18422.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\4895.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\10698.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\30980.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\11304.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\4354.wav,JFK,1,train
+data\itw\release_in_the_wild\31535.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\29145.wav,Dave Chappelle,1,cal
+data\itw\release_in_the_wild\26756.wav,Barack Obama,1,train
+data\itw\release_in_the_wild\6227.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\30156.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\15295.wav,Alan Watts,1,train
+data\itw\release_in_the_wild\12565.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\5546.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\23421.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\14271.wav,Boris Johnson,1,train
+data\itw\release_in_the_wild\20043.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\12667.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\14415.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\443.wav,Arnold Schwarzenegger,1,train
+data\itw\release_in_the_wild\13910.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\10542.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\7079.wav,Gilbert Gottfried,1,train
+data\itw\release_in_the_wild\16894.wav,Milton Friedman,1,train
+data\itw\release_in_the_wild\31241.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\20339.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\27411.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\25161.wav,Alan Watts,1,train
+data\itw\release_in_the_wild\30775.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\10114.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\15006.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\11761.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\8320.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\23295.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\853.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\10164.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\728.wav,Jerry Seinfeld,1,train
+data\itw\release_in_the_wild\20120.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\20154.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\17836.wav,Jerry Seinfeld,1,train
+data\itw\release_in_the_wild\7147.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\1105.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\28147.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\7498.wav,Martin Luther King,1,train
+data\itw\release_in_the_wild\27334.wav,Norm MacDonald,1,train
+data\itw\release_in_the_wild\28558.wav,FDR,0,cal
+data\itw\release_in_the_wild\15077.wav,2Pac,1,test
+data\itw\release_in_the_wild\19449.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\28008.wav,William F. Buckley,1,train
+data\itw\release_in_the_wild\21372.wav,Nick Offerman,1,test
+data\itw\release_in_the_wild\22917.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\21848.wav,Adam Driver,1,train
+data\itw\release_in_the_wild\14998.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\25716.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\7287.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\2525.wav,Winston Churchill,1,train
+data\itw\release_in_the_wild\30088.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\9280.wav,Alan Watts,1,train
+data\itw\release_in_the_wild\8675.wav,FDR,0,cal
+data\itw\release_in_the_wild\9602.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\2745.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\3666.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\14864.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\17391.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\24913.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\24870.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\15811.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\22269.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\31448.wav,Gilbert Gottfried,1,train
+data\itw\release_in_the_wild\20998.wav,FDR,1,cal
+data\itw\release_in_the_wild\17549.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\20362.wav,Norm MacDonald,1,train
+data\itw\release_in_the_wild\15712.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\26004.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\29032.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\1827.wav,Tucker Carlson,1,train
+data\itw\release_in_the_wild\7683.wav,Tucker Carlson,1,train
+data\itw\release_in_the_wild\20091.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\7942.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\21084.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\20340.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\23507.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\26112.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\13186.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\2174.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\22189.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\16501.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\13018.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\25624.wav,Donald Trump,1,train
+data\itw\release_in_the_wild\6593.wav,Alan Watts,1,train
+data\itw\release_in_the_wild\15513.wav,Alan Watts,1,train
+data\itw\release_in_the_wild\31418.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\11585.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\6938.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\6417.wav,Mr. Rogers,1,cal
+data\itw\release_in_the_wild\28184.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\6116.wav,The Notorious B.I.G.,1,cal
+data\itw\release_in_the_wild\18264.wav,Alan Watts,1,train
+data\itw\release_in_the_wild\7744.wav,Adam Driver,1,train
+data\itw\release_in_the_wild\10618.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\898.wav,Barack Obama,1,train
+data\itw\release_in_the_wild\25084.wav,Milton Friedman,1,train
+data\itw\release_in_the_wild\3707.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\20143.wav,Martin Luther King,1,train
+data\itw\release_in_the_wild\25178.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\17965.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\865.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\6086.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\7821.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\10989.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\8590.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\14834.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\21971.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\7974.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\4484.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\29881.wav,FDR,1,cal
+data\itw\release_in_the_wild\9693.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\25007.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\8717.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\25013.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\21552.wav,George Carlin,1,train
+data\itw\release_in_the_wild\9031.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\15660.wav,Lyndon Johnson,1,train
+data\itw\release_in_the_wild\30444.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\10654.wav,Bill Burr,1,train
+data\itw\release_in_the_wild\27923.wav,Orson Welles,1,train
+data\itw\release_in_the_wild\4339.wav,Louis C.K.,1,train
+data\itw\release_in_the_wild\14572.wav,The Notorious B.I.G.,1,cal
+data\itw\release_in_the_wild\23169.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\6686.wav,JFK,1,train
+data\itw\release_in_the_wild\28805.wav,Adam Driver,1,train
+data\itw\release_in_the_wild\8199.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\14175.wav,The Notorious B.I.G.,1,cal
+data\itw\release_in_the_wild\62.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\20938.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\3443.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\7834.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\9468.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\18358.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\14265.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\28269.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\23585.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\23288.wav,Winston Churchill,1,train
+data\itw\release_in_the_wild\21195.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\19495.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\26133.wav,Barack Obama,1,train
+data\itw\release_in_the_wild\7591.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\17551.wav,Kanye West,1,train
+data\itw\release_in_the_wild\28779.wav,Orson Welles,1,train
+data\itw\release_in_the_wild\23929.wav,Milton Friedman,1,train
+data\itw\release_in_the_wild\10625.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\11104.wav,The Notorious B.I.G.,1,cal
+data\itw\release_in_the_wild\21252.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\19114.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\30861.wav,FDR,0,cal
+data\itw\release_in_the_wild\14278.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\21943.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\3430.wav,Winston Churchill,1,train
+data\itw\release_in_the_wild\18719.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\1749.wav,Dwight Eisenhower,1,train
+data\itw\release_in_the_wild\24218.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\21456.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\5473.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\28885.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\30441.wav,Dave Chappelle,0,cal
+data\itw\release_in_the_wild\11777.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\7826.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\7048.wav,Kanye West,1,train
+data\itw\release_in_the_wild\19724.wav,FDR,0,cal
+data\itw\release_in_the_wild\15726.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\4151.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\27704.wav,George Carlin,1,train
+data\itw\release_in_the_wild\11534.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\17650.wav,Barack Obama,1,train
+data\itw\release_in_the_wild\18764.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\17300.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\18027.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\13396.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\15174.wav,Barack Obama,1,train
+data\itw\release_in_the_wild\27513.wav,Kanye West,1,train
+data\itw\release_in_the_wild\17640.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\28272.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\18501.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\27153.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\5584.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\6776.wav,John Cleese,1,train
+data\itw\release_in_the_wild\2933.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\24898.wav,Boris Johnson,1,train
+data\itw\release_in_the_wild\24607.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\16495.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\24993.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\20367.wav,Scarlett Johansson,1,train
+data\itw\release_in_the_wild\14715.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\18375.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\9940.wav,Alan Watts,1,train
+data\itw\release_in_the_wild\11847.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\5965.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\2211.wav,Norm MacDonald,1,train
+data\itw\release_in_the_wild\7235.wav,Winston Churchill,1,train
+data\itw\release_in_the_wild\3625.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\25263.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\13366.wav,Winston Churchill,1,train
+data\itw\release_in_the_wild\31293.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\14672.wav,Dave Chappelle,0,cal
+data\itw\release_in_the_wild\28280.wav,Barack Obama,1,train
+data\itw\release_in_the_wild\30016.wav,FDR,0,cal
+data\itw\release_in_the_wild\7813.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\3136.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\23840.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\28712.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\7024.wav,Donald Trump,1,train
+data\itw\release_in_the_wild\14402.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\13487.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\542.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\12508.wav,Harry Truman,1,train
+data\itw\release_in_the_wild\17390.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\15042.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\15926.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\21331.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\10105.wav,Barack Obama,1,train
+data\itw\release_in_the_wild\7863.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\5651.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\27200.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\23313.wav,Adam Driver,1,train
+data\itw\release_in_the_wild\15106.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\12991.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\10964.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\9837.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\24159.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\9509.wav,Alan Watts,1,train
+data\itw\release_in_the_wild\26432.wav,Boris Johnson,1,train
+data\itw\release_in_the_wild\31447.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\2095.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\25741.wav,FDR,0,cal
+data\itw\release_in_the_wild\13941.wav,Norm MacDonald,1,train
+data\itw\release_in_the_wild\19734.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\31380.wav,The Notorious B.I.G.,1,cal
+data\itw\release_in_the_wild\15436.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\15428.wav,Martin Luther King,1,train
+data\itw\release_in_the_wild\17613.wav,Gilbert Gottfried,1,train
+data\itw\release_in_the_wild\28507.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\2441.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\14937.wav,Arnold Schwarzenegger,1,train
+data\itw\release_in_the_wild\5529.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\2078.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\16254.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\11737.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\14317.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\23189.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\12737.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\12539.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\22235.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\16609.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\14285.wav,Martin Luther King,1,train
+data\itw\release_in_the_wild\29542.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\30902.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\14856.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\15766.wav,FDR,1,cal
+data\itw\release_in_the_wild\9201.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\14482.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\3819.wav,Boris Johnson,1,train
+data\itw\release_in_the_wild\1679.wav,Milton Friedman,1,train
+data\itw\release_in_the_wild\31513.wav,Mr. Rogers,1,cal
+data\itw\release_in_the_wild\18928.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\12287.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\10291.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\27982.wav,JFK,1,train
+data\itw\release_in_the_wild\4045.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\31435.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\422.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\31443.wav,FDR,1,cal
+data\itw\release_in_the_wild\15431.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\16424.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\21249.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\28567.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\3938.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\5786.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\26057.wav,Alan Watts,1,train
+data\itw\release_in_the_wild\15369.wav,Milton Friedman,1,train
+data\itw\release_in_the_wild\2163.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\6058.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\9219.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\22078.wav,FDR,0,cal
+data\itw\release_in_the_wild\19438.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\1251.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\15556.wav,Martin Luther King,1,train
+data\itw\release_in_the_wild\26314.wav,Frank Sinatra,1,train
+data\itw\release_in_the_wild\19181.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\21639.wav,William F. Buckley,1,train
+data\itw\release_in_the_wild\2910.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\28350.wav,Dwight Eisenhower,1,train
+data\itw\release_in_the_wild\20343.wav,Martin Luther King,1,train
+data\itw\release_in_the_wild\14055.wav,Mark Zuckerberg,1,train
+data\itw\release_in_the_wild\13797.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\27329.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\3057.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\10078.wav,Barack Obama,1,train
+data\itw\release_in_the_wild\4266.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\9515.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\317.wav,Arnold Schwarzenegger,1,train
+data\itw\release_in_the_wild\30969.wav,Bill Burr,1,train
+data\itw\release_in_the_wild\14027.wav,Jerry Seinfeld,1,train
+data\itw\release_in_the_wild\14433.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\26781.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\31325.wav,FDR,1,cal
+data\itw\release_in_the_wild\14362.wav,Christopher Hitchens,1,train
+data\itw\release_in_the_wild\16184.wav,Ronald Reagan,1,train
+data\itw\release_in_the_wild\31101.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\13681.wav,Mitch Hedberg,1,train
+data\itw\release_in_the_wild\10583.wav,Mark Zuckerberg,1,train
+data\itw\release_in_the_wild\26176.wav,Donald Trump,1,train
+data\itw\release_in_the_wild\25294.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\5316.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\28977.wav,Martin Luther King,1,train
+data\itw\release_in_the_wild\14982.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\15084.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\22289.wav,Alec Guinness,1,train
+data\itw\release_in_the_wild\15443.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\208.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\13274.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\5770.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\12877.wav,Nelson Mandela,1,train
+data\itw\release_in_the_wild\5684.wav,Ayn Rand,1,train
+data\itw\release_in_the_wild\10176.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\29069.wav,Barack Obama,1,train
+data\itw\release_in_the_wild\19186.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\10306.wav,The Notorious B.I.G.,1,cal
+data\itw\release_in_the_wild\17056.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\27374.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\19949.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\15052.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\21721.wav,The Notorious B.I.G.,1,cal
+data\itw\release_in_the_wild\24236.wav,Mr. Rogers,1,cal
+data\itw\release_in_the_wild\17316.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\12702.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\8326.wav,The Notorious B.I.G.,1,cal
+data\itw\release_in_the_wild\347.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\2376.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\5671.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\2485.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\25521.wav,FDR,0,cal
+data\itw\release_in_the_wild\14343.wav,FDR,0,cal
+data\itw\release_in_the_wild\21208.wav,FDR,1,cal
+data\itw\release_in_the_wild\12042.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\25312.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\7691.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\28576.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\17575.wav,FDR,0,cal
+data\itw\release_in_the_wild\27496.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\20044.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\8146.wav,FDR,0,cal
+data\itw\release_in_the_wild\1437.wav,Mr. Rogers,1,cal
+data\itw\release_in_the_wild\4351.wav,The Notorious B.I.G.,1,cal
+data\itw\release_in_the_wild\19831.wav,The Notorious B.I.G.,1,cal
+data\itw\release_in_the_wild\21925.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\17366.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\13499.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\4715.wav,The Notorious B.I.G.,1,cal
+data\itw\release_in_the_wild\29876.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\4642.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\5733.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\6295.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\26077.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\1308.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\20891.wav,FDR,0,cal
+data\itw\release_in_the_wild\31085.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\30550.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\11470.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\20611.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\28376.wav,The Notorious B.I.G.,1,cal
+data\itw\release_in_the_wild\16843.wav,Mr. Rogers,0,cal
+data\itw\release_in_the_wild\3074.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\7643.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\9272.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\8443.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\16299.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\8348.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\8879.wav,FDR,0,cal
+data\itw\release_in_the_wild\5431.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\882.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\27158.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\4463.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\11425.wav,FDR,0,cal
+data\itw\release_in_the_wild\6014.wav,Mr. Rogers,0,cal
+data\itw\release_in_the_wild\30055.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\3838.wav,FDR,0,cal
+data\itw\release_in_the_wild\24942.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\11708.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\19187.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\24392.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\22839.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\14657.wav,The Notorious B.I.G.,1,cal
+data\itw\release_in_the_wild\27515.wav,FDR,1,cal
+data\itw\release_in_the_wild\503.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\29874.wav,FDR,1,cal
+data\itw\release_in_the_wild\14765.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\30214.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\22934.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\20812.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\5507.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\11711.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\14913.wav,FDR,1,cal
+data\itw\release_in_the_wild\9611.wav,FDR,1,cal
+data\itw\release_in_the_wild\26989.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\30597.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\12646.wav,FDR,1,cal
+data\itw\release_in_the_wild\3242.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\23493.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\29873.wav,Bernie Sanders,1,cal
+data\itw\release_in_the_wild\3750.wav,FDR,0,cal
+data\itw\release_in_the_wild\30419.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\18034.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\14951.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\10113.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\27996.wav,FDR,0,cal
+data\itw\release_in_the_wild\23746.wav,Bernie Sanders,0,cal
+data\itw\release_in_the_wild\22801.wav,Bernie Sanders,0,cal

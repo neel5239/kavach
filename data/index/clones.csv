@@ -1,0 +1,529 @@
+path,speaker,label,split,generator,lang
+data\clones\snac\snac_0000.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0001.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0002.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0003.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0004.wav,Nick Offerman,1,test,snac,en
+data\clones\snac\snac_0005.wav,Queen Elizabeth II,1,test,snac,en
+data\clones\snac\snac_0006.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0007.wav,Malcolm X,1,test,snac,en
+data\clones\snac\snac_0008.wav,Nick Offerman,1,test,snac,en
+data\clones\snac\snac_0009.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0010.wav,Richard Nixon,1,test,snac,en
+data\clones\snac\snac_0011.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0012.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0013.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0014.wav,Nick Offerman,1,test,snac,en
+data\clones\snac\snac_0015.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0016.wav,Richard Nixon,1,test,snac,en
+data\clones\snac\snac_0017.wav,2Pac,1,test,snac,en
+data\clones\snac\snac_0018.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0019.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0020.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0021.wav,Robert Kardashian,1,test,snac,en
+data\clones\snac\snac_0022.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0023.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0024.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0025.wav,Queen Elizabeth II,1,test,snac,en
+data\clones\snac\snac_0026.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0027.wav,Richard Nixon,1,test,snac,en
+data\clones\snac\snac_0028.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0029.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0030.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0031.wav,Richard Nixon,1,test,snac,en
+data\clones\snac\snac_0032.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0033.wav,Malcolm X,1,test,snac,en
+data\clones\snac\snac_0034.wav,Malcolm X,1,test,snac,en
+data\clones\snac\snac_0035.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0036.wav,Nick Offerman,1,test,snac,en
+data\clones\snac\snac_0037.wav,Nick Offerman,1,test,snac,en
+data\clones\snac\snac_0038.wav,Robert Kardashian,1,test,snac,en
+data\clones\snac\snac_0039.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0040.wav,Malcolm X,1,test,snac,en
+data\clones\snac\snac_0041.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0042.wav,Richard Nixon,1,test,snac,en
+data\clones\snac\snac_0043.wav,Nick Offerman,1,test,snac,en
+data\clones\snac\snac_0044.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0045.wav,Robert Kardashian,1,test,snac,en
+data\clones\snac\snac_0046.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0047.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0048.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0049.wav,Robert Kardashian,1,test,snac,en
+data\clones\snac\snac_0050.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0051.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0052.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0053.wav,Nick Offerman,1,test,snac,en
+data\clones\snac\snac_0054.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0055.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0056.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0057.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0058.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0059.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0060.wav,Nick Offerman,1,test,snac,en
+data\clones\snac\snac_0061.wav,Richard Nixon,1,test,snac,en
+data\clones\snac\snac_0062.wav,Nick Offerman,1,test,snac,en
+data\clones\snac\snac_0063.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0064.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0065.wav,Richard Nixon,1,test,snac,en
+data\clones\snac\snac_0066.wav,Nick Offerman,1,test,snac,en
+data\clones\snac\snac_0067.wav,Richard Nixon,1,test,snac,en
+data\clones\snac\snac_0068.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0069.wav,Malcolm X,1,test,snac,en
+data\clones\snac\snac_0070.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0071.wav,Malcolm X,1,test,snac,en
+data\clones\snac\snac_0072.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0073.wav,Robert Kardashian,1,test,snac,en
+data\clones\snac\snac_0074.wav,Malcolm X,1,test,snac,en
+data\clones\snac\snac_0075.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0076.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0077.wav,2Pac,1,test,snac,en
+data\clones\snac\snac_0078.wav,Nick Offerman,1,test,snac,en
+data\clones\snac\snac_0079.wav,Richard Nixon,1,test,snac,en
+data\clones\snac\snac_0080.wav,Richard Nixon,1,test,snac,en
+data\clones\snac\snac_0081.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0082.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0083.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0084.wav,2Pac,1,test,snac,en
+data\clones\snac\snac_0085.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0086.wav,Robert Kardashian,1,test,snac,en
+data\clones\snac\snac_0087.wav,Queen Elizabeth II,1,test,snac,en
+data\clones\snac\snac_0088.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0089.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0090.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0091.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0092.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0093.wav,Richard Nixon,1,test,snac,en
+data\clones\snac\snac_0094.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0095.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0096.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0097.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0098.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0099.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0100.wav,Queen Elizabeth II,1,test,snac,en
+data\clones\snac\snac_0101.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0102.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0103.wav,Richard Nixon,1,test,snac,en
+data\clones\snac\snac_0104.wav,Malcolm X,1,test,snac,en
+data\clones\snac\snac_0105.wav,Nick Offerman,1,test,snac,en
+data\clones\snac\snac_0106.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0107.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0108.wav,George W. Bush,1,test,snac,en
+data\clones\snac\snac_0109.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0110.wav,Robert Kardashian,1,test,snac,en
+data\clones\snac\snac_0111.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0112.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0113.wav,Nick Offerman,1,test,snac,en
+data\clones\snac\snac_0114.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0115.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0116.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0117.wav,Queen Elizabeth II,1,test,snac,en
+data\clones\snac\snac_0118.wav,Richard Nixon,1,test,snac,en
+data\clones\snac\snac_0119.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0120.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0121.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0122.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0123.wav,Nick Offerman,1,test,snac,en
+data\clones\snac\snac_0124.wav,Malcolm X,1,test,snac,en
+data\clones\snac\snac_0125.wav,Richard Nixon,1,test,snac,en
+data\clones\snac\snac_0126.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0127.wav,Malcolm X,1,test,snac,en
+data\clones\snac\snac_0128.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0129.wav,2Pac,1,test,snac,en
+data\clones\snac\snac_0130.wav,Robert Kardashian,1,test,snac,en
+data\clones\snac\snac_0131.wav,Richard Nixon,1,test,snac,en
+data\clones\snac\snac_0132.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0133.wav,Malcolm X,1,test,snac,en
+data\clones\snac\snac_0134.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0135.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0136.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0137.wav,Calvin Coolidge,1,test,snac,en
+data\clones\snac\snac_0138.wav,Malcolm X,1,test,snac,en
+data\clones\snac\snac_0139.wav,Richard Nixon,1,test,snac,en
+data\clones\snac\snac_0140.wav,Richard Nixon,1,test,snac,en
+data\clones\snac\snac_0141.wav,Richard Nixon,1,test,snac,en
+data\clones\snac\snac_0142.wav,Nick Offerman,1,test,snac,en
+data\clones\snac\snac_0143.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0144.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0145.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0146.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0147.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0148.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0149.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0150.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0151.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0152.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0153.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0154.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0155.wav,Queen Elizabeth II,1,test,snac,en
+data\clones\snac\snac_0156.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0157.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0158.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0159.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0160.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0161.wav,Nick Offerman,1,test,snac,en
+data\clones\snac\snac_0162.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0163.wav,George W. Bush,1,test,snac,en
+data\clones\snac\snac_0164.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0165.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0166.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0167.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0168.wav,Richard Nixon,1,test,snac,en
+data\clones\snac\snac_0169.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0170.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0171.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0172.wav,Nick Offerman,1,test,snac,en
+data\clones\snac\snac_0173.wav,Nick Offerman,1,test,snac,en
+data\clones\snac\snac_0174.wav,Robert Kardashian,1,test,snac,en
+data\clones\snac\snac_0175.wav,Richard Nixon,1,test,snac,en
+data\clones\snac\snac_0176.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0177.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0178.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0179.wav,Richard Nixon,1,test,snac,en
+data\clones\snac\snac_0180.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0181.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0182.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0183.wav,Queen Elizabeth II,1,test,snac,en
+data\clones\snac\snac_0184.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0185.wav,Robert Kardashian,1,test,snac,en
+data\clones\snac\snac_0186.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0187.wav,2Pac,1,test,snac,en
+data\clones\snac\snac_0188.wav,Richard Nixon,1,test,snac,en
+data\clones\snac\snac_0189.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0190.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0191.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0192.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0193.wav,2Pac,1,test,snac,en
+data\clones\snac\snac_0194.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0195.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0196.wav,Robert Kardashian,1,test,snac,en
+data\clones\snac\snac_0197.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0198.wav,Richard Nixon,1,test,snac,en
+data\clones\snac\snac_0199.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0200.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0201.wav,Robert Kardashian,1,test,snac,en
+data\clones\snac\snac_0202.wav,Richard Nixon,1,test,snac,en
+data\clones\snac\snac_0203.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0204.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0205.wav,Richard Nixon,1,test,snac,en
+data\clones\snac\snac_0206.wav,Richard Nixon,1,test,snac,en
+data\clones\snac\snac_0207.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0208.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0209.wav,Queen Elizabeth II,1,test,snac,en
+data\clones\snac\snac_0210.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0211.wav,Queen Elizabeth II,1,test,snac,en
+data\clones\snac\snac_0212.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0213.wav,Richard Nixon,1,test,snac,en
+data\clones\snac\snac_0214.wav,George W. Bush,1,test,snac,en
+data\clones\snac\snac_0215.wav,Robert Kardashian,1,test,snac,en
+data\clones\snac\snac_0216.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0217.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0218.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0219.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0220.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0221.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0222.wav,Robert Kardashian,1,test,snac,en
+data\clones\snac\snac_0223.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0224.wav,Richard Nixon,1,test,snac,en
+data\clones\snac\snac_0225.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0226.wav,George W. Bush,1,test,snac,en
+data\clones\snac\snac_0227.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0228.wav,George W. Bush,1,test,snac,en
+data\clones\snac\snac_0229.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0230.wav,Queen Elizabeth II,1,test,snac,en
+data\clones\snac\snac_0231.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0232.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0233.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0234.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0235.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0236.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0237.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0238.wav,Calvin Coolidge,1,test,snac,en
+data\clones\snac\snac_0239.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0240.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0241.wav,Richard Nixon,1,test,snac,en
+data\clones\snac\snac_0242.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0243.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0244.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0245.wav,Richard Nixon,1,test,snac,en
+data\clones\snac\snac_0246.wav,Richard Nixon,1,test,snac,en
+data\clones\snac\snac_0247.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0248.wav,Queen Elizabeth II,1,test,snac,en
+data\clones\snac\snac_0249.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0250.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0251.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0252.wav,Robert Kardashian,1,test,snac,en
+data\clones\snac\snac_0253.wav,Queen Elizabeth II,1,test,snac,en
+data\clones\snac\snac_0254.wav,Malcolm X,1,test,snac,en
+data\clones\snac\snac_0255.wav,Nick Offerman,1,test,snac,en
+data\clones\snac\snac_0256.wav,Queen Elizabeth II,1,test,snac,en
+data\clones\snac\snac_0257.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0258.wav,2Pac,1,test,snac,en
+data\clones\snac\snac_0259.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0260.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0261.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0262.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0263.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0264.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0265.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0266.wav,Malcolm X,1,test,snac,en
+data\clones\snac\snac_0267.wav,Richard Nixon,1,test,snac,en
+data\clones\snac\snac_0268.wav,Malcolm X,1,test,snac,en
+data\clones\snac\snac_0269.wav,Nick Offerman,1,test,snac,en
+data\clones\snac\snac_0270.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0271.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0272.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0273.wav,Malcolm X,1,test,snac,en
+data\clones\snac\snac_0274.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0275.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0276.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0277.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0278.wav,Nick Offerman,1,test,snac,en
+data\clones\snac\snac_0279.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0280.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0281.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0282.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0283.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0284.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0285.wav,Richard Nixon,1,test,snac,en
+data\clones\snac\snac_0286.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0287.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0288.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0289.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0290.wav,Queen Elizabeth II,1,test,snac,en
+data\clones\snac\snac_0291.wav,Nick Offerman,1,test,snac,en
+data\clones\snac\snac_0292.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0293.wav,Malcolm X,1,test,snac,en
+data\clones\snac\snac_0294.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0295.wav,Bill Clinton,1,test,snac,en
+data\clones\snac\snac_0296.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0297.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0298.wav,Louis Farrakhan,1,test,snac,en
+data\clones\snac\snac_0299.wav,George W. Bush,1,test,snac,en
+data\clones\kokoro\kokoro_0000.wav,kokoro_am_santa,1,test,kokoro,en
+data\clones\kokoro\kokoro_0001.wav,kokoro_af_river,1,test,kokoro,en
+data\clones\kokoro\kokoro_0002.wav,kokoro_bf_lily,1,test,kokoro,en
+data\clones\kokoro\kokoro_0003.wav,kokoro_am_adam,1,test,kokoro,en
+data\clones\kokoro\kokoro_0004.wav,kokoro_bf_isabella,1,test,kokoro,en
+data\clones\kokoro\kokoro_0005.wav,kokoro_bf_alice,1,test,kokoro,en
+data\clones\kokoro\kokoro_0006.wav,kokoro_af_heart,1,test,kokoro,en
+data\clones\kokoro\kokoro_0007.wav,kokoro_am_adam,1,test,kokoro,en
+data\clones\kokoro\kokoro_0008.wav,kokoro_am_liam,1,test,kokoro,en
+data\clones\kokoro\kokoro_0009.wav,kokoro_af_nova,1,test,kokoro,en
+data\clones\kokoro\kokoro_0010.wav,kokoro_am_echo,1,test,kokoro,en
+data\clones\kokoro\kokoro_0011.wav,kokoro_am_onyx,1,test,kokoro,en
+data\clones\kokoro\kokoro_0012.wav,kokoro_am_echo,1,test,kokoro,en
+data\clones\kokoro\kokoro_0013.wav,kokoro_af_kore,1,test,kokoro,en
+data\clones\kokoro\kokoro_0014.wav,kokoro_bm_daniel,1,test,kokoro,en
+data\clones\kokoro\kokoro_0015.wav,kokoro_af_bella,1,test,kokoro,en
+data\clones\kokoro\kokoro_0016.wav,kokoro_af_jessica,1,test,kokoro,en
+data\clones\kokoro\kokoro_0017.wav,kokoro_am_santa,1,test,kokoro,en
+data\clones\kokoro\kokoro_0018.wav,kokoro_af_kore,1,test,kokoro,en
+data\clones\kokoro\kokoro_0019.wav,kokoro_bm_lewis,1,test,kokoro,en
+data\clones\kokoro\kokoro_0020.wav,kokoro_af_sarah,1,test,kokoro,en
+data\clones\kokoro\kokoro_0021.wav,kokoro_af_sky,1,test,kokoro,en
+data\clones\kokoro\kokoro_0022.wav,kokoro_af_nicole,1,test,kokoro,en
+data\clones\kokoro\kokoro_0023.wav,kokoro_am_onyx,1,test,kokoro,en
+data\clones\kokoro\kokoro_0024.wav,kokoro_am_echo,1,test,kokoro,en
+data\clones\kokoro\kokoro_0025.wav,kokoro_af_sarah,1,test,kokoro,en
+data\clones\kokoro\kokoro_0026.wav,kokoro_af_alloy,1,test,kokoro,en
+data\clones\kokoro\kokoro_0027.wav,kokoro_am_adam,1,test,kokoro,en
+data\clones\kokoro\kokoro_0028.wav,kokoro_am_eric,1,test,kokoro,en
+data\clones\kokoro\kokoro_0029.wav,kokoro_af_kore,1,test,kokoro,en
+data\clones\kokoro\kokoro_0030.wav,kokoro_bf_isabella,1,test,kokoro,en
+data\clones\kokoro\kokoro_0031.wav,kokoro_af_sky,1,test,kokoro,en
+data\clones\kokoro\kokoro_0032.wav,kokoro_af_bella,1,test,kokoro,en
+data\clones\kokoro\kokoro_0033.wav,kokoro_af_sarah,1,test,kokoro,en
+data\clones\kokoro\kokoro_0034.wav,kokoro_am_adam,1,test,kokoro,en
+data\clones\kokoro\kokoro_0035.wav,kokoro_bm_daniel,1,test,kokoro,en
+data\clones\kokoro\kokoro_0036.wav,kokoro_af_alloy,1,test,kokoro,en
+data\clones\kokoro\kokoro_0037.wav,kokoro_bf_lily,1,test,kokoro,en
+data\clones\kokoro\kokoro_0038.wav,kokoro_am_adam,1,test,kokoro,en
+data\clones\kokoro\kokoro_0039.wav,kokoro_am_echo,1,test,kokoro,en
+data\clones\kokoro\kokoro_0040.wav,kokoro_bm_lewis,1,test,kokoro,en
+data\clones\kokoro\kokoro_0041.wav,kokoro_am_onyx,1,test,kokoro,en
+data\clones\kokoro\kokoro_0042.wav,kokoro_af_nicole,1,test,kokoro,en
+data\clones\kokoro\kokoro_0043.wav,kokoro_af_heart,1,test,kokoro,en
+data\clones\kokoro\kokoro_0044.wav,kokoro_bm_daniel,1,test,kokoro,en
+data\clones\kokoro\kokoro_0045.wav,kokoro_af_nova,1,test,kokoro,en
+data\clones\kokoro\kokoro_0046.wav,kokoro_am_fenrir,1,test,kokoro,en
+data\clones\kokoro\kokoro_0047.wav,kokoro_am_adam,1,test,kokoro,en
+data\clones\kokoro\kokoro_0048.wav,kokoro_am_adam,1,test,kokoro,en
+data\clones\kokoro\kokoro_0049.wav,kokoro_af_sarah,1,test,kokoro,en
+data\clones\kokoro\kokoro_0050.wav,kokoro_af_aoede,1,test,kokoro,en
+data\clones\kokoro\kokoro_0051.wav,kokoro_am_eric,1,test,kokoro,en
+data\clones\kokoro\kokoro_0052.wav,kokoro_af_bella,1,test,kokoro,en
+data\clones\kokoro\kokoro_0053.wav,kokoro_af_nicole,1,test,kokoro,en
+data\clones\kokoro\kokoro_0054.wav,kokoro_af_sarah,1,test,kokoro,en
+data\clones\kokoro\kokoro_0055.wav,kokoro_bf_emma,1,test,kokoro,en
+data\clones\kokoro\kokoro_0056.wav,kokoro_af_sky,1,test,kokoro,en
+data\clones\kokoro\kokoro_0057.wav,kokoro_bm_lewis,1,test,kokoro,en
+data\clones\kokoro\kokoro_0058.wav,kokoro_af_kore,1,test,kokoro,en
+data\clones\kokoro\kokoro_0059.wav,kokoro_af_bella,1,test,kokoro,en
+data\clones\kokoro\kokoro_0060.wav,kokoro_am_santa,1,test,kokoro,en
+data\clones\kokoro\kokoro_0061.wav,kokoro_am_onyx,1,test,kokoro,en
+data\clones\kokoro\kokoro_0062.wav,kokoro_am_echo,1,test,kokoro,en
+data\clones\kokoro\kokoro_0063.wav,kokoro_af_aoede,1,test,kokoro,en
+data\clones\kokoro\kokoro_0064.wav,kokoro_af_nova,1,test,kokoro,en
+data\clones\kokoro\kokoro_0065.wav,kokoro_bm_lewis,1,test,kokoro,en
+data\clones\kokoro\kokoro_0066.wav,kokoro_bm_fable,1,test,kokoro,en
+data\clones\kokoro\kokoro_0067.wav,kokoro_am_liam,1,test,kokoro,en
+data\clones\kokoro\kokoro_0068.wav,kokoro_af_sky,1,test,kokoro,en
+data\clones\kokoro\kokoro_0069.wav,kokoro_af_nicole,1,test,kokoro,en
+data\clones\kokoro\kokoro_0070.wav,kokoro_af_jessica,1,test,kokoro,en
+data\clones\kokoro\kokoro_0071.wav,kokoro_am_puck,1,test,kokoro,en
+data\clones\kokoro\kokoro_0072.wav,kokoro_bm_lewis,1,test,kokoro,en
+data\clones\kokoro\kokoro_0073.wav,kokoro_am_eric,1,test,kokoro,en
+data\clones\kokoro\kokoro_0074.wav,kokoro_af_sarah,1,test,kokoro,en
+data\clones\kokoro\kokoro_0075.wav,kokoro_af_jessica,1,test,kokoro,en
+data\clones\kokoro\kokoro_0076.wav,kokoro_am_fenrir,1,test,kokoro,en
+data\clones\kokoro\kokoro_0077.wav,kokoro_am_santa,1,test,kokoro,en
+data\clones\kokoro\kokoro_0078.wav,kokoro_af_sarah,1,test,kokoro,en
+data\clones\kokoro\kokoro_0079.wav,kokoro_am_liam,1,test,kokoro,en
+data\clones\kokoro\kokoro_0080.wav,kokoro_am_echo,1,test,kokoro,en
+data\clones\kokoro\kokoro_0081.wav,kokoro_af_jessica,1,test,kokoro,en
+data\clones\kokoro\kokoro_0082.wav,kokoro_af_heart,1,test,kokoro,en
+data\clones\kokoro\kokoro_0083.wav,kokoro_bm_fable,1,test,kokoro,en
+data\clones\kokoro\kokoro_0084.wav,kokoro_am_liam,1,test,kokoro,en
+data\clones\kokoro\kokoro_0085.wav,kokoro_af_river,1,test,kokoro,en
+data\clones\kokoro\kokoro_0086.wav,kokoro_am_michael,1,test,kokoro,en
+data\clones\kokoro\kokoro_0087.wav,kokoro_am_onyx,1,test,kokoro,en
+data\clones\kokoro\kokoro_0088.wav,kokoro_bm_fable,1,test,kokoro,en
+data\clones\kokoro\kokoro_0089.wav,kokoro_am_adam,1,test,kokoro,en
+data\clones\kokoro\kokoro_0090.wav,kokoro_am_onyx,1,test,kokoro,en
+data\clones\kokoro\kokoro_0091.wav,kokoro_bf_isabella,1,test,kokoro,en
+data\clones\kokoro\kokoro_0092.wav,kokoro_bf_emma,1,test,kokoro,en
+data\clones\kokoro\kokoro_0093.wav,kokoro_af_river,1,test,kokoro,en
+data\clones\kokoro\kokoro_0094.wav,kokoro_am_liam,1,test,kokoro,en
+data\clones\kokoro\kokoro_0095.wav,kokoro_bm_daniel,1,test,kokoro,en
+data\clones\kokoro\kokoro_0096.wav,kokoro_hf_alpha,1,test,kokoro,hi
+data\clones\kokoro\kokoro_0097.wav,kokoro_hf_beta,1,test,kokoro,hi
+data\clones\kokoro\kokoro_0098.wav,kokoro_hm_omega,1,test,kokoro,hi
+data\clones\kokoro\kokoro_0099.wav,kokoro_hm_psi,1,test,kokoro,hi
+data\clones\kokoro\kokoro_0100.wav,kokoro_hf_alpha,1,test,kokoro,hi
+data\clones\kokoro\kokoro_0101.wav,kokoro_hf_beta,1,test,kokoro,hi
+data\clones\kokoro\kokoro_0102.wav,kokoro_hm_omega,1,test,kokoro,hi
+data\clones\kokoro\kokoro_0103.wav,kokoro_hm_psi,1,test,kokoro,hi
+data\clones\kokoro\kokoro_0104.wav,kokoro_hf_alpha,1,test,kokoro,hi
+data\clones\kokoro\kokoro_0105.wav,kokoro_hf_beta,1,test,kokoro,hi
+data\clones\kokoro\kokoro_0106.wav,kokoro_hm_omega,1,test,kokoro,hi
+data\clones\kokoro\kokoro_0107.wav,kokoro_hm_psi,1,test,kokoro,hi
+data\clones\kokoro\kokoro_0108.wav,kokoro_hf_alpha,1,test,kokoro,hi
+data\clones\kokoro\kokoro_0109.wav,kokoro_hf_beta,1,test,kokoro,hi
+data\clones\kokoro\kokoro_0110.wav,kokoro_hm_omega,1,test,kokoro,hi
+data\clones\kokoro\kokoro_0111.wav,kokoro_hm_psi,1,test,kokoro,hi
+data\clones\kokoro\kokoro_0112.wav,kokoro_hf_alpha,1,test,kokoro,hi
+data\clones\kokoro\kokoro_0113.wav,kokoro_hf_beta,1,test,kokoro,hi
+data\clones\kokoro\kokoro_0114.wav,kokoro_hm_omega,1,test,kokoro,hi
+data\clones\kokoro\kokoro_0115.wav,kokoro_hm_psi,1,test,kokoro,hi
+data\clones\kokoro\kokoro_0116.wav,kokoro_hf_alpha,1,test,kokoro,hi
+data\clones\kokoro\kokoro_0117.wav,kokoro_hf_beta,1,test,kokoro,hi
+data\clones\kokoro\kokoro_0118.wav,kokoro_hm_omega,1,test,kokoro,hi
+data\clones\kokoro\kokoro_0119.wav,kokoro_hm_psi,1,test,kokoro,hi
+data\clones\kokoro\kokoro_0120.wav,kokoro_hf_alpha,1,test,kokoro,hi
+data\clones\kokoro\kokoro_0121.wav,kokoro_hf_beta,1,test,kokoro,hi
+data\clones\kokoro\kokoro_0122.wav,kokoro_hm_omega,1,test,kokoro,hi
+data\clones\kokoro\kokoro_0123.wav,kokoro_hm_psi,1,test,kokoro,hi
+data\clones\kokoro\kokoro_0124.wav,kokoro_hf_alpha,1,test,kokoro,hi
+data\clones\kokoro\kokoro_0125.wav,kokoro_hf_beta,1,test,kokoro,hi
+data\clones\kokoro\kokoro_0126.wav,kokoro_hm_omega,1,test,kokoro,hi
+data\clones\kokoro\kokoro_0127.wav,kokoro_hm_psi,1,test,kokoro,hi
+data\clones\rvc\rvc_0000.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0001.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0002.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0003.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0004.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0005.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0006.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0007.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0008.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0009.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0010.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0011.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0012.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0013.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0014.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0015.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0016.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0017.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0018.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0019.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0020.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0021.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0022.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0023.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0024.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0025.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0026.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0027.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0028.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0029.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0030.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0031.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0032.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0033.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0034.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0035.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0036.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0037.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0038.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0039.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0040.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0041.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0042.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0043.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0044.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0045.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0046.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0047.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0048.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0049.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0050.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0051.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0052.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0053.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0054.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0055.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0056.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0057.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0058.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0059.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0060.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0061.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0062.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0063.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0064.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0065.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0066.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0067.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0068.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0069.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0070.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0071.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0072.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0073.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0074.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0075.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0076.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0077.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0078.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0079.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0080.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0081.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0082.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0083.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0084.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0085.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0086.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0087.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0088.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0089.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0090.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0091.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0092.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0093.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0094.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0095.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0096.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0097.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0098.wav,rvc_me,1,test,rvc,en
+data\clones\rvc\rvc_0099.wav,rvc_me,1,test,rvc,en

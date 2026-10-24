@@ -1,0 +1,10 @@
+{
+  "thresholds": {
+    "real_below": 0.7519940733909607,
+    "fake_above": 0.7519940733909607,
+    "eer_threshold": 0.7519940733909607
+  },
+  "hidden": 128,
+  "trained_on": "itw",
+  "cal_eer": 0.0
+}

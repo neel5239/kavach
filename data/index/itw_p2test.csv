@@ -1,0 +1,2001 @@
+path,speaker,label,split
+data\itw\release_in_the_wild\23583.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\18748.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\20379.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\31602.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\29817.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\13544.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\30629.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\28978.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\3591.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\3261.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\907.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\10341.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\4425.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\26917.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\13396.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\16373.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\31322.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\10315.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\3125.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\10520.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\25270.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\14352.wav,Malcolm X,1,test
+data\itw\release_in_the_wild\10413.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\16851.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\17494.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\8252.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\2899.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\25249.wav,2Pac,1,test
+data\itw\release_in_the_wild\30364.wav,2Pac,1,test
+data\itw\release_in_the_wild\23722.wav,Calvin Coolidge,1,test
+data\itw\release_in_the_wild\29790.wav,Robert Kardashian,1,test
+data\itw\release_in_the_wild\28329.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\3536.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\567.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\27499.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\30941.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\11704.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\21615.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\29963.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\26025.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\6426.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\16938.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\26886.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\25771.wav,Malcolm X,1,test
+data\itw\release_in_the_wild\20607.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\6852.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\14265.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\25669.wav,2Pac,1,test
+data\itw\release_in_the_wild\26923.wav,Calvin Coolidge,1,test
+data\itw\release_in_the_wild\6355.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\11496.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\22924.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\12042.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\1925.wav,2Pac,0,test
+data\itw\release_in_the_wild\9129.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\10223.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\16334.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\10542.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\29164.wav,2Pac,0,test
+data\itw\release_in_the_wild\22413.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\2650.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\11518.wav,Malcolm X,1,test
+data\itw\release_in_the_wild\27112.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\28413.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\29452.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\22283.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\20661.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\23870.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\9484.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\26548.wav,2Pac,0,test
+data\itw\release_in_the_wild\10530.wav,2Pac,0,test
+data\itw\release_in_the_wild\4743.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\14784.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\22971.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\17214.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\7145.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\8256.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\23336.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\12457.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\19614.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\19065.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\22364.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\26752.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\18165.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\7138.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\9068.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\11495.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\20321.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\17119.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\17934.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\16493.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\25982.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\11639.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\16042.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\17562.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\16337.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\15520.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\4550.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\16566.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\33.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\22029.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\13988.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\20804.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\7349.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\18735.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\13523.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\21300.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\10238.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\4971.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\1597.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\28331.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\24012.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\7339.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\13335.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\9990.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\6030.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\6898.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\16499.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\7963.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\22065.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\5404.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\28993.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\1487.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\21526.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\29032.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\18569.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\6533.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\18558.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\16425.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\11511.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\21125.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\31454.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\19820.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\16244.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\26454.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\11315.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\28043.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\3234.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\22512.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\30033.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\12421.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\14412.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\2990.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\16018.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\1615.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\8788.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\7988.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\11225.wav,2Pac,1,test
+data\itw\release_in_the_wild\11202.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\19980.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\15281.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\30992.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\22354.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\20179.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\21118.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\24864.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\8119.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\29461.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\23747.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\9023.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\19393.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\28554.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\19192.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\24549.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\1958.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\17717.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\115.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\24752.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\22265.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\11602.wav,Robert Kardashian,1,test
+data\itw\release_in_the_wild\27465.wav,Calvin Coolidge,0,test
+data\itw\release_in_the_wild\15944.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\11685.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\1695.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\12064.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\13005.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\16681.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\11385.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\9713.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\8634.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\8689.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\9770.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\7688.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\18824.wav,Robert Kardashian,1,test
+data\itw\release_in_the_wild\10468.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\777.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\22545.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\29847.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\16274.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\3712.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\10816.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\11746.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\20783.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\20144.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\18121.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\9027.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\30920.wav,2Pac,1,test
+data\itw\release_in_the_wild\1247.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\750.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\4887.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\13499.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\1746.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\9936.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\7618.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\18584.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\22525.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\2847.wav,Robert Kardashian,1,test
+data\itw\release_in_the_wild\23138.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\24123.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\17262.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\2870.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\26831.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\28903.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\6102.wav,George W. Bush,0,test
+data\itw\release_in_the_wild\11765.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\19273.wav,2Pac,0,test
+data\itw\release_in_the_wild\13806.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\6790.wav,2Pac,0,test
+data\itw\release_in_the_wild\31692.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\26362.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\28600.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\13939.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\17322.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\27062.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\31119.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\20719.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\27980.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\26669.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\3680.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\7942.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\19186.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\1529.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\28707.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\23874.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\4810.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\10061.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\21368.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\13868.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\10872.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\9535.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\1083.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\604.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\73.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\7155.wav,Robert Kardashian,1,test
+data\itw\release_in_the_wild\1111.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\26306.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\11718.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\1637.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\1220.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\31693.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\8709.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\30372.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\12682.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\2833.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\15775.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\29941.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\3063.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\31076.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\26967.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\21635.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\17774.wav,Robert Kardashian,1,test
+data\itw\release_in_the_wild\23973.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\13446.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\1227.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\7886.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\12535.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\991.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\6432.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\28054.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\23791.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\7848.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\18339.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\12272.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\12440.wav,2Pac,1,test
+data\itw\release_in_the_wild\22443.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\13537.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\8714.wav,2Pac,1,test
+data\itw\release_in_the_wild\20519.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\28485.wav,Robert Kardashian,1,test
+data\itw\release_in_the_wild\13309.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\18585.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\15093.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\10778.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\21597.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\15883.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\21601.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\9438.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\25328.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\8886.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\24241.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\3551.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\3599.wav,Calvin Coolidge,0,test
+data\itw\release_in_the_wild\21513.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\16462.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\21600.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\8422.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\252.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\23326.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\30790.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\31686.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\26789.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\13690.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\26398.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\25575.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\19391.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\15443.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\15108.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\30879.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\16008.wav,2Pac,1,test
+data\itw\release_in_the_wild\7939.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\23222.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\18714.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\18397.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\21247.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\20670.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\6933.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\24587.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\8921.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\18560.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\6385.wav,2Pac,1,test
+data\itw\release_in_the_wild\13223.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\15963.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\946.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\28731.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\3959.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\29229.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\23775.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\28321.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\3290.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\16951.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\20019.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\9991.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\6599.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\7057.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\24566.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\7266.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\23052.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\16658.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\9798.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\24576.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\9985.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\12331.wav,2Pac,0,test
+data\itw\release_in_the_wild\17021.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\24701.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\7232.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\9248.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\24333.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\2958.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\7022.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\27019.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\19288.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\21912.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\17766.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\5186.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\31128.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\19075.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\30206.wav,Robert Kardashian,1,test
+data\itw\release_in_the_wild\5415.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\13241.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\17978.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\20316.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\17291.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\3670.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\6326.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\16636.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\25895.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\10652.wav,George W. Bush,0,test
+data\itw\release_in_the_wild\25426.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\12460.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\30515.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\23231.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\13833.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\22263.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\3332.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\24885.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\20586.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\6234.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\22415.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\8436.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\1381.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\515.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\2913.wav,Calvin Coolidge,0,test
+data\itw\release_in_the_wild\27166.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\11531.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\25151.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\15384.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\2283.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\2293.wav,2Pac,0,test
+data\itw\release_in_the_wild\5939.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\31110.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\28450.wav,George W. Bush,0,test
+data\itw\release_in_the_wild\18227.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\20337.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\15811.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\19379.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\9031.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\20655.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\15248.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\23727.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\4063.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\21522.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\13534.wav,2Pac,1,test
+data\itw\release_in_the_wild\1222.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\12798.wav,Calvin Coolidge,0,test
+data\itw\release_in_the_wild\28166.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\21199.wav,2Pac,1,test
+data\itw\release_in_the_wild\1008.wav,2Pac,1,test
+data\itw\release_in_the_wild\24669.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\26437.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\1516.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\12.wav,Calvin Coolidge,0,test
+data\itw\release_in_the_wild\9326.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\4487.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\30444.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\13164.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\28995.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\14292.wav,2Pac,1,test
+data\itw\release_in_the_wild\1805.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\16016.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\29305.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\4218.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\1608.wav,2Pac,0,test
+data\itw\release_in_the_wild\25184.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\2323.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\455.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\23028.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\5910.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\24966.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\23904.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\18539.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\25612.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\2654.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\19906.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\13605.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\4501.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\5671.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\26649.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\28677.wav,2Pac,1,test
+data\itw\release_in_the_wild\16682.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\28783.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\23291.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\25269.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\3157.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\14732.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\1901.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\23002.wav,Calvin Coolidge,0,test
+data\itw\release_in_the_wild\7625.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\26755.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\8259.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\22638.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\9072.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\29271.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\1402.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\95.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\9337.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\17993.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\8816.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\7487.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\30582.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\14525.wav,Malcolm X,1,test
+data\itw\release_in_the_wild\15857.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\24965.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\29911.wav,George W. Bush,0,test
+data\itw\release_in_the_wild\8873.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\16741.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\19206.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\28184.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\1108.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\27491.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\8320.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\23364.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\29272.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\2638.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\14785.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\7889.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\157.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\3841.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\7601.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\13950.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\22557.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\9793.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\5678.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\29760.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\18088.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\853.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\4260.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\22370.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\6536.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\27247.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\15485.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\30406.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\22076.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\27226.wav,2Pac,0,test
+data\itw\release_in_the_wild\6831.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\10657.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\23935.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\28089.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\25471.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\23783.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\12852.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\25384.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\22018.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\3133.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\10116.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\22333.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\24251.wav,Nick Offerman,1,test
+data\itw\release_in_the_wild\10068.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\21103.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\19599.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\1538.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\16907.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\14044.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\28908.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\9443.wav,2Pac,0,test
+data\itw\release_in_the_wild\27434.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\31739.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\16389.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\23173.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\2282.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\27155.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\21089.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\18001.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\18492.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\28899.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\2264.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\28771.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\24975.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\12684.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\8342.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\4663.wav,2Pac,0,test
+data\itw\release_in_the_wild\2357.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\1710.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\8015.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\22316.wav,Malcolm X,1,test
+data\itw\release_in_the_wild\30735.wav,Billie Eilish,1,test
+data\itw\release_in_the_wild\7376.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\21748.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\29331.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\19606.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\24105.wav,Billie Eilish,1,test
+data\itw\release_in_the_wild\31205.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\23017.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\6017.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\10575.wav,George W. Bush,0,test
+data\itw\release_in_the_wild\650.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\21612.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\17910.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\26054.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\19936.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\17901.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\20966.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\21102.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\27420.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\5785.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\31332.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\7945.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\29889.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\27708.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\23619.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\18175.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\26111.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\26622.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\14312.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\6592.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\31571.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\4846.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\6445.wav,George W. Bush,0,test
+data\itw\release_in_the_wild\30313.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\14064.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\1160.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\287.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\9919.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\22538.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\5686.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\25289.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\6217.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\10085.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\17419.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\29857.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\9103.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\849.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\22216.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\30660.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\6868.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\729.wav,Billie Eilish,0,test
+data\itw\release_in_the_wild\683.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\26035.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\17227.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\24593.wav,2Pac,1,test
+data\itw\release_in_the_wild\27793.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\13546.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\28029.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\12306.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\19117.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\20726.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\2722.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\25341.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\4849.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\9959.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\7668.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\21657.wav,2Pac,0,test
+data\itw\release_in_the_wild\24468.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\2506.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\2984.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\3897.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\9241.wav,2Pac,1,test
+data\itw\release_in_the_wild\18602.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\13377.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\18978.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\6172.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\3376.wav,George W. Bush,0,test
+data\itw\release_in_the_wild\23648.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\27573.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\3374.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\19468.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\29294.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\18011.wav,Billie Eilish,0,test
+data\itw\release_in_the_wild\21322.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\21058.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\13288.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\6106.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\23461.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\2277.wav,2Pac,0,test
+data\itw\release_in_the_wild\17726.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\8786.wav,Nick Offerman,1,test
+data\itw\release_in_the_wild\31223.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\31421.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\30305.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\13438.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\24891.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\25036.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\24912.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\25490.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\7675.wav,George W. Bush,0,test
+data\itw\release_in_the_wild\3669.wav,George W. Bush,0,test
+data\itw\release_in_the_wild\8208.wav,Calvin Coolidge,0,test
+data\itw\release_in_the_wild\31637.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\4628.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\3526.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\12645.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\30489.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\26071.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\8716.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\17143.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\20595.wav,2Pac,1,test
+data\itw\release_in_the_wild\17064.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\29957.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\15830.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\389.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\26673.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\2757.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\7130.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\15058.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\25155.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\10049.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\14091.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\28363.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\55.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\26905.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\14579.wav,Calvin Coolidge,1,test
+data\itw\release_in_the_wild\19753.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\8101.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\28578.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\6932.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\494.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\15674.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\5500.wav,Robert Kardashian,1,test
+data\itw\release_in_the_wild\11617.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\27203.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\9492.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\10595.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\3041.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\6620.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\6511.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\15143.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\5556.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\18234.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\8846.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\13758.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\21028.wav,George W. Bush,0,test
+data\itw\release_in_the_wild\13704.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\18810.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\8145.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\20727.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\13973.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\24480.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\20163.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\14413.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\16476.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\9025.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\27352.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\17668.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\24832.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\19005.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\14075.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\13153.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\28559.wav,George W. Bush,0,test
+data\itw\release_in_the_wild\27307.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\26974.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\7962.wav,Calvin Coolidge,0,test
+data\itw\release_in_the_wild\12451.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\24584.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\24721.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\14057.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\5266.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\30297.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\16239.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\10769.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\11240.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\22419.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\9064.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\6808.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\1547.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\11660.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\13304.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\1040.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\13069.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\7414.wav,2Pac,1,test
+data\itw\release_in_the_wild\7340.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\9074.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\681.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\12810.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\3386.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\1854.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\15609.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\12714.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\6137.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\14433.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\15086.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\8118.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\8169.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\13660.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\26675.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\560.wav,Malcolm X,1,test
+data\itw\release_in_the_wild\16939.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\9558.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\24399.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\7482.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\29816.wav,George W. Bush,0,test
+data\itw\release_in_the_wild\5644.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\8642.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\15605.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\8160.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\19524.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\21257.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\5595.wav,Malcolm X,1,test
+data\itw\release_in_the_wild\10109.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\20104.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\20728.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\26783.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\21377.wav,Malcolm X,1,test
+data\itw\release_in_the_wild\27317.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\12297.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\25809.wav,Malcolm X,1,test
+data\itw\release_in_the_wild\13427.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\221.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\7445.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\165.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\514.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\18579.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\25925.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\13428.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\26535.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\18337.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\10425.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\7691.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\16206.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\15601.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\24000.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\31737.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\30795.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\2547.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\26874.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\5636.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\25647.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\4404.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\5689.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\30443.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\7900.wav,2Pac,1,test
+data\itw\release_in_the_wild\2208.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\24914.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\26977.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\7247.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\14531.wav,Robert Kardashian,1,test
+data\itw\release_in_the_wild\31593.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\5232.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\21355.wav,Billie Eilish,1,test
+data\itw\release_in_the_wild\16093.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\4983.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\26600.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\14178.wav,Robert Kardashian,1,test
+data\itw\release_in_the_wild\5183.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\2471.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\8041.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\15206.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\2709.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\26358.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\26027.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\29136.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\8187.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\13078.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\28081.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\5584.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\3895.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\27107.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\6060.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\24110.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\83.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\21250.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\9664.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\25868.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\28342.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\4746.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\14054.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\23390.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\30877.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\2098.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\5534.wav,Calvin Coolidge,0,test
+data\itw\release_in_the_wild\15844.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\17655.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\23448.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\18833.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\28011.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\13325.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\2747.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\15332.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\31674.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\25164.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\13560.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\29147.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\7271.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\22713.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\8329.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\15543.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\18600.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\25063.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\17369.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\1457.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\21817.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\2684.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\21230.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\3074.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\29698.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\14909.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\3159.wav,Malcolm X,1,test
+data\itw\release_in_the_wild\8057.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\10837.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\15489.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\28365.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\19259.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\24941.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\9675.wav,Malcolm X,1,test
+data\itw\release_in_the_wild\16237.wav,Calvin Coolidge,0,test
+data\itw\release_in_the_wild\11572.wav,Malcolm X,1,test
+data\itw\release_in_the_wild\13467.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\26676.wav,Billie Eilish,0,test
+data\itw\release_in_the_wild\20736.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\17930.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\31142.wav,George W. Bush,0,test
+data\itw\release_in_the_wild\21518.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\26700.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\2133.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\9894.wav,Calvin Coolidge,0,test
+data\itw\release_in_the_wild\332.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\1782.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\11318.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\19200.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\19336.wav,Malcolm X,1,test
+data\itw\release_in_the_wild\7586.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\24190.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\28752.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\26788.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\23431.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\28177.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\9563.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\2197.wav,Calvin Coolidge,0,test
+data\itw\release_in_the_wild\23123.wav,George W. Bush,0,test
+data\itw\release_in_the_wild\2858.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\4509.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\2004.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\26462.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\5812.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\14338.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\24716.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\21439.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\13834.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\17912.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\954.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\27769.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\12029.wav,Calvin Coolidge,0,test
+data\itw\release_in_the_wild\27407.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\20821.wav,George W. Bush,0,test
+data\itw\release_in_the_wild\19239.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\22382.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\6145.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\10077.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\3810.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\12255.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\8100.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\30141.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\22143.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\12466.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\24430.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\24253.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\4173.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\18676.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\25767.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\27941.wav,Robert Kardashian,1,test
+data\itw\release_in_the_wild\13418.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\8498.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\10269.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\12377.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\23010.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\1360.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\24573.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\22955.wav,2Pac,1,test
+data\itw\release_in_the_wild\26556.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\26350.wav,2Pac,1,test
+data\itw\release_in_the_wild\6744.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\15017.wav,2Pac,0,test
+data\itw\release_in_the_wild\1507.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\19731.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\12163.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\4090.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\4486.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\13932.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\939.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\9098.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\12120.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\15324.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\29217.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\22779.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\2088.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\19147.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\22414.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\2732.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\22010.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\22079.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\27330.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\6844.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\2253.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\12111.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\20615.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\8017.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\2351.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\17335.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\27648.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\23407.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\20592.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\26743.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\2612.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\14719.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\20545.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\11733.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\10229.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\6698.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\23207.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\10224.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\7721.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\24792.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\29295.wav,2Pac,1,test
+data\itw\release_in_the_wild\13124.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\25386.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\27764.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\4566.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\28619.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\14087.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\12767.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\26339.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\2492.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\1521.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\6258.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\14853.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\24992.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\19415.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\15735.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\16982.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\25889.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\22654.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\2132.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\26821.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\6540.wav,Malcolm X,1,test
+data\itw\release_in_the_wild\26140.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\25046.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\25565.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\18249.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\20904.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\31105.wav,George W. Bush,0,test
+data\itw\release_in_the_wild\2084.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\19225.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\30153.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\24514.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\1772.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\10814.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\30960.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\3675.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\1116.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\12920.wav,Calvin Coolidge,0,test
+data\itw\release_in_the_wild\6794.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\8958.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\4322.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\17276.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\31229.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\10925.wav,Nick Offerman,1,test
+data\itw\release_in_the_wild\15038.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\7812.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\12187.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\2204.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\28039.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\16917.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\18075.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\21634.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\25693.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\7319.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\27338.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\13946.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\14763.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\1794.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\660.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\21205.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\17792.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\26322.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\7508.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\1639.wav,2Pac,1,test
+data\itw\release_in_the_wild\14829.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\21024.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\28896.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\2763.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\30428.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\30703.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\12729.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\1568.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\16970.wav,Billie Eilish,0,test
+data\itw\release_in_the_wild\6943.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\21952.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\31772.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\10958.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\2207.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\13162.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\29706.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\11031.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\17031.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\17860.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\12999.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\28273.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\29806.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\18047.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\6675.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\11226.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\9224.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\18929.wav,2Pac,1,test
+data\itw\release_in_the_wild\5830.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\3561.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\18768.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\16132.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\23697.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\26780.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\20061.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\16320.wav,2Pac,0,test
+data\itw\release_in_the_wild\14766.wav,2Pac,1,test
+data\itw\release_in_the_wild\16562.wav,Calvin Coolidge,1,test
+data\itw\release_in_the_wild\30134.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\4699.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\12702.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\31658.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\25346.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\28926.wav,Robert Kardashian,1,test
+data\itw\release_in_the_wild\25475.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\19460.wav,2Pac,1,test
+data\itw\release_in_the_wild\20256.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\27631.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\31292.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\11991.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\21043.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\11815.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\9512.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\10378.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\15840.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\3884.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\21240.wav,2Pac,1,test
+data\itw\release_in_the_wild\21996.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\17780.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\12736.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\13068.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\12826.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\21599.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\27761.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\3918.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\20537.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\18186.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\8839.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\6754.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\5537.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\18506.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\19505.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\3398.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\13938.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\27379.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\3581.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\25040.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\23788.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\12380.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\18155.wav,2Pac,0,test
+data\itw\release_in_the_wild\18864.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\24793.wav,2Pac,0,test
+data\itw\release_in_the_wild\18039.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\29380.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\14253.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\10482.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\21334.wav,2Pac,0,test
+data\itw\release_in_the_wild\575.wav,2Pac,0,test
+data\itw\release_in_the_wild\18587.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\14747.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\8473.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\15394.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\2576.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\29487.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\15326.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\16477.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\27748.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\25727.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\22326.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\18038.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\30198.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\26939.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\18546.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\2392.wav,Calvin Coolidge,1,test
+data\itw\release_in_the_wild\31117.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\10509.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\8851.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\888.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\17495.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\11337.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\8799.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\7985.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\5387.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\19308.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\15094.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\29216.wav,Calvin Coolidge,0,test
+data\itw\release_in_the_wild\29238.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\4237.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\30505.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\11790.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\25054.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\27006.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\14333.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\18250.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\23836.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\31300.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\11523.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\10211.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\25817.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\24875.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\7789.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\8830.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\3183.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\278.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\8977.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\26401.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\24922.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\2217.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\15590.wav,Calvin Coolidge,0,test
+data\itw\release_in_the_wild\28.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\3119.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\31673.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\19810.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\11242.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\15858.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\18786.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\12015.wav,2Pac,1,test
+data\itw\release_in_the_wild\13037.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\14836.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\13258.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\5954.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\21372.wav,Nick Offerman,1,test
+data\itw\release_in_the_wild\22791.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\23949.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\15518.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\5505.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\27568.wav,Calvin Coolidge,0,test
+data\itw\release_in_the_wild\9578.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\3586.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\19844.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\13636.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\23793.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\26357.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\3634.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\9826.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\28913.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\7624.wav,2Pac,1,test
+data\itw\release_in_the_wild\29744.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\24070.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\26979.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\11856.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\30186.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\2431.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\5951.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\28825.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\4710.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\18068.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\423.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\18976.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\30600.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\14493.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\13768.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\24148.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\29420.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\31490.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\2144.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\28850.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\5597.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\9039.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\15961.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\31303.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\11768.wav,2Pac,1,test
+data\itw\release_in_the_wild\5390.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\6632.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\9541.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\25679.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\26001.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\25866.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\21942.wav,Malcolm X,1,test
+data\itw\release_in_the_wild\11896.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\19368.wav,Calvin Coolidge,0,test
+data\itw\release_in_the_wild\20944.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\24528.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\7917.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\1310.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\3821.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\11778.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\17896.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\13956.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\15851.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\24646.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\10551.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\2954.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\28734.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\6262.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\28137.wav,Calvin Coolidge,0,test
+data\itw\release_in_the_wild\1607.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\3967.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\4954.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\7769.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\8781.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\10967.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\22812.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\26215.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\27120.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\3978.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\2339.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\16036.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\28183.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\24618.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\25331.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\14429.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\30865.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\28057.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\24491.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\6339.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\22507.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\24441.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\30017.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\2615.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\23789.wav,Calvin Coolidge,0,test
+data\itw\release_in_the_wild\6767.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\3214.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\9926.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\18789.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\30925.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\2268.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\28196.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\12894.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\29233.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\31475.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\24179.wav,2Pac,1,test
+data\itw\release_in_the_wild\12863.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\26736.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\4221.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\8704.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\10934.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\1106.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\11522.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\24213.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\27073.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\15380.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\31430.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\4769.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\21532.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\2745.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\17202.wav,2Pac,1,test
+data\itw\release_in_the_wild\15780.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\16921.wav,Calvin Coolidge,0,test
+data\itw\release_in_the_wild\11878.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\2620.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\1336.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\18403.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\17817.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\13298.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\16338.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\31057.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\21468.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\6363.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\31769.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\9496.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\15684.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\20968.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\6202.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\3372.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\2172.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\27976.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\6286.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\5318.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\23582.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\6213.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\22594.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\24438.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\14833.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\2513.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\6478.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\15710.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\28139.wav,2Pac,1,test
+data\itw\release_in_the_wild\16009.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\14336.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\31581.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\1056.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\10686.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\144.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\18837.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\5727.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\13543.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\76.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\10680.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\4426.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\18006.wav,2Pac,0,test
+data\itw\release_in_the_wild\27834.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\11288.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\6349.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\3352.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\20862.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\9113.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\20217.wav,2Pac,1,test
+data\itw\release_in_the_wild\15815.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\24645.wav,Calvin Coolidge,0,test
+data\itw\release_in_the_wild\12459.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\11351.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\31645.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\6128.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\28146.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\11314.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\31756.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\3084.wav,Robert Kardashian,1,test
+data\itw\release_in_the_wild\24895.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\8903.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\839.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\24035.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\3235.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\26849.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\5013.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\21833.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\15219.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\19983.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\17384.wav,2Pac,1,test
+data\itw\release_in_the_wild\28933.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\16659.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\7060.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\7927.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\31372.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\8092.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\26373.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\10965.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\23736.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\7357.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\12332.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\2574.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\4102.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\6606.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\14256.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\21320.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\26654.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\7223.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\3589.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\28232.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\17893.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\23071.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\18813.wav,2Pac,1,test
+data\itw\release_in_the_wild\11387.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\26415.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\16465.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\24122.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\22896.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\16000.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\11167.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\8088.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\4640.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\7570.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\12821.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\4370.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\10516.wav,Robert Kardashian,1,test
+data\itw\release_in_the_wild\28755.wav,George W. Bush,0,test
+data\itw\release_in_the_wild\6005.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\17380.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\26546.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\19737.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\30250.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\28149.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\9815.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\14234.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\23065.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\11916.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\5490.wav,Billie Eilish,1,test
+data\itw\release_in_the_wild\4722.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\20539.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\30569.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\15662.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\1991.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\25349.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\19435.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\13687.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\15412.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\26661.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\2390.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\19990.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\17312.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\11747.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\31492.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\22753.wav,George W. Bush,0,test
+data\itw\release_in_the_wild\11905.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\23762.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\19745.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\17265.wav,Robert Kardashian,1,test
+data\itw\release_in_the_wild\3501.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\9365.wav,2Pac,1,test
+data\itw\release_in_the_wild\17331.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\11550.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\2150.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\22385.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\8542.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\1037.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\7460.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\19901.wav,2Pac,1,test
+data\itw\release_in_the_wild\14248.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\12324.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\4496.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\9261.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\13621.wav,George W. Bush,0,test
+data\itw\release_in_the_wild\4229.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\7546.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\9262.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\5423.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\5408.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\2321.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\20108.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\8626.wav,2Pac,1,test
+data\itw\release_in_the_wild\303.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\25816.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\30171.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\28179.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\29815.wav,Robert Kardashian,1,test
+data\itw\release_in_the_wild\14569.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\24084.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\9147.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\13770.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\25981.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\351.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\11978.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\31588.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\1316.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\22342.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\30973.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\1747.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\25929.wav,Robert Kardashian,1,test
+data\itw\release_in_the_wild\5852.wav,Calvin Coolidge,0,test
+data\itw\release_in_the_wild\31717.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\7614.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\16688.wav,2Pac,1,test
+data\itw\release_in_the_wild\31329.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\6111.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\20151.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\12696.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\10790.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\18423.wav,2Pac,1,test
+data\itw\release_in_the_wild\18215.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\31657.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\14594.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\20547.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\22196.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\6556.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\5757.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\13219.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\18886.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\8806.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\23083.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\7692.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\16116.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\2372.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\998.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\21481.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\22146.wav,Calvin Coolidge,0,test
+data\itw\release_in_the_wild\14208.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\1774.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\12541.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\4289.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\28676.wav,2Pac,1,test
+data\itw\release_in_the_wild\19650.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\6392.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\9211.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\1573.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\27914.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\10323.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\2001.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\4068.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\14621.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\225.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\23992.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\24737.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\25216.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\11818.wav,2Pac,0,test
+data\itw\release_in_the_wild\11995.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\28915.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\26343.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\14791.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\8253.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\24202.wav,George W. Bush,0,test
+data\itw\release_in_the_wild\4219.wav,George W. Bush,0,test
+data\itw\release_in_the_wild\131.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\29600.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\19943.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\21246.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\13625.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\30852.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\20148.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\6985.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\21789.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\5609.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\10983.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\11115.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\671.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\1914.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\418.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\4777.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\347.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\22501.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\24512.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\1942.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\14946.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\20749.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\16153.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\22491.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\26681.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\4285.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\3103.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\29252.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\1171.wav,Malcolm X,1,test
+data\itw\release_in_the_wild\25841.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\2799.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\20959.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\26144.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\22069.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\2179.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\12288.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\27197.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\11544.wav,Malcolm X,1,test
+data\itw\release_in_the_wild\14857.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\14844.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\8115.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\7931.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\21877.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\9677.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\31333.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\1834.wav,Malcolm X,1,test
+data\itw\release_in_the_wild\18881.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\16427.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\5874.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\13257.wav,2Pac,1,test
+data\itw\release_in_the_wild\19429.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\29907.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\28155.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\6791.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\28182.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\28735.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\27162.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\3401.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\18759.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\22306.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\11370.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\24859.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\21041.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\20663.wav,George W. Bush,0,test
+data\itw\release_in_the_wild\9332.wav,George W. Bush,0,test
+data\itw\release_in_the_wild\12875.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\17153.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\30537.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\17479.wav,2Pac,1,test
+data\itw\release_in_the_wild\28031.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\3558.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\24782.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\918.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\22833.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\26184.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\7736.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\20261.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\13303.wav,Malcolm X,1,test
+data\itw\release_in_the_wild\25590.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\1043.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\14236.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\8459.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\12152.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\8165.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\27756.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\21573.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\30259.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\3460.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\10064.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\2725.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\4097.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\15935.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\20181.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\10130.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\12708.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\2240.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\15476.wav,2Pac,1,test
+data\itw\release_in_the_wild\17706.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\8657.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\4499.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\11076.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\4280.wav,Nick Offerman,1,test
+data\itw\release_in_the_wild\8801.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\6786.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\28337.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\14958.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\26514.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\8044.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\20563.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\13793.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\15767.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\10731.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\23060.wav,George W. Bush,0,test
+data\itw\release_in_the_wild\28004.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\12593.wav,2Pac,1,test
+data\itw\release_in_the_wild\13328.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\28820.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\23948.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\21660.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\6832.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\18301.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\13458.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\2481.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\16876.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\11106.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\10165.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\20014.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\29930.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\30863.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\13887.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\3088.wav,2Pac,0,test
+data\itw\release_in_the_wild\21863.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\30393.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\17120.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\15119.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\10671.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\2022.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\8266.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\20734.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\16307.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\11678.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\22174.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\31666.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\4648.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\12075.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\15175.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\10183.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\5073.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\29853.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\1904.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\23382.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\5028.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\28268.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\5443.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\22197.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\24747.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\12490.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\17919.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\18617.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\15451.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\14355.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\28299.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\4160.wav,Robert Kardashian,1,test
+data\itw\release_in_the_wild\12692.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\12928.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\10762.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\19740.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\20214.wav,2Pac,0,test
+data\itw\release_in_the_wild\15665.wav,Louis Farrakhan,0,test
+data\itw\release_in_the_wild\30575.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\21116.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\17424.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\31017.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\27828.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\22394.wav,Robert Kardashian,0,test
+data\itw\release_in_the_wild\20683.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\19070.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\18548.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\28740.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\8332.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\1790.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\16924.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\22859.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\11596.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\29300.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\7240.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\28431.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\9768.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\3000.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\27591.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\677.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\20242.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\16944.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\7404.wav,Malcolm X,0,test
+data\itw\release_in_the_wild\21233.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\20806.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\19707.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\692.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\24028.wav,Bill Clinton,0,test
+data\itw\release_in_the_wild\12101.wav,Queen Elizabeth II,0,test
+data\itw\release_in_the_wild\19072.wav,Richard Nixon,0,test
+data\itw\release_in_the_wild\5483.wav,Nick Offerman,0,test
+data\itw\release_in_the_wild\31100.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\17587.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\5532.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\11586.wav,Robert Kardashian,1,test
+data\itw\release_in_the_wild\17218.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\27106.wav,2Pac,1,test
+data\itw\release_in_the_wild\1371.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\14258.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\12997.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\25788.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\2979.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\11894.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\29131.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\6133.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\6519.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\91.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\26015.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\7463.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\14734.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\11303.wav,2Pac,1,test
+data\itw\release_in_the_wild\28284.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\4720.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\22712.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\31089.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\7355.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\27788.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\25931.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\14729.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\31247.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\4913.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\9390.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\682.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\24477.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\5063.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\19041.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\24354.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\7604.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\26918.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\8202.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\25370.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\9477.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\27645.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\8314.wav,Malcolm X,1,test
+data\itw\release_in_the_wild\5042.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\1071.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\25765.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\27446.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\19578.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\30377.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\14564.wav,Robert Kardashian,1,test
+data\itw\release_in_the_wild\17928.wav,Malcolm X,1,test
+data\itw\release_in_the_wild\1161.wav,Malcolm X,1,test
+data\itw\release_in_the_wild\31535.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\14149.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\25311.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\17823.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\20200.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\18869.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\4082.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\19618.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\214.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\25127.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\11306.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\30464.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\31253.wav,Calvin Coolidge,1,test
+data\itw\release_in_the_wild\20461.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\20775.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\7483.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\15702.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\26396.wav,Malcolm X,1,test
+data\itw\release_in_the_wild\30258.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\20094.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\29065.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\996.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\18299.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\10932.wav,2Pac,1,test
+data\itw\release_in_the_wild\346.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\17844.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\21385.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\14409.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\15052.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\26914.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\7826.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\5855.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\23766.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\8947.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\9917.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\16299.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\9467.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\4591.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\9411.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\11448.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\270.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\19110.wav,Malcolm X,1,test
+data\itw\release_in_the_wild\9876.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\23256.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\13903.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\7206.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\17757.wav,Malcolm X,1,test
+data\itw\release_in_the_wild\26394.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\22147.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\20399.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\17219.wav,2Pac,1,test
+data\itw\release_in_the_wild\26106.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\4412.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\8136.wav,Malcolm X,1,test
+data\itw\release_in_the_wild\14111.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\23159.wav,Calvin Coolidge,1,test
+data\itw\release_in_the_wild\9230.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\11289.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\27623.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\18775.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\17727.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\22532.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\30156.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\28033.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\30362.wav,2Pac,1,test
+data\itw\release_in_the_wild\30195.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\20240.wav,2Pac,1,test
+data\itw\release_in_the_wild\16208.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\24531.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\24537.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\680.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\24268.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\16140.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\22718.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\7507.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\6376.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\4730.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\11279.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\28784.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\27083.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\19061.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\20254.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\2161.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\28849.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\30291.wav,2Pac,1,test
+data\itw\release_in_the_wild\7739.wav,2Pac,1,test
+data\itw\release_in_the_wild\7142.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\27795.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\23421.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\12142.wav,Billie Eilish,1,test
+data\itw\release_in_the_wild\19491.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\20265.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\22622.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\6647.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\11514.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\10830.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\7159.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\27398.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\8059.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\12552.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\29135.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\17508.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\16624.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\6259.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\24718.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\3248.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\2356.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\29746.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\27918.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\23964.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\22217.wav,Nick Offerman,1,test
+data\itw\release_in_the_wild\24102.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\25159.wav,Malcolm X,1,test
+data\itw\release_in_the_wild\10809.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\21661.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\15732.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\24730.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\12768.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\29586.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\7718.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\23832.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\23205.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\5927.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\6543.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\5639.wav,2Pac,1,test
+data\itw\release_in_the_wild\9476.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\10863.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\1788.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\28596.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\23612.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\7543.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\22980.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\6839.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\25758.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\17550.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\17516.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\1583.wav,Malcolm X,1,test
+data\itw\release_in_the_wild\16656.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\150.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\9979.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\10066.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\4539.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\10906.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\5981.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\6275.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\29418.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\5898.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\14195.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\15820.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\6838.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\24746.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\3869.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\18043.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\9219.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\11389.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\15777.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\13677.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\7808.wav,2Pac,1,test
+data\itw\release_in_the_wild\27031.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\23897.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\21925.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\10817.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\30279.wav,2Pac,1,test
+data\itw\release_in_the_wild\18443.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\17248.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\16168.wav,Nick Offerman,1,test
+data\itw\release_in_the_wild\26089.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\13064.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\18818.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\31426.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\28173.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\769.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\24920.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\24507.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\25899.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\23629.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\23910.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\6640.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\29557.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\22025.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\10017.wav,2Pac,1,test
+data\itw\release_in_the_wild\390.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\5665.wav,Richard Nixon,1,test
+data\itw\release_in_the_wild\16004.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\5726.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\20171.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\16578.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\8918.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\7466.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\10632.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\9306.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\2836.wav,Malcolm X,1,test
+data\itw\release_in_the_wild\18866.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\11796.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\25355.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\13724.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\23236.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\6501.wav,Malcolm X,1,test
+data\itw\release_in_the_wild\22598.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\13488.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\28249.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\7348.wav,2Pac,1,test
+data\itw\release_in_the_wild\7380.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\79.wav,2Pac,1,test
+data\itw\release_in_the_wild\7105.wav,Louis Farrakhan,1,test
+data\itw\release_in_the_wild\11636.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\9792.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\19289.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\11858.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\1800.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\18611.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\20111.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\24838.wav,Queen Elizabeth II,1,test
+data\itw\release_in_the_wild\22698.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\26567.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\19096.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\12867.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\17915.wav,Bill Clinton,1,test
+data\itw\release_in_the_wild\2800.wav,2Pac,1,test
+data\itw\release_in_the_wild\24222.wav,Malcolm X,1,test
+data\itw\release_in_the_wild\29280.wav,George W. Bush,1,test
+data\itw\release_in_the_wild\15494.wav,Bill Clinton,1,test

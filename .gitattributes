@@ -1,0 +1,9 @@
+*.sh text eol=lf
+*.bat text eol=crlf
+*.wav binary
+*.pt binary
+*.npy binary
+*.pptx binary
+*.pdf binary
+*.docx binary
+*.th binary

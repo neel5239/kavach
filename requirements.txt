@@ -1,0 +1,24 @@
+# PyTorch is installed separately by setup.bat / setup.sh (CUDA build if an NVIDIA GPU is present, CPU build otherwise).
+transformers==5.13.1
+huggingface_hub==1.16.1
+safetensors==0.8.0
+numpy==2.4.6
+scipy==1.18.0
+soundfile==0.12.1
+scikit-learn==1.9.1
+fastapi==0.142.2
+uvicorn==0.54.0
+python-multipart==0.0.32
+httpx==0.28.1
+pytest==9.1.1
+websockets==15.0.1
+# Noise shield helpers (pure Python / use the torch already installed)
+julius==0.2.8
+einops==0.8.2
+dora-search==0.1.13
+lameenc==1.9.0
+omegaconf==2.4.0
+retrying
+submitit
+treetable
+cloudpickle

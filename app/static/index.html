@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Kavach</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M16 3l11 4v8c0 7-5 12-11 14C10 27 5 22 5 15V7z' fill='%230f6b58'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<main class="shell">
+  <header class="top">
+    <div class="brand">
+      <svg class="shield" viewBox="0 0 32 32" aria-hidden="true"><path d="M16 3l11 4v8c0 7-5 12-11 14C10 27 5 22 5 15V7z"/></svg>
+      <div>
+        <h1>Kavach</h1>
+        <p class="sub">Is this voice real, or an AI clone?</p>
+      </div>
+    </div>
+    <span id="status" class="status" role="status">Connecting…</span>
+  </header>
+
+  <section class="stage" aria-live="polite">
+    <div class="dial" id="dial" data-state="idle">
+      <svg viewBox="0 0 220 220" aria-hidden="true">
+        <circle class="track" cx="110" cy="110" r="92"/>
+        <circle class="arc" id="arc" cx="110" cy="110" r="92" pathLength="100"/>
+      </svg>
+      <div class="dial-face">
+        <span class="verdict" id="verdict">Ready</span>
+        <span class="score" id="score">Upload or record 2–10 s of speech</span>
+      </div>
+    </div>
+    <p class="advice" id="advice"></p>
+  </section>
+
+  <section class="controls">
+    <label class="btn raised" for="file" id="uploadBtn">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 16V4m0 0l-5 5m5-5l5 5M4 20h16"/></svg>
+      <span>Upload clip</span>
+    </label>
+    <input type="file" id="file" accept="audio/*,.wav,.mp3,.m4a,.ogg,.flac,.webm" hidden>
+    <button class="btn raised" id="recBtn" type="button" aria-pressed="false">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="9" y="3" width="6" height="12" rx="3"/><path d="M5 11a7 7 0 0014 0M12 18v3"/></svg>
+      <span id="recLabel">Record</span>
+    </button>
+  </section>
+  <div class="meter" id="meter" hidden><div class="meter-fill" id="meterFill"></div><span id="recTime">0.0 s</span></div>
+
+  <section class="drop inset" id="drop">
+    <p>or drop an audio file here</p>
+  </section>
+
+  <section class="card raised-soft" id="liveCard">
+    <div class="row">
+      <h2>Live call mode</h2>
+      <span class="legend" id="liveInfo">score updates every 0.5 s</span>
+    </div>
+    <div class="live-actions">
+      <button class="btn raised small" id="liveMic" type="button" aria-pressed="false">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4h4l2 5-2.5 1.5a11 11 0 005 5L15 13l5 2v4a2 2 0 01-2 2A16 16 0 013 6a2 2 0 012-2z"/></svg>
+        <span id="liveMicLabel">Start live call</span>
+      </button>
+      <label class="sel">
+        <span class="sr">Demo clip to stream</span>
+        <select id="simSel"><option value="">Simulate a call with…</option></select>
+      </label>
+    </div>
+    <canvas id="liveChart" height="120" aria-label="Live clone score over time"></canvas>
+  </section>
+
+  <section class="card raised-soft" id="detail" hidden>
+    <div class="row">
+      <h2>Timeline</h2>
+      <span class="legend"><i class="sw ok"></i>real-like <i class="sw bad"></i>clone-like</span>
+    </div>
+    <canvas id="wave" height="110" aria-label="Waveform with suspicious seconds shaded"></canvas>
+    <div class="seg" id="segWrap" hidden>
+      <div class="row"><span class="legend">Synthetic segments (0.5 s cells)</span><span class="legend" id="segInfo"></span></div>
+      <div class="segbar" id="segBar"></div>
+    </div>
+    <audio id="player" controls preload="metadata"></audio>
+    <dl class="facts">
+      <div><dt>Score</dt><dd id="fScore">–</dd></div>
+      <div><dt>Speech</dt><dd id="fSpeech">–</dd></div>
+      <div><dt>Windows</dt><dd id="fWin">–</dd></div>
+      <div><dt>Time</dt><dd id="fLat">–</dd></div>
+    </dl>
+  </section>
+
+  <section class="card raised-soft" id="samplesCard" hidden>
+    <h2>Demo clips</h2>
+    <div class="chips" id="samples"></div>
+  </section>
+
+  <section class="card raised-soft" id="historyCard" hidden>
+    <h2>This session</h2>
+    <ul class="history" id="history"></ul>
+  </section>
+
+  <footer class="foot">Audio is analysed in memory and never stored. A verdict is a warning, not proof: when in doubt, hang up and call back on a saved number.</footer>
+</main>
+<script src="/static/app.js"></script>
+</body>
+</html>
