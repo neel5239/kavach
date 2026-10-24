@@ -7,6 +7,9 @@ from conftest import tone, wav_bytes
 from app import server
 from kavach import audio
 from kavach.model import Thresholds, aggregate, verdict_for
+from kavach import vad as _vad
+
+_REAL_SPEECH_SECONDS = _vad.speech_seconds  # captured before any test patches it
 
 
 class StubDetector:
@@ -40,6 +43,8 @@ class StubDetector:
 @pytest.fixture
 def client(monkeypatch):
     monkeypatch.setenv("KAVACH_NO_PRELOAD", "1")
+    # test tones are not human speech: treat any non-silent window as speech here (real VAD is tested separately)
+    monkeypatch.setattr(server.vad, "speech_seconds", lambda w: len(w) / audio.SR if np.sqrt(np.mean(w ** 2)) > 1e-3 else 0.0)
     server.set_detector(StubDetector())
     return TestClient(server.app)
 
@@ -206,3 +211,17 @@ def test_model_loads_once_under_concurrent_first_requests(monkeypatch):
     [t.join() for t in ts]
     assert len(calls) == 1
     server.set_detector(None)
+
+
+def test_real_vad_ignores_silence_and_noise():
+    rng = np.random.default_rng(0)
+    for x in (np.zeros(4 * audio.SR, np.float32), rng.normal(0, 0.01, 4 * audio.SR).astype(np.float32),
+              rng.normal(0, 0.1, 4 * audio.SR).astype(np.float32)):
+        assert _REAL_SPEECH_SECONDS(x) < 0.3
+
+
+def test_stream_noise_only_never_judged(client, monkeypatch):
+    monkeypatch.setattr(server.vad, "speech_seconds", _REAL_SPEECH_SECONDS)  # real detector
+    noise = np.random.default_rng(1).normal(0, 0.05, 5 * audio.SR).astype(np.float32)
+    msgs = _stream(client, noise)
+    assert msgs and all(m["verdict"] == "LISTENING" for m in msgs)

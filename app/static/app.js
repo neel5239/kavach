@@ -160,7 +160,9 @@
     if (live.timer) clearInterval(live.timer);
     if (live.player) live.player.pause();
     live = null;
-    liveMic.setAttribute("aria-pressed", "false"); liveLabel.textContent = "Start live call"; simSel.disabled = false;
+    liveMic.setAttribute("aria-pressed", "false"); liveLabel.textContent = "Start live call";
+    liveSys.setAttribute("aria-pressed", "false"); liveSysLabel.textContent = "Listen to this computer";
+    liveMic.disabled = false; liveSys.disabled = false; simSel.disabled = false;
     if (msg) liveInfo.textContent = msg;
   }
   function liveStart(onReady) {
@@ -174,6 +176,10 @@
       points.push(m);
       if (points.length > 200) points.shift();
       liveDraw(points, m.thresholds);
+      if (m.verdict === "LISTENING" && m.smoothed == null) {
+        setDial("busy", "Listening", "Waiting for speech…", 0);
+        advice.className = "advice"; advice.textContent = "";
+      }
       if (m.smoothed != null && m.verdict !== "LISTENING") {
         const cls = m.verdict === "FAKE" ? "fake" : m.verdict === "REAL" ? "real" : "unsure";
         setDial(cls, m.verdict, `Live · ${Math.round(m.smoothed * 100)} / 100`, m.smoothed * 100);
@@ -181,25 +187,44 @@
         advice.className = "advice " + cls;
         advice.textContent = m.verdict === "FAKE" ? `Voice has looked AI-cloned for ${(m.t - fakeSince + 0.5).toFixed(1)} s. Hang up and call back on a saved number.` : (ADVICE[m.verdict] || ["", "Listening…"])[1];
       }
-      liveInfo.textContent = `${m.t.toFixed(1)} s · update ${m.ms != null ? Math.round(m.ms) + " ms" : "listening"}${m.noisy ? " · noise shield on" : ""}`;
+      liveInfo.textContent = m.verdict === "LISTENING" ? `${m.t.toFixed(1)} s · no speech, not judging` : `${m.t.toFixed(1)} s · update ${Math.round(m.ms)} ms${m.noisy ? " · noise shield on" : ""}`;
     };
     ws.onclose = () => live && liveStop("Call ended.");
     ws.onopen = () => onReady(ws);
     return ws;
+  }
+  const liveSys = $("liveSys"), liveSysLabel = $("liveSysLabel");
+  async function liveFromStream(stream, btn, label, busyText) {
+    const ac = new AudioContext({ sampleRate: 16000 });
+    await ac.audioWorklet.addModule("/static/worklet.js");
+    const src = ac.createMediaStreamSource(stream), node = new AudioWorkletNode(ac, "grab");
+    src.connect(node);
+    live = { ac, stream, btn, label };
+    live.ws = liveStart((ws) => { node.port.onmessage = (e) => ws.readyState === 1 && ws.send(e.data.buffer); });
+    stream.getAudioTracks().forEach((t) => (t.onended = () => liveStop("Audio sharing stopped.")));
+    btn.setAttribute("aria-pressed", "true"); label.textContent = "End call";
+    for (const b of [liveMic, liveSys]) if (b !== btn) b.disabled = true;
+    simSel.disabled = true;
+    setDial("busy", "Live", busyText, 0);
   }
   liveMic.addEventListener("click", async () => {
     if (live) return liveStop("Call ended.");
     let stream;
     try { stream = await navigator.mediaDevices.getUserMedia({ audio: { echoCancellation: false, noiseSuppression: false, autoGainControl: false } }); }
     catch { return showError("Microphone blocked. Allow mic access or use Simulate a call."); }
-    const ac = new AudioContext({ sampleRate: 16000 });
-    await ac.audioWorklet.addModule("/static/worklet.js");
-    const src = ac.createMediaStreamSource(stream), node = new AudioWorkletNode(ac, "grab");
-    src.connect(node);
-    live = { ac, stream };
-    live.ws = liveStart((ws) => { node.port.onmessage = (e) => ws.readyState === 1 && ws.send(e.data.buffer); });
-    liveMic.setAttribute("aria-pressed", "true"); liveLabel.textContent = "End call"; simSel.disabled = true;
-    setDial("busy", "Live", "Listening to the call…", 0);
+    liveFromStream(stream, liveMic, liveLabel, "Listening through the microphone…");
+  });
+  liveSys.addEventListener("click", async () => {
+    if (live) return liveStop("Call ended.");
+    if (!navigator.mediaDevices.getDisplayMedia) return showError("This browser cannot share computer audio. Use Chrome or Edge.");
+    let shared;
+    try {
+      shared = await navigator.mediaDevices.getDisplayMedia({ video: true, audio: { echoCancellation: false, noiseSuppression: false, autoGainControl: false }, systemAudio: "include" });
+    } catch { return showError("Sharing was cancelled. Choose 'Entire screen' and tick 'Share system audio'."); }
+    shared.getVideoTracks().forEach((t) => t.stop());  // only the sound is used, the picture is dropped
+    const tracks = shared.getAudioTracks();
+    if (!tracks.length) return showError("No audio was shared. Choose 'Entire screen' and tick 'Share system audio', then try again.");
+    liveFromStream(new MediaStream(tracks), liveSys, liveSysLabel, "Listening to this computer's call audio…");
   });
   simSel.addEventListener("change", async () => {
     const f = simSel.value; simSel.value = "";

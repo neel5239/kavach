@@ -21,6 +21,7 @@ from fastapi.staticfiles import StaticFiles
 
 from kavach import audio
 from kavach.model import aggregate
+from kavach import vad
 
 ROOT = Path(__file__).resolve().parents[1]
 STATIC = Path(__file__).resolve().parent / "static"
@@ -150,6 +151,8 @@ async def http_error(_req: Request, exc: HTTPException):
 STREAM_WINDOW_S = 4.0       # same window length as upload (more evidence than 2 s)
 STREAM_MIN_S = 1.5          # first verdict after 1.5 s of audio
 STREAM_MEMORY = 8           # call score = mean of the top half of the last 8 updates (4 s)
+STREAM_MIN_SPEECH_S = 1.0   # judge a window only if it holds at least this much speech
+STREAM_FORGET_S = 6.0       # this long without speech resets the call verdict
 STREAM_STEP_S = 0.5
 STREAM_MAX_S = 600.0          # one call is capped at 10 minutes
 STREAM_MAX_FRAME = 64 * 1024  # bytes per message
@@ -172,6 +175,7 @@ async def stream(ws: WebSocket):
     buf = np.zeros(0, dtype=np.float32)
     total, pending, smoothed = 0, 0, None
     recent: list[float] = []
+    last_speech_t = 0.0
     step = int(STREAM_STEP_S * audio.SR)
     win = int(STREAM_WINDOW_S * audio.SR)
     try:
@@ -195,9 +199,14 @@ async def stream(ws: WebSocket):
             seg = buf[-win:]
             rms = float(np.sqrt(np.mean(seg ** 2)))
             t = round(total / audio.SR, 2)
-            if rms < 3e-3:  # silence: keep the last verdict
-                await ws.send_text(json.dumps({"t": t, "score": None, "smoothed": smoothed, "verdict": "LISTENING", "rms": rms}))
+            sp = await asyncio.to_thread(vad.speech_seconds, audio.normalise(seg)) if rms > 1e-4 else 0.0
+            if sp < min(STREAM_MIN_SPEECH_S, 0.4 * len(seg) / audio.SR):  # nobody talking: never judge noise
+                if t - last_speech_t > STREAM_FORGET_S:
+                    recent, smoothed = [], None
+                await ws.send_text(json.dumps({"t": t, "score": None, "smoothed": smoothed, "verdict": "LISTENING",
+                                               "rms": round(rms, 4), "speech_s": round(sp, 2)}))
                 continue
+            last_speech_t = t
             t0 = time.perf_counter()
 
             def work(seg=seg):
@@ -209,7 +218,7 @@ async def stream(ws: WebSocket):
             recent = (recent + [s])[-STREAM_MEMORY:]
             smoothed = aggregate(recent)  # same top-half rule as upload, so one fake stretch is not averaged away
             v = "FAKE" if smoothed > det.th.fake_above else "REAL" if smoothed < det.th.real_below else "NOT SURE"
-            await ws.send_text(json.dumps({"t": t, "score": round(s, 4), "smoothed": round(smoothed, 4), "verdict": v, "rms": round(rms, 4), "noisy": r["noisy"],
+            await ws.send_text(json.dumps({"t": t, "score": round(s, 4), "smoothed": round(smoothed, 4), "verdict": v, "rms": round(rms, 4), "noisy": r["noisy"], "speech_s": round(sp, 2),
                                            "denoised": None if r["denoised"] is None else round(r["denoised"], 4),
                                            "ms": round((time.perf_counter() - t0) * 1000, 1), "thresholds": [det.th.real_below, det.th.fake_above]}))
     except WebSocketDisconnect:

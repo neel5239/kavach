@@ -126,6 +126,7 @@ audio { width: 100%; height: 40px; }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
 
 .live-actions { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.live-actions .sel { grid-column: 1 / -1; }
 .btn.small { min-height: 48px; font-size: .92rem; }
 .sel select { width: 100%; min-height: 48px; border: 0; border-radius: var(--r); padding: 0 14px; background: var(--surface); color: var(--fg);
   font: 600 .9rem var(--font); box-shadow: inset 4px 4px 9px var(--lo), inset -4px -4px 9px var(--hi); }

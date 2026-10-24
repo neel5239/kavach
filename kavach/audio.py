@@ -219,3 +219,26 @@ def channel_aug(wav: np.ndarray, rng: np.random.Generator) -> np.ndarray:
     if rng.random() < 0.6:
         x = add_noise(x, float(rng.uniform(5, 25)), rng)
     return x
+
+
+def speech_activity(wav: np.ndarray, frame_ms: int = 30) -> dict:
+    """Is someone actually talking in this window? Energy above the window's own noise floor, plus
+    low spectral flatness (voices are tonal; hiss, fans and silence are flat). Used by live mode so
+    background noise is never judged as a voice."""
+    n = int(SR * frame_ms / 1000)
+    k = len(wav) // n
+    if k < 5:
+        return {"speech": False, "ratio": 0.0}
+    fr = wav[: k * n].reshape(k, n)
+    e = 10 * np.log10(np.mean(fr ** 2, axis=1) + 1e-12)
+    floor = np.percentile(e, 10)
+    loud = (e > floor + 9.0) & (e > -55.0)
+    if not loud.any():
+        return {"speech": False, "ratio": 0.0}
+    spec = np.abs(np.fft.rfft(fr[loud] * np.hanning(n), axis=1)) + 1e-9
+    band = spec[:, int(80 * n / SR): int(4000 * n / SR)]
+    flat = np.exp(np.mean(np.log(band), axis=1)) / np.mean(band, axis=1)
+    voiced = loud.copy()
+    voiced[loud] = flat < 0.35
+    ratio = float(voiced.mean())
+    return {"speech": ratio >= 0.2, "ratio": round(ratio, 3)}
