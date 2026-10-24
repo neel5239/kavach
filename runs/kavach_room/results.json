@@ -1,0 +1,217 @@
+{
+  "train_examples": 69110,
+  "calibration": {
+    "eer": 0.016812587878875747,
+    "thresholds": {
+      "real_below": 0.5187114477157593,
+      "fake_above": 0.5187114477157593,
+      "eer_threshold": 0.5187114477157593
+    }
+  },
+  "experiments": {
+    "itw:clean": {
+      "eer": 0.02135815644266074,
+      "n_real": 2339,
+      "n_fake": 1687,
+      "fake_flagged": 0.972139893301719,
+      "not_sure_rate": 0.0,
+      "accuracy_when_decided": 0.9860904123199206,
+      "fake_called_real": 0.027860106698280974,
+      "real_called_fake": 0.003847798204360838
+    },
+    "itw:phone": {
+      "eer": 0.03080316673564132,
+      "n_real": 2339,
+      "n_fake": 1687,
+      "fake_flagged": 0.941315945465323,
+      "not_sure_rate": 0.0,
+      "accuracy_when_decided": 0.9714356681569797,
+      "fake_called_real": 0.05868405453467694,
+      "real_called_fake": 0.006840530141085934
+    },
+    "itw:len2": {
+      "eer": 0.021868307123381208,
+      "n_real": 2339,
+      "n_fake": 1687,
+      "fake_flagged": 0.97036158861885,
+      "not_sure_rate": 0.0,
+      "accuracy_when_decided": 0.9858420268256334,
+      "fake_called_real": 0.02963841138114997,
+      "real_called_fake": 0.002992731936725096
+    },
+    "itw:len10": {
+      "eer": 0.02135815644266074,
+      "n_real": 2339,
+      "n_fake": 1687,
+      "fake_flagged": 0.975103734439834,
+      "not_sure_rate": 0.0,
+      "accuracy_when_decided": 0.9853452558370591,
+      "fake_called_real": 0.024896265560165973,
+      "real_called_fake": 0.007268063274903805
+    },
+    "libri_n:noisetr": {
+      "n_real": 450,
+      "real_called_fake": 0.008888888888888889,
+      "real_called_real": 0.9911111111111112,
+      "not_sure_rate": 0.0
+    },
+    "modern:clean": {
+      "eer": 0.004934640522875797,
+      "n_real": 3825,
+      "n_fake": 204,
+      "fake_flagged": 0.9950980392156863,
+      "not_sure_rate": 0.0,
+      "accuracy_when_decided": 0.9947877885331348,
+      "fake_called_real": 0.004901960784313725,
+      "real_called_fake": 0.00522875816993464
+    },
+    "modern:replay": {
+      "eer": 0.13284313725490193,
+      "n_real": 450,
+      "n_fake": 204,
+      "fake_flagged": 0.8774509803921569,
+      "not_sure_rate": 0.0,
+      "accuracy_when_decided": 0.8608562691131498,
+      "fake_called_real": 0.12254901960784313,
+      "real_called_fake": 0.14666666666666667
+    },
+    "libri:clean": {
+      "n_real": 450,
+      "real_called_fake": 0.0044444444444444444,
+      "real_called_real": 0.9955555555555555,
+      "not_sure_rate": 0.0
+    },
+    "libri:replay": {
+      "n_real": 450,
+      "real_called_fake": 0.14666666666666667,
+      "real_called_real": 0.8533333333333334,
+      "not_sure_rate": 0.0
+    },
+    "libri:chan": {
+      "n_real": 450,
+      "real_called_fake": 0.04666666666666667,
+      "real_called_real": 0.9533333333333334,
+      "not_sure_rate": 0.0
+    },
+    "itw_p2test:clean": {
+      "eer": 0.018018018018018035,
+      "n_real": 999,
+      "n_fake": 999,
+      "fake_flagged": 0.974974974974975,
+      "not_sure_rate": 0.0,
+      "accuracy_when_decided": 0.9854854854854855,
+      "fake_called_real": 0.025025025025025027,
+      "real_called_fake": 0.004004004004004004
+    },
+    "itw_p2test:r8k": {
+      "eer": 0.017017017017016994,
+      "n_real": 999,
+      "n_fake": 999,
+      "fake_flagged": 0.973973973973974,
+      "not_sure_rate": 0.0,
+      "accuracy_when_decided": 0.984984984984985,
+      "fake_called_real": 0.026026026026026026,
+      "real_called_fake": 0.004004004004004004
+    },
+    "itw_p2test:amr": {
+      "eer": 0.018018018018018035,
+      "n_real": 999,
+      "n_fake": 999,
+      "fake_flagged": 0.977977977977978,
+      "not_sure_rate": 0.0,
+      "accuracy_when_decided": 0.982982982982983,
+      "fake_called_real": 0.022022022022022022,
+      "real_called_fake": 0.012012012012012012
+    },
+    "itw_p2test:opus": {
+      "eer": 0.020020020020020016,
+      "n_real": 999,
+      "n_fake": 999,
+      "fake_flagged": 0.97997997997998,
+      "not_sure_rate": 0.0,
+      "accuracy_when_decided": 0.982982982982983,
+      "fake_called_real": 0.02002002002002002,
+      "real_called_fake": 0.014014014014014014
+    },
+    "itw_p2test:noise": {
+      "eer": 0.04004004004004003,
+      "n_real": 999,
+      "n_fake": 999,
+      "fake_flagged": 0.8348348348348348,
+      "not_sure_rate": 0.0,
+      "accuracy_when_decided": 0.9144144144144144,
+      "fake_called_real": 0.16516516516516516,
+      "real_called_fake": 0.006006006006006006
+    },
+    "itw_p2test:chan": {
+      "eer": 0.12212212212212213,
+      "n_real": 999,
+      "n_fake": 999,
+      "fake_flagged": 0.8228228228228228,
+      "not_sure_rate": 0.0,
+      "accuracy_when_decided": 0.8763763763763763,
+      "fake_called_real": 0.17717717717717718,
+      "real_called_fake": 0.07007007007007007
+    },
+    "room:clean": {
+      "eer": 0.1600284495021337,
+      "n_real": 37,
+      "n_fake": 38,
+      "fake_flagged": 0.7105263157894737,
+      "not_sure_rate": 0.0,
+      "accuracy_when_decided": 0.7866666666666666,
+      "fake_called_real": 0.2894736842105263,
+      "real_called_fake": 0.13513513513513514
+    },
+    "room:noisetr": {
+      "eer": 0.2667140825035562,
+      "n_real": 37,
+      "n_fake": 38,
+      "fake_flagged": 0.6578947368421053,
+      "not_sure_rate": 0.0,
+      "accuracy_when_decided": 0.72,
+      "fake_called_real": 0.34210526315789475,
+      "real_called_fake": 0.21621621621621623
+    },
+    "room:noise": {
+      "eer": 0.2667140825035562,
+      "n_real": 37,
+      "n_fake": 38,
+      "fake_flagged": 0.6578947368421053,
+      "not_sure_rate": 0.0,
+      "accuracy_when_decided": 0.76,
+      "fake_called_real": 0.34210526315789475,
+      "real_called_fake": 0.13513513513513514
+    },
+    "shortcut_only_classifier": {
+      "eer": 0.4699620592854393
+    }
+  },
+  "layer_weights": [
+    0.0414000004529953,
+    0.03889999911189079,
+    0.05290000140666962,
+    0.05950000137090683,
+    0.07779999822378159,
+    0.09539999812841415,
+    0.08889999985694885,
+    0.03700000047683716,
+    0.053599998354911804,
+    0.04320000112056732,
+    0.0364999994635582,
+    0.030300000682473183,
+    0.028999999165534973,
+    0.028200000524520874,
+    0.0284000001847744,
+    0.031099999323487282,
+    0.030899999663233757,
+    0.04149999842047691,
+    0.0430000014603138,
+    0.040800001472234726,
+    0.023499999195337296,
+    0.019600000232458115,
+    0.009700000286102295,
+    0.009600000455975533,
+    0.009100000374019146
+  ]
+}

@@ -1,0 +1,90 @@
+{
+ "kavach": {
+  "room:clean": {
+   "eer": 0.24004267425320053,
+   "fake_flagged": 0.21052631578947367,
+   "real_called_fake": 0.0,
+   "n": 75
+  },
+  "room:noisetr": {
+   "eer": 0.4267425320056899,
+   "fake_flagged": 0.23684210526315788,
+   "real_called_fake": 0.05405405405405406,
+   "n": 75
+  },
+  "room:noise": {
+   "eer": 0.346728307254623,
+   "fake_flagged": 0.13157894736842105,
+   "real_called_fake": 0.0,
+   "n": 75
+  },
+  "itw:clean": {
+   "eer": 0.020124088514310946,
+   "fake_flagged": 0.970954356846473,
+   "real_called_fake": 0.0017101325352714834,
+   "n": 4026
+  },
+  "itw:phone": {
+   "eer": 0.029569098807291524,
+   "fake_flagged": 0.949614700652045,
+   "real_called_fake": 0.00983326207781103,
+   "n": 4026
+  },
+  "modern:clean": {
+   "eer": 0.004802412628155126,
+   "fake_flagged": 0.9803921568627451,
+   "real_called_fake": 0.0017101325352714834,
+   "n": 2543
+  },
+  "modern:replay": {
+   "eer": 0.006085012029608769,
+   "fake_flagged": 0.9313725490196079,
+   "real_called_fake": 0.0017101325352714834,
+   "n": 2543
+  }
+ },
+ "kavach_room": {
+  "room:clean": {
+   "eer": 0.1600284495021337,
+   "fake_flagged": 0.7105263157894737,
+   "real_called_fake": 0.13513513513513514,
+   "n": 75
+  },
+  "room:noisetr": {
+   "eer": 0.2667140825035562,
+   "fake_flagged": 0.6578947368421053,
+   "real_called_fake": 0.21621621621621623,
+   "n": 75
+  },
+  "room:noise": {
+   "eer": 0.2667140825035562,
+   "fake_flagged": 0.6578947368421053,
+   "real_called_fake": 0.13513513513513514,
+   "n": 75
+  },
+  "itw:clean": {
+   "eer": 0.02135815644266074,
+   "fake_flagged": 0.972139893301719,
+   "real_called_fake": 0.003847798204360838,
+   "n": 4026
+  },
+  "itw:phone": {
+   "eer": 0.03080316673564132,
+   "fake_flagged": 0.941315945465323,
+   "real_called_fake": 0.006840530141085934,
+   "n": 4026
+  },
+  "modern:clean": {
+   "eer": 0.004802412628155126,
+   "fake_flagged": 0.9950980392156863,
+   "real_called_fake": 0.003847798204360838,
+   "n": 2543
+  },
+  "modern:replay": {
+   "eer": 0.010887424657763895,
+   "fake_flagged": 0.8774509803921569,
+   "real_called_fake": 0.003847798204360838,
+   "n": 2543
+  }
+ }
+}

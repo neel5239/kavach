@@ -1,8 +1,8 @@
 {
   "thresholds": {
-    "real_below": 0.4159737527370453,
-    "fake_above": 0.4159737527370453,
-    "eer_threshold": 0.4159737527370453
+    "real_below": 0.5187114477157593,
+    "fake_above": 0.5187114477157593,
+    "eer_threshold": 0.5187114477157593
   },
   "hidden": 128,
   "trained_on": [
@@ -12,7 +12,8 @@
     "libri_n:noisetr",
     "modern:clean,replay",
     "libri:clean,replay,chan",
-    "itw_p2test:clean,r8k,amr,opus,noise,chan"
+    "itw_p2test:clean,r8k,amr,opus,noise,chan",
+    "room:clean,noisetr,noise@5"
   ],
-  "cal_eer": 0.012908754102221559
+  "cal_eer": 0.016812587878875747
 }

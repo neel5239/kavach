@@ -15,7 +15,7 @@ from kavach.features import Extractor  # noqa: E402
 from kavach.model import aggregate, load_head  # noqa: E402
 
 CAP = ROOT / "data" / "user_tests" / "captures"
-HEADS = [d for d in ["kavach", "kavach_v1", "itw", "itw_quick"] if (ROOT / "models" / d / "head.pt").exists()]
+HEADS = [d for d in ["kavach", "kavach_room"] if (ROOT / "models" / d / "head.pt").exists()]
 
 
 def main():

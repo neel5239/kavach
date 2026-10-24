@@ -199,7 +199,7 @@ async def stream(ws: WebSocket):
     total, pending, smoothed = 0, 0, None
     # live thresholds: calibrated on real voices recorded through room/speaker/mic chains (unseen speakers)
     try:
-        live_fake = max(det.th.fake_above, json.loads(LIVE_CALIB.read_text())["0.98"])
+        live_fake = max(det.th.fake_above, json.loads(LIVE_CALIB.read_text())["0.95"])
     except Exception:
         live_fake = max(det.th.fake_above, 0.7)
     live_real = det.th.real_below

@@ -28,3 +28,6 @@ docs/phase-sheet.html
 docs/~$*
 docs/hyp/
 models/second_opinion/
+data/room/
+models/*_v2/
+models/kavach_room/

@@ -41,14 +41,17 @@ def load_set(name, variants):
 
 def main():
     outname, specs = sys.argv[1], sys.argv[2:]
-    sets = {}
+    sets, weight = {}, {}
     for sp in specs:
+        sp, _, w = sp.partition("@")  # name:variants@K repeats that set's training rows K times
         name, _, vs = sp.partition(":")
         sets[name] = load_set(name, vs.split(",") if vs else ["clean"])
+        weight[name] = int(w) if w else 1
     Xtr, Ytr, Xcal, Ycal = [], [], [], []
     for name, (_, vs) in sets.items():
         for v, (x, y, s, g) in vs.items():
-            Xtr.append(np.asarray(x[np.where(s == "train")[0]])), Ytr.append(y[s == "train"])
+            for _ in range(weight[name]):
+                Xtr.append(np.asarray(x[np.where(s == "train")[0]])), Ytr.append(y[s == "train"])
             Xcal.append(np.asarray(x[np.where(s == "cal")[0]])), Ycal.append(y[s == "cal"])
     xtr, ytr = np.concatenate(Xtr), np.concatenate(Ytr)
     del Xtr
