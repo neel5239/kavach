@@ -115,6 +115,29 @@ class Detector:
         return float(torch.sigmoid(self.head(torch.from_numpy(f[None].astype(np.float32))))[0])
 
     @torch.inference_mode()
+    def score_live(self, seg: np.ndarray) -> dict:
+        """Live-call scoring of the latest window, with the same noise shield as upload."""
+        raw = self.score_window(seg)
+        out = {"raw": raw, "denoised": None, "noisy": False, "score": raw}
+        if not SHIELD or raw > self.th.fake_above:
+            return out
+        from . import denoise as dn
+        x = audio.normalise(seg)
+        if dn.estimate_snr_db(x) >= dn.NOISY_BELOW_DB:
+            return out
+        out["noisy"] = True
+        try:
+            den = self.score_window(dn.denoise(x))
+        except Exception:
+            return out
+        out["denoised"] = den
+        if den > SHIELD_FAKE_ABOVE:
+            out["score"] = max(raw, den)
+        elif den > self.th.fake_above:  # weak evidence under noise: push into NOT SURE, never straight to FAKE
+            out["score"] = max(raw, (self.th.real_below + self.th.fake_above) / 2)
+        return out
+
+    @torch.inference_mode()
     def localize(self, wav: np.ndarray) -> dict | None:
         """Per-0.5 s synthetic score on the loudness-normalised (untrimmed) timeline."""
         if self.seg is None or len(wav) < audio.SR:

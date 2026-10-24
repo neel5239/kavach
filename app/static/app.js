@@ -181,7 +181,7 @@
         advice.className = "advice " + cls;
         advice.textContent = m.verdict === "FAKE" ? `Voice has looked AI-cloned for ${(m.t - fakeSince + 0.5).toFixed(1)} s. Hang up and call back on a saved number.` : (ADVICE[m.verdict] || ["", "Listening…"])[1];
       }
-      liveInfo.textContent = `${m.t.toFixed(1)} s · update ${m.ms != null ? Math.round(m.ms) + " ms" : "listening"}`;
+      liveInfo.textContent = `${m.t.toFixed(1)} s · update ${m.ms != null ? Math.round(m.ms) + " ms" : "listening"}${m.noisy ? " · noise shield on" : ""}`;
     };
     ws.onclose = () => live && liveStop("Call ended.");
     ws.onopen = () => onReady(ws);

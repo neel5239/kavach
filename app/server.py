@@ -20,6 +20,7 @@ from fastapi.responses import FileResponse, JSONResponse
 from fastapi.staticfiles import StaticFiles
 
 from kavach import audio
+from kavach.model import aggregate
 
 ROOT = Path(__file__).resolve().parents[1]
 STATIC = Path(__file__).resolve().parent / "static"
@@ -146,7 +147,9 @@ async def http_error(_req: Request, exc: HTTPException):
     return JSONResponse({"error": exc.detail}, status_code=exc.status_code)
 
 
-STREAM_WINDOW_S = 2.0
+STREAM_WINDOW_S = 4.0       # same window length as upload (more evidence than 2 s)
+STREAM_MIN_S = 1.5          # first verdict after 1.5 s of audio
+STREAM_MEMORY = 8           # call score = mean of the top half of the last 8 updates (4 s)
 STREAM_STEP_S = 0.5
 STREAM_MAX_S = 600.0          # one call is capped at 10 minutes
 STREAM_MAX_FRAME = 64 * 1024  # bytes per message
@@ -168,6 +171,7 @@ async def stream(ws: WebSocket):
         return
     buf = np.zeros(0, dtype=np.float32)
     total, pending, smoothed = 0, 0, None
+    recent: list[float] = []
     step = int(STREAM_STEP_S * audio.SR)
     win = int(STREAM_WINDOW_S * audio.SR)
     try:
@@ -185,7 +189,7 @@ async def stream(ws: WebSocket):
             if total > STREAM_MAX_S * audio.SR:
                 await ws.send_text(json.dumps({"error": "Call is longer than 10 minutes."}))
                 break
-            if pending < step or len(buf) < audio.SR:
+            if pending < step or len(buf) < int(STREAM_MIN_S * audio.SR):
                 continue
             pending = 0
             seg = buf[-win:]
@@ -198,12 +202,15 @@ async def stream(ws: WebSocket):
 
             def work(seg=seg):
                 with _lock:
-                    return det.score_window(seg)
+                    return det.score_live(seg)
 
-            s = await asyncio.to_thread(work)
-            smoothed = s if smoothed is None else 0.6 * smoothed + 0.4 * s
+            r = await asyncio.to_thread(work)
+            s = r["score"]
+            recent = (recent + [s])[-STREAM_MEMORY:]
+            smoothed = aggregate(recent)  # same top-half rule as upload, so one fake stretch is not averaged away
             v = "FAKE" if smoothed > det.th.fake_above else "REAL" if smoothed < det.th.real_below else "NOT SURE"
-            await ws.send_text(json.dumps({"t": t, "score": round(s, 4), "smoothed": round(smoothed, 4), "verdict": v, "rms": round(rms, 4),
+            await ws.send_text(json.dumps({"t": t, "score": round(s, 4), "smoothed": round(smoothed, 4), "verdict": v, "rms": round(rms, 4), "noisy": r["noisy"],
+                                           "denoised": None if r["denoised"] is None else round(r["denoised"], 4),
                                            "ms": round((time.perf_counter() - t0) * 1000, 1), "thresholds": [det.th.real_below, det.th.fake_above]}))
     except WebSocketDisconnect:
         pass

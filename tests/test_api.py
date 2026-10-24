@@ -13,6 +13,10 @@ class StubDetector:
     """Scores by pitch so tests are deterministic: high tone -> fake."""
     th = Thresholds(0.3, 0.7, 0.5)
 
+    def score_live(self, seg):
+        s = self.score_window(seg)
+        return {"raw": s, "denoised": None, "noisy": False, "score": s}
+
     def score_window(self, wav):
         f = np.abs(np.fft.rfft(wav))
         return 0.9 if np.fft.rfftfreq(len(wav), 1 / audio.SR)[f.argmax()] > 1000 else 0.1
@@ -146,7 +150,7 @@ def _stream(client, x, chunk=8000):
     with client.websocket_connect("/ws/stream", headers={"origin": "http://localhost:8320"}) as ws:
         for k in range(0, len(x), chunk):
             ws.send_bytes(x[k:k + chunk].astype(np.float32).tobytes())
-            if k + chunk >= audio.SR:
+            if k + chunk >= int(server.STREAM_MIN_S * audio.SR):
                 msgs.append(ws.receive_json())
     return msgs
 
