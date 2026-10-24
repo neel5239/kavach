@@ -32,3 +32,18 @@ def speech_seconds(wav: np.ndarray) -> float:
     except ImportError:
         act = audio.speech_activity(wav)
         return act["ratio"] * len(wav) / audio.SR if act["speech"] else 0.0
+
+
+def speech_only(wav: np.ndarray) -> tuple[np.ndarray, float]:
+    """Keep only the spoken parts of a window (pauses add noise to the score)."""
+    try:
+        import torch
+        from silero_vad import get_speech_timestamps
+        x = torch.from_numpy(np.ascontiguousarray(wav, dtype=np.float32))
+        ts = get_speech_timestamps(x, _get(), sampling_rate=audio.SR, threshold=0.5, min_speech_duration_ms=250, speech_pad_ms=60)
+        if not ts:
+            return wav[:0], 0.0
+        parts = [wav[t["start"]: t["end"]] for t in ts]
+        return np.concatenate(parts), sum(len(q) for q in parts) / audio.SR
+    except ImportError:
+        return wav, speech_seconds(wav)

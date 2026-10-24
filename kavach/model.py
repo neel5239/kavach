@@ -115,8 +115,8 @@ class Detector:
         return float(torch.sigmoid(self.head(torch.from_numpy(f[None].astype(np.float32))))[0])
 
     @torch.inference_mode()
-    def score_live(self, seg: np.ndarray) -> dict:
-        """Live-call scoring of the latest window, with the same noise shield as upload."""
+    def score_live(self, seg: np.ndarray, allow_shield_fake: bool = False) -> dict:
+        """Live-call scoring of the latest window. In live mode the noise shield can only raise NOT SURE."""
         raw = self.score_window(seg)
         out = {"raw": raw, "denoised": None, "noisy": False, "score": raw}
         if not SHIELD or raw > self.th.fake_above:
@@ -131,7 +131,7 @@ class Detector:
         except Exception:
             return out
         out["denoised"] = den
-        if den > SHIELD_FAKE_ABOVE:
+        if den > SHIELD_FAKE_ABOVE and allow_shield_fake:
             out["score"] = max(raw, den)
         elif den > self.th.fake_above:  # weak evidence under noise: push into NOT SURE, never straight to FAKE
             out["score"] = max(raw, (self.th.real_below + self.th.fake_above) / 2)

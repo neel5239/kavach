@@ -10,6 +10,7 @@ from kavach.model import Thresholds, aggregate, verdict_for
 from kavach import vad as _vad
 
 _REAL_SPEECH_SECONDS = _vad.speech_seconds  # captured before any test patches it
+_REAL_SPEECH_ONLY = _vad.speech_only
 
 
 class StubDetector:
@@ -45,6 +46,7 @@ def client(monkeypatch):
     monkeypatch.setenv("KAVACH_NO_PRELOAD", "1")
     # test tones are not human speech: treat any non-silent window as speech here (real VAD is tested separately)
     monkeypatch.setattr(server.vad, "speech_seconds", lambda w: len(w) / audio.SR if np.sqrt(np.mean(w ** 2)) > 1e-3 else 0.0)
+    monkeypatch.setattr(server.vad, "speech_only", lambda w: (w, len(w) / audio.SR) if np.sqrt(np.mean(w ** 2)) > 1e-3 else (w[:0], 0.0))
     server.set_detector(StubDetector())
     return TestClient(server.app)
 
@@ -222,6 +224,7 @@ def test_real_vad_ignores_silence_and_noise():
 
 def test_stream_noise_only_never_judged(client, monkeypatch):
     monkeypatch.setattr(server.vad, "speech_seconds", _REAL_SPEECH_SECONDS)  # real detector
+    monkeypatch.setattr(server.vad, "speech_only", _REAL_SPEECH_ONLY)
     noise = np.random.default_rng(1).normal(0, 0.05, 5 * audio.SR).astype(np.float32)
     msgs = _stream(client, noise)
     assert msgs and all(m["verdict"] == "LISTENING" for m in msgs)

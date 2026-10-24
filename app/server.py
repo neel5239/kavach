@@ -150,7 +150,9 @@ async def http_error(_req: Request, exc: HTTPException):
 
 STREAM_WINDOW_S = 4.0       # same window length as upload (more evidence than 2 s)
 STREAM_MIN_S = 1.5          # first verdict after 1.5 s of audio
-STREAM_MEMORY = 8           # call score = mean of the top half of the last 8 updates (4 s)
+STREAM_MEMORY = 6           # call score = mean of the last 6 updates (3 s): steadier than single windows
+STREAM_PERSIST = 3          # FAKE only after this many updates in a row above the live threshold (1.5 s)
+LIVE_CALIB = ROOT / "runs" / "live_calib.json"
 STREAM_MIN_SPEECH_S = 1.0   # judge a window only if it holds at least this much speech
 STREAM_FORGET_S = 6.0       # this long without speech resets the call verdict
 STREAM_STEP_S = 0.5
@@ -174,6 +176,13 @@ async def stream(ws: WebSocket):
         return
     buf = np.zeros(0, dtype=np.float32)
     total, pending, smoothed = 0, 0, None
+    # live thresholds: calibrated on real voices recorded through room/speaker/mic chains (unseen speakers)
+    try:
+        live_fake = max(det.th.fake_above, json.loads(LIVE_CALIB.read_text())["0.98"])
+    except Exception:
+        live_fake = max(det.th.fake_above, 0.7)
+    live_real = det.th.real_below
+    above = 0
     recent: list[float] = []
     last_speech_t = 0.0
     step = int(STREAM_STEP_S * audio.SR)
@@ -199,28 +208,39 @@ async def stream(ws: WebSocket):
             seg = buf[-win:]
             rms = float(np.sqrt(np.mean(seg ** 2)))
             t = round(total / audio.SR, 2)
-            sp = await asyncio.to_thread(vad.speech_seconds, audio.normalise(seg)) if rms > 1e-4 else 0.0
+            if rms > 1e-4:
+                speech, sp = await asyncio.to_thread(vad.speech_only, audio.normalise(seg))
+            else:
+                speech, sp = seg[:0], 0.0
             if sp < min(STREAM_MIN_SPEECH_S, 0.4 * len(seg) / audio.SR):  # nobody talking: never judge noise
                 if t - last_speech_t > STREAM_FORGET_S:
-                    recent, smoothed = [], None
+                    recent, smoothed, above = [], None, 0
                 await ws.send_text(json.dumps({"t": t, "score": None, "smoothed": smoothed, "verdict": "LISTENING",
                                                "rms": round(rms, 4), "speech_s": round(sp, 2)}))
                 continue
             last_speech_t = t
             t0 = time.perf_counter()
 
-            def work(seg=seg):
+            def work(seg=speech):
                 with _lock:
                     return det.score_live(seg)
 
             r = await asyncio.to_thread(work)
             s = r["score"]
             recent = (recent + [s])[-STREAM_MEMORY:]
-            smoothed = aggregate(recent)  # same top-half rule as upload, so one fake stretch is not averaged away
-            v = "FAKE" if smoothed > det.th.fake_above else "REAL" if smoothed < det.th.real_below else "NOT SURE"
+            smoothed = float(np.mean(recent))
+            above = above + 1 if smoothed > live_fake else 0
+            if above >= STREAM_PERSIST:
+                v = "FAKE"
+            elif smoothed < live_real:
+                v = "REAL"
+            elif smoothed > live_fake or smoothed > det.th.fake_above:
+                v = "NOT SURE"  # suspicious, but not yet sustained
+            else:
+                v = "REAL" if smoothed < (live_real + live_fake) / 2 else "NOT SURE"
             await ws.send_text(json.dumps({"t": t, "score": round(s, 4), "smoothed": round(smoothed, 4), "verdict": v, "rms": round(rms, 4), "noisy": r["noisy"], "speech_s": round(sp, 2),
                                            "denoised": None if r["denoised"] is None else round(r["denoised"], 4),
-                                           "ms": round((time.perf_counter() - t0) * 1000, 1), "thresholds": [det.th.real_below, det.th.fake_above]}))
+                                           "ms": round((time.perf_counter() - t0) * 1000, 1), "thresholds": [live_real, live_fake]}))
     except WebSocketDisconnect:
         pass
 
