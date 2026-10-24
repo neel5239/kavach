@@ -132,14 +132,27 @@ async def analyze(file: UploadFile = File(...)):
             raise audio.AudioError(f"Clip is {dur:.0f} s long. Use a clip of 30 seconds or less.")
         if dur < 0.3:
             raise audio.AudioError("Clip is too short. Use at least 1 second of speech.")
+        sp = vad.speech_seconds(audio.normalise(wav))
+        lvl = 20 * np.log10(float(np.sqrt(np.mean(wav ** 2))) + 1e-9)
         with _lock:  # one inference at a time per worker keeps GPU memory flat
-            return det.analyze(wav, orig_duration=dur)
+            res = det.analyze(wav, orig_duration=dur)
+        res["speech_detected_s"], res["input_level_db"] = round(sp, 2), round(lvl, 1)
+        if sp < 1.0 and res["verdict"] != "FAKE":  # cannot hear a voice clearly: never claim REAL
+            res["verdict"], res["confidence"] = "NOT SURE", 0.0
+            res["reason"] = ("Too quiet or no clear speech. Move the phone closer or turn the volume up, "
+                             "or use 'Listen to this computer' for calls on this laptop.")
+        return res
 
     try:
         result = await asyncio.to_thread(work)
     except audio.AudioError as e:
         raise HTTPException(422, str(e)) from None
     log.info("analyze dur=%.2fs verdict=%s score=%s latency=%sms", result["duration_s"], result["verdict"], result["score"], result["latency_ms"])
+    cap = ROOT / "data" / "user_tests" / "captures"
+    if (cap / "CAPTURE_ON").exists():  # opt-in local debug capture, off by default
+        import soundfile as sf
+        sf.write(cap / f"{time.strftime('%H%M%S')}_{result['verdict'].replace(' ', '_')}_{result['score']}.wav",
+                 audio.decode_bytes(data, max_seconds=MAX_SECONDS), audio.SR)
     return result
 
 

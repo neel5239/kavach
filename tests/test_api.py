@@ -228,3 +228,10 @@ def test_stream_noise_only_never_judged(client, monkeypatch):
     noise = np.random.default_rng(1).normal(0, 0.05, 5 * audio.SR).astype(np.float32)
     msgs = _stream(client, noise)
     assert msgs and all(m["verdict"] == "LISTENING" for m in msgs)
+
+
+def test_quiet_or_no_speech_upload_is_not_called_real(client, monkeypatch):
+    monkeypatch.setattr(server.vad, "speech_seconds", lambda w: 0.0)  # e.g. phone too far from the mic
+    r = post(client, wav_bytes(tone(3.0, freq=200)))
+    j = r.json()
+    assert r.status_code == 200 and j["verdict"] == "NOT SURE" and "Too quiet" in j["reason"]
