@@ -9,7 +9,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "dist" / (sys.argv[1] if len(sys.argv) > 1 else "Kavach_project.zip")
 EXCLUDE_DIRS = {".venv", "dist", "__pycache__", ".pytest_cache"}
-EXCLUDE_PREFIX = ["data/raw", "data/itw", "data/features", "data/team", "data/libri", "data/user_tests", "models/itw_quick", "models/kavach_v1", "models/kavach_seg_v1", "runs/bad.wav", "runs/denoise_val"]
+EXCLUDE_PREFIX = ["data/raw", "data/itw", "data/features", "data/team", "data/libri", "data/user_tests", "models/itw_quick", "models/kavach_v1", "models/kavach_seg_v1", "runs/bad.wav", "runs/denoise_val", "docs/hyp", "docs/build_manual.js", "docs/Kavach_Your_Steps.docx", "docs/Kavach_Your_Steps.pdf", "docs/phase-sheet.html"]
 EXCLUDE_SUFFIX = {".pyc"}
 
 
