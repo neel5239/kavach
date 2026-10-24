@@ -44,6 +44,8 @@ class StubDetector:
 @pytest.fixture
 def client(monkeypatch):
     monkeypatch.setenv("KAVACH_NO_PRELOAD", "1")
+    monkeypatch.setenv("KAVACH_NO_CAPTURE", "1")
+    monkeypatch.setattr(server.second, "p_fake", lambda w: None)  # second opinion model not needed for API tests
     # test tones are not human speech: treat any non-silent window as speech here (real VAD is tested separately)
     monkeypatch.setattr(server.vad, "speech_seconds", lambda w: len(w) / audio.SR if np.sqrt(np.mean(w ** 2)) > 1e-3 else 0.0)
     monkeypatch.setattr(server.vad, "speech_only", lambda w: (w, len(w) / audio.SR) if np.sqrt(np.mean(w ** 2)) > 1e-3 else (w[:0], 0.0))

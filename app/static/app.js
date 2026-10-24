@@ -46,6 +46,7 @@
     player.src = lastUrl;
     const fd = new FormData();
     fd.append("file", blob, name);
+    fd.append("source", name.startsWith("recording.") ? "mic" : "upload");
     try {
       const r = await fetch("/api/analyze", { method: "POST", body: fd });
       const j = await r.json().catch(() => ({ error: "Unexpected server response." }));
@@ -165,8 +166,8 @@
     liveMic.disabled = false; liveSys.disabled = false; simSel.disabled = false;
     if (msg) liveInfo.textContent = msg;
   }
-  function liveStart(onReady) {
-    const ws = new WebSocket(`${location.protocol === "https:" ? "wss" : "ws"}://${location.host}/ws/stream`);
+  function liveStart(onReady, src = "mic") {
+    const ws = new WebSocket(`${location.protocol === "https:" ? "wss" : "ws"}://${location.host}/ws/stream?src=${src}`);
     ws.binaryType = "arraybuffer";
     const points = [];
     let fakeSince = null;
@@ -200,7 +201,7 @@
     const src = ac.createMediaStreamSource(stream), node = new AudioWorkletNode(ac, "grab");
     src.connect(node);
     live = { ac, stream, btn, label };
-    live.ws = liveStart((ws) => { node.port.onmessage = (e) => ws.readyState === 1 && ws.send(e.data.buffer); });
+    live.ws = liveStart((ws) => { node.port.onmessage = (e) => ws.readyState === 1 && ws.send(e.data.buffer); }, btn === liveSys ? "sys" : "mic");
     stream.getAudioTracks().forEach((t) => (t.onended = () => liveStop("Audio sharing stopped.")));
     btn.setAttribute("aria-pressed", "true"); label.textContent = "End call";
     for (const b of [liveMic, liveSys]) if (b !== btn) b.disabled = true;
@@ -245,7 +246,7 @@
         pos = end;
         if (pos >= pcm.length) setTimeout(() => liveStop("Simulated call finished."), 600);
       }, 100);
-    });
+    }, "sim");
     liveMic.setAttribute("aria-pressed", "true"); liveLabel.textContent = "End call"; simSel.disabled = true;
     setDial("busy", "Live", "Streaming " + f.replace(/_/g, " ").replace(/\.wav$/, ""), 0);
   });

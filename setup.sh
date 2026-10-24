@@ -14,6 +14,7 @@ pip install -r requirements.txt
 pip install --no-deps -r requirements-shield.txt
 [ -f models/xlsr-300m/pytorch_model.bin ] || python -c "from huggingface_hub import snapshot_download as s; s('facebook/wav2vec2-xls-r-300m', revision='1a640f32ac3e39899438a2931f9924c02f080a54', local_dir='models/xlsr-300m', allow_patterns=['*.json','*.bin'])"
 [ -d models/torch/hub/checkpoints ] || python -c "import os; os.environ['TORCH_HOME']=os.path.abspath('models/torch'); from demucs.pretrained import get_model; get_model('htdemucs')"
+[ -f models/second_opinion/model.safetensors ] || python -c "from huggingface_hub import snapshot_download as s; s('mo-thecreator/Deepfake-audio-detection', local_dir='models/second_opinion', allow_patterns=['*.json','*.safetensors'])"
 command -v ffmpeg >/dev/null || echo "Install ffmpeg: brew install ffmpeg  (mac)  or  sudo apt install ffmpeg  (Linux)"
 python -m pytest -q tests
 echo "Setup done. Start with ./run.sh"

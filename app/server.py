@@ -15,13 +15,14 @@ import json
 import time
 
 import numpy as np
-from fastapi import FastAPI, File, HTTPException, Request, UploadFile, WebSocket, WebSocketDisconnect
+from fastapi import FastAPI, File, Form, HTTPException, Request, UploadFile, WebSocket, WebSocketDisconnect
 from fastapi.responses import FileResponse, JSONResponse
 from fastapi.staticfiles import StaticFiles
 
 from kavach import audio
 from kavach.model import aggregate
 from kavach import vad
+from kavach import second
 
 ROOT = Path(__file__).resolve().parents[1]
 STATIC = Path(__file__).resolve().parent / "static"
@@ -110,7 +111,7 @@ def health():
 
 
 @app.post("/api/analyze")
-async def analyze(file: UploadFile = File(...)):
+async def analyze(file: UploadFile = File(...), source: str = Form("upload")):
     name = (file.filename or "").lower()
     ext = os.path.splitext(name)[1]
     ctype = (file.content_type or "").lower()
@@ -137,6 +138,12 @@ async def analyze(file: UploadFile = File(...)):
         with _lock:  # one inference at a time per worker keeps GPU memory flat
             res = det.analyze(wav, orig_duration=dur)
         res["speech_detected_s"], res["input_level_db"] = round(sp, 2), round(lvl, 1)
+        if source != "mic" and sp >= 1.0 and not (res.get("noise_shield") or {}).get("active"):
+            p2 = second.p_fake(audio.normalise(wav))  # second opinion only on clean, direct audio
+            res["second_opinion"] = None if p2 is None else round(p2, 4)
+            if p2 is not None and p2 > 0.95 and res["verdict"] != "FAKE":
+                res["verdict"], res["confidence"] = "FAKE", round(p2, 3)
+                res["reason"] = "Flagged by the second detector (clean audio)."
         if sp < 1.0 and res["verdict"] != "FAKE":  # cannot hear a voice clearly: never claim REAL
             res["verdict"], res["confidence"] = "NOT SURE", 0.0
             res["reason"] = ("Too quiet or no clear speech. Move the phone closer or turn the volume up, "
@@ -149,7 +156,7 @@ async def analyze(file: UploadFile = File(...)):
         raise HTTPException(422, str(e)) from None
     log.info("analyze dur=%.2fs verdict=%s score=%s latency=%sms", result["duration_s"], result["verdict"], result["score"], result["latency_ms"])
     cap = ROOT / "data" / "user_tests" / "captures"
-    if (cap / "CAPTURE_ON").exists():  # opt-in local debug capture, off by default
+    if (cap / "CAPTURE_ON").exists() and not os.environ.get("KAVACH_NO_CAPTURE"):  # opt-in local debug capture, off by default
         import soundfile as sf
         sf.write(cap / f"{time.strftime('%H%M%S')}_{result['verdict'].replace(' ', '_')}_{result['score']}.wav",
                  audio.decode_bytes(data, max_seconds=MAX_SECONDS), audio.SR)
@@ -182,6 +189,7 @@ async def stream(ws: WebSocket):
         await ws.close(code=1008)
         return
     await ws.accept()
+    src = ws.query_params.get("src", "mic")  # mic | sys | sim ; the second opinion is only trusted off the mic
     det = get_detector()
     if det is None:
         await ws.send_text(json.dumps({"error": "The detection model is not loaded yet."}))
@@ -240,6 +248,11 @@ async def stream(ws: WebSocket):
 
             r = await asyncio.to_thread(work)
             s = r["score"]
+            p2 = None
+            if src != "mic" and not r["noisy"]:
+                p2 = await asyncio.to_thread(second.p_fake, audio.normalise(speech))
+                if p2 is not None and p2 > 0.95:
+                    s = max(s, live_fake + 0.05)
             recent = (recent + [s])[-STREAM_MEMORY:]
             smoothed = float(np.mean(recent))
             above = above + 1 if smoothed > live_fake else 0
@@ -251,7 +264,7 @@ async def stream(ws: WebSocket):
                 v = "NOT SURE"  # suspicious, but not yet sustained
             else:
                 v = "REAL" if smoothed < (live_real + live_fake) / 2 else "NOT SURE"
-            await ws.send_text(json.dumps({"t": t, "score": round(s, 4), "smoothed": round(smoothed, 4), "verdict": v, "rms": round(rms, 4), "noisy": r["noisy"], "speech_s": round(sp, 2),
+            await ws.send_text(json.dumps({"t": t, "score": round(s, 4), "smoothed": round(smoothed, 4), "verdict": v, "rms": round(rms, 4), "noisy": r["noisy"], "speech_s": round(sp, 2), "second": None if p2 is None else round(p2, 3),
                                            "denoised": None if r["denoised"] is None else round(r["denoised"], 4),
                                            "ms": round((time.perf_counter() - t0) * 1000, 1), "thresholds": [live_real, live_fake]}))
     except WebSocketDisconnect:
